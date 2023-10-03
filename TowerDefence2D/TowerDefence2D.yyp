@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Gameplay","folderPath":"folders/Objects/Gameplay.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -37,6 +38,7 @@
     {"id":{"name":"oTowerButton","path":"objects/oTowerButton/oTowerButton.yy",},},
     {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},},
     {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},},
+    {"id":{"name":"oScore","path":"objects/oScore/oScore.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
