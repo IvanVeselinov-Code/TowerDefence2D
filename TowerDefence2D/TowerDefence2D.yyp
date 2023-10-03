@@ -35,7 +35,9 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+    {"id":{"name":"Grid","path":"scripts/Grid/Grid.yy",},},
     {"id":{"name":"oTowerButton","path":"objects/oTowerButton/oTowerButton.yy",},},
+    {"id":{"name":"oGridDraw","path":"objects/oGridDraw/oGridDraw.yy",},},
     {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},},
     {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},},
     {"id":{"name":"oScore","path":"objects/oScore/oScore.yy",},},
