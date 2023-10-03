@@ -39,6 +39,7 @@
     {"id":{"name":"oTowerButton","path":"objects/oTowerButton/oTowerButton.yy",},},
     {"id":{"name":"oGridDraw","path":"objects/oGridDraw/oGridDraw.yy",},},
     {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},},
+    {"id":{"name":"sTower2","path":"sprites/sTower2/sTower2.yy",},},
     {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},},
     {"id":{"name":"oScore","path":"objects/oScore/oScore.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
