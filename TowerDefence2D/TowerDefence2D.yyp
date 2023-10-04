@@ -36,10 +36,13 @@
   },
   "resources": [
     {"id":{"name":"Grid","path":"scripts/Grid/Grid.yy",},},
+    {"id":{"name":"oEnemySpawner","path":"objects/oEnemySpawner/oEnemySpawner.yy",},},
     {"id":{"name":"oTowerButton","path":"objects/oTowerButton/oTowerButton.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
     {"id":{"name":"oGridDraw","path":"objects/oGridDraw/oGridDraw.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
+    {"id":{"name":"oEnemyDestroy","path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},},
+    {"id":{"name":"sEnemyDestroy","path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},},
     {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},},
     {"id":{"name":"sTower2","path":"sprites/sTower2/sTower2.yy",},},
     {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},},
