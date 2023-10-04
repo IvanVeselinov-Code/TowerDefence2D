@@ -19,7 +19,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"oTowerButton","order":1,"path":"objects/oTowerButton/oTowerButton.yy",},
+    {"name":"sEnemy","order":2,"path":"sprites/sEnemy/sEnemy.yy",},
     {"name":"oGridDraw","order":3,"path":"objects/oGridDraw/oGridDraw.yy",},
+    {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"sTower2","order":1,"path":"sprites/sTower2/sTower2.yy",},
     {"name":"oScore","order":2,"path":"objects/oScore/oScore.yy",},
   ],
