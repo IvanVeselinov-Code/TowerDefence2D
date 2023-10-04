@@ -8,7 +8,7 @@ else{
 if (!mouse_check_button_released(mb_left) and released = 1){
 	x = mouse_x;
 	y = mouse_y;
-	move_snap(64, 64);
+	move_snap(32, 32);
 }
 else if (released != 0){
 	if ( x > 0 and x < 1280 and y > 0 and y < 704 and collision = 0){
