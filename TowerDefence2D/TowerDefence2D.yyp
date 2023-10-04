@@ -36,6 +36,7 @@
   },
   "resources": [
     {"id":{"name":"Grid","path":"scripts/Grid/Grid.yy",},},
+    {"id":{"name":"oTowerPlacement","path":"objects/oTowerPlacement/oTowerPlacement.yy",},},
     {"id":{"name":"oEnemySpawner","path":"objects/oEnemySpawner/oEnemySpawner.yy",},},
     {"id":{"name":"oTowerButton","path":"objects/oTowerButton/oTowerButton.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
