@@ -1,3 +1,6 @@
+var nearestEnemy = noone;
+var nearestDistance = 0;
+
 if (place_meeting(x, y, oTowerButton) or place_meeting(x, y, oTower)){
 	collision = 1	
 }
@@ -22,4 +25,18 @@ else if (released != 0){
 		draw_set_alpha(1);
 		instance_destroy();
 	}
+}
+
+with (oEnemy){
+	var distance = point_distance(x, y, oEnemy.x, oEnemy.y);
+	
+	if (nearestDistance = 0 or distance < nearestDistance){
+		nearestDistance = distance;
+		nearestEnemy = id;
+	}
+}
+
+if (nearestEnemy != noone){
+	var angle = point_direction(x, y, nearestEnemy.x, nearestEnemy.y);
+	image_angle = angle;
 }
