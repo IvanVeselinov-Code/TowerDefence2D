@@ -18,6 +18,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"DestroyRanges","order":1,"path":"scripts/DestroyRanges/DestroyRanges.yy",},
     {"name":"oTowerPlacement","order":7,"path":"objects/oTowerPlacement/oTowerPlacement.yy",},
     {"name":"oEnemySpawner","order":5,"path":"objects/oEnemySpawner/oEnemySpawner.yy",},
     {"name":"oTowerButton","order":1,"path":"objects/oTowerButton/oTowerButton.yy",},
@@ -26,6 +27,7 @@
     {"name":"oArrow","order":8,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oEnemyDestroy","order":6,"path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},
+    {"name":"CreateRanges","order":2,"path":"scripts/CreateRanges/CreateRanges.yy",},
     {"name":"sEnemyDestroy","order":3,"path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},
     {"name":"sArrow","order":4,"path":"sprites/sArrow/sArrow.yy",},
     {"name":"sTower2","order":1,"path":"sprites/sTower2/sTower2.yy",},

@@ -37,5 +37,5 @@ if (mouse_check_button_pressed(mb_left) and clicked = 1){
 		clicked = 2;
 	}
 
-	if (clicked = 3) {clicked = 0; active = 0}
+	if (clicked = 2) {clicked = 0; active = 0}
 }

@@ -36,6 +36,7 @@
   },
   "resources": [
     {"id":{"name":"Grid","path":"scripts/Grid/Grid.yy",},},
+    {"id":{"name":"DestroyRanges","path":"scripts/DestroyRanges/DestroyRanges.yy",},},
     {"id":{"name":"oTowerPlacement","path":"objects/oTowerPlacement/oTowerPlacement.yy",},},
     {"id":{"name":"oEnemySpawner","path":"objects/oEnemySpawner/oEnemySpawner.yy",},},
     {"id":{"name":"oTowerButton","path":"objects/oTowerButton/oTowerButton.yy",},},
@@ -44,6 +45,7 @@
     {"id":{"name":"oArrow","path":"objects/oArrow/oArrow.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
     {"id":{"name":"oEnemyDestroy","path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},},
+    {"id":{"name":"CreateRanges","path":"scripts/CreateRanges/CreateRanges.yy",},},
     {"id":{"name":"sEnemyDestroy","path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},},
     {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},},
     {"id":{"name":"sArrow","path":"sprites/sArrow/sArrow.yy",},},

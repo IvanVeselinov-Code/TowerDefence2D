@@ -16,12 +16,14 @@ else if (released != 0){
 		instance_create_layer(mouse_x, mouse_y, "Instances", oTower)
 		oScore.gold--;
 		instance_destroy(oGridDraw);
+		DestroyRanges();
 		draw_set_alpha(1);
 		instance_destroy();
 	}
 	else{
 		instance_destroy(oGridDraw);
 		draw_set_alpha(1);
+		DestroyRanges();
 		instance_destroy();
 	}
 }
