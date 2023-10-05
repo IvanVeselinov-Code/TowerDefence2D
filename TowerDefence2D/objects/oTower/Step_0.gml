@@ -1,6 +1,7 @@
 var nearestEnemy = noone;
 var nearestDistance = 0;
 
+//Timer for when to shoot
 var second = current_second;
 
 if (second != time){
@@ -14,6 +15,8 @@ if (shootTimer = 1){
 	shootTimer = 0
 }
 
+
+//Rotating toward the enemy (change later cuz its kinda shit)
 with (oEnemy){
 	var distance = point_distance(x, y, oEnemy.x, oEnemy.y);
 	
@@ -27,3 +30,10 @@ if (nearestEnemy != noone){
 	var angle = point_direction(x, y, nearestEnemy.x, nearestEnemy.y);
 	image_angle = angle;
 }
+
+//If the left mouse button is pressed the circle dissapears
+if (mouse_check_button_pressed(mb_left) and clicked = 2){
+	clicked = 3;
+}
+
+if (clicked = 3) {clicked = 0;}
