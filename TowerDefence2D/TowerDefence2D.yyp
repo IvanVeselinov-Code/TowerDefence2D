@@ -38,7 +38,6 @@
     {"id":{"name":"Grid","path":"scripts/Grid/Grid.yy",},},
     {"id":{"name":"DestroyRanges","path":"scripts/DestroyRanges/DestroyRanges.yy",},},
     {"id":{"name":"oTowerPlacement","path":"objects/oTowerPlacement/oTowerPlacement.yy",},},
-    {"id":{"name":"Wind","path":"sprites/Wind/Wind.yy",},},
     {"id":{"name":"oEnemySpawner","path":"objects/oEnemySpawner/oEnemySpawner.yy",},},
     {"id":{"name":"oTowerButton","path":"objects/oTowerButton/oTowerButton.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
@@ -46,14 +45,9 @@
     {"id":{"name":"oArrow","path":"objects/oArrow/oArrow.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
     {"id":{"name":"oEnemyDestroy","path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},},
-<<<<<<< Updated upstream
     {"id":{"name":"CreateRanges","path":"scripts/CreateRanges/CreateRanges.yy",},},
-=======
-    {"id":{"name":"Sand","path":"sprites/Sand/Sand.yy",},},
->>>>>>> Stashed changes
     {"id":{"name":"sEnemyDestroy","path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},},
     {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},},
-    {"id":{"name":"oWind","path":"objects/oWind/oWind.yy",},},
     {"id":{"name":"sArrow","path":"sprites/sArrow/sArrow.yy",},},
     {"id":{"name":"sTower2","path":"sprites/sTower2/sTower2.yy",},},
     {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},},
