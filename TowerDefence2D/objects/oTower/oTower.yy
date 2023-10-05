@@ -39,6 +39,9 @@
     "name": "sTower2",
     "path": "sprites/sTower2/sTower2.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sTower2",
+    "path": "sprites/sTower2/sTower2.yy",
+  },
   "visible": true,
 }
