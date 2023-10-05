@@ -1,7 +1,9 @@
 draw_self();
 
-if (clicked = 1){
+if (active = 1){
 	draw_set_color(c_green);
 	draw_circle(x, y, 50, true)
-	clicked = 2;
+	clicked = 1;
 }
+
+draw_text(0, 0, string(clicked) + string(active))

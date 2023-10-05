@@ -32,8 +32,10 @@ if (nearestEnemy != noone){
 }
 
 //If the left mouse button is pressed the circle dissapears
-if (mouse_check_button_pressed(mb_left) and clicked = 2){
-	clicked = 3;
-}
+if (mouse_check_button_pressed(mb_left) and clicked = 1){
+	if (active = 1){
+		clicked = 2;
+	}
 
-if (clicked = 3) {clicked = 0;}
+	if (clicked = 3) {clicked = 0; active = 0}
+}
