@@ -1,19 +1,6 @@
 var nearestEnemy = noone;
 var nearestDistance = 0;
 
-var second = current_second;
-
-if (second != time){
-	shootTimer++;
-}
-
-time = current_second;
-
-if (shootTimer = 1){
-	instance_create_layer(x, y, "Instances", oArrow);
-	shootTimer = 0
-}
-
 with (oEnemy){
 	var distance = point_distance(x, y, oEnemy.x, oEnemy.y);
 	
@@ -26,4 +13,5 @@ with (oEnemy){
 if (nearestEnemy != noone){
 	var angle = point_direction(x, y, nearestEnemy.x, nearestEnemy.y);
 	image_angle = angle;
-}
+	move_towards_point(nearestEnemy.x, nearestEnemy.y, 8);
+};
