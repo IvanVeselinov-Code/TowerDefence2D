@@ -20,6 +20,7 @@
   "ResourceOrderSettings": [
     {"name":"DestroyRanges","order":1,"path":"scripts/DestroyRanges/DestroyRanges.yy",},
     {"name":"oTowerPlacement","order":7,"path":"objects/oTowerPlacement/oTowerPlacement.yy",},
+    {"name":"Wind","order":5,"path":"sprites/Wind/Wind.yy",},
     {"name":"oEnemySpawner","order":5,"path":"objects/oEnemySpawner/oEnemySpawner.yy",},
     {"name":"oTowerButton","order":1,"path":"objects/oTowerButton/oTowerButton.yy",},
     {"name":"sEnemy","order":2,"path":"sprites/sEnemy/sEnemy.yy",},
@@ -27,8 +28,13 @@
     {"name":"oArrow","order":8,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oEnemy","order":4,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oEnemyDestroy","order":6,"path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},
+<<<<<<< Updated upstream
     {"name":"CreateRanges","order":2,"path":"scripts/CreateRanges/CreateRanges.yy",},
+=======
+    {"name":"Sand","order":1,"path":"sprites/Sand/Sand.yy",},
+>>>>>>> Stashed changes
     {"name":"sEnemyDestroy","order":3,"path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},
+    {"name":"oWind","order":9,"path":"objects/oWind/oWind.yy",},
     {"name":"sArrow","order":4,"path":"sprites/sArrow/sArrow.yy",},
     {"name":"sTower2","order":1,"path":"sprites/sTower2/sTower2.yy",},
     {"name":"oScore","order":2,"path":"objects/oScore/oScore.yy",},

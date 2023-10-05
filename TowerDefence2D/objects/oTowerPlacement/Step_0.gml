@@ -14,7 +14,7 @@ else if (released != 0){
 	if ( x > 0 and x < 1280 and y > 0 and y < 704 and collision = 0){
 		released = 0;
 		instance_create_layer(mouse_x, mouse_y, "Instances", oTower)
-		oScore.gold--;
+		oScore.gold -= 100;
 		instance_destroy(oGridDraw);
 		DestroyRanges();
 		draw_set_alpha(1);

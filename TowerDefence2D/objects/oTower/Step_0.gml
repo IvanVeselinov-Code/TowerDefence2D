@@ -12,7 +12,8 @@ time = current_second;
 
 if (shootTimer = 1){
 	instance_create_layer(x, y, "Instances", oArrow);
-	shootTimer = 0
+	image_speed = 1;
+	shootTimer = 0;
 }
 
 
