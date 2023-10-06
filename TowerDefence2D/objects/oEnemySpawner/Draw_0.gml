@@ -1,1 +1,0 @@
-draw_path(Path1, x, y, true)

@@ -20,6 +20,7 @@
     {"name":"DestroyRanges","order":1,"path":"scripts/DestroyRanges/DestroyRanges.yy",},
     {"name":"sWind","order":5,"path":"sprites/sWind/sWind.yy",},
     {"name":"oTowerPlacement","order":7,"path":"objects/oTowerPlacement/oTowerPlacement.yy",},
+    {"name":"oMpGrid","order":12,"path":"objects/oMpGrid/oMpGrid.yy",},
     {"name":"oEnemySpawner","order":5,"path":"objects/oEnemySpawner/oEnemySpawner.yy",},
     {"name":"oTowerButton","order":1,"path":"objects/oTowerButton/oTowerButton.yy",},
     {"name":"sEnemy","order":2,"path":"sprites/sEnemy/sEnemy.yy",},

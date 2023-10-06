@@ -1,2 +1,2 @@
-instance_create_layer(192, -64, "Instances", oEnemy);
+instance_create_layer(x, y, "Instances", oEnemy);
 alarm[0] = 60;
