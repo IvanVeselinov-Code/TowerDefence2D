@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Wind",
+  "name": "oWind",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

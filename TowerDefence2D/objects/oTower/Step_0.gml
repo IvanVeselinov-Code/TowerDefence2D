@@ -11,8 +11,9 @@ if (second != time){
 time = current_second;
 
 if (shootTimer = 1){
+	image_speed = 1;
 	instance_create_layer(x, y, "Instances", oArrow);
-	shootTimer = 0
+	shootTimer = 0;
 }
 
 
