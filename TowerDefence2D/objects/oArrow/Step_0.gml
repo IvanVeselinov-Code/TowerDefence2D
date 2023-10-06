@@ -14,4 +14,4 @@ if (nearestEnemy != noone){
 	var angle = point_direction(x, y, nearestEnemy.x, nearestEnemy.y);
 	image_angle = angle;
 	move_towards_point(nearestEnemy.x, nearestEnemy.y, 8);
-};
+}
