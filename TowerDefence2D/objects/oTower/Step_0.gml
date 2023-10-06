@@ -32,11 +32,15 @@ if (nearestEnemy != noone){
 	image_angle = angle;
 }
 
+if (active = 1 and !instance_exists(oRemoveTower)){
+	instance_create_layer(x + 20, y + 20, "Instances", oRemoveTower);
+}
+
 //If the left mouse button is pressed the circle dissapears
 if (mouse_check_button_pressed(mb_left) and clicked = 1){
 	if (active = 1){
 		clicked = 2;
 	}
 
-	if (clicked = 2) {clicked = 0; active = 0}
+	if (clicked = 2) {clicked = 0; active = 0; instance_destroy(oRemoveTower)}
 }
