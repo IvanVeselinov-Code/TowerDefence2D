@@ -30,5 +30,5 @@
     "path": "sprites/sEnemyDestroy/sEnemyDestroy.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
