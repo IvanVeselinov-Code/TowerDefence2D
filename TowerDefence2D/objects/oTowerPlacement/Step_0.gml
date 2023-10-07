@@ -1,3 +1,4 @@
+
 if (place_meeting(x, y, oTowerButton) or place_meeting(x, y, oTower) or place_meeting(x, y, oEnemy)){
 	collision = 1	
 }
