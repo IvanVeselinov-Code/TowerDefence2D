@@ -46,7 +46,7 @@
   },
   "sequenceId": null,
   "views": [
-    {"hborder":32,"hport":768,"hspeed":-5,"hview":720,"inherit":false,"objectId":{"name":"oMouse","path":"objects/oMouse/oMouse.yy",},"vborder":32,"visible":true,"vspeed":-5,"wport":1366,"wview":1280,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":128,"hport":768,"hspeed":10,"hview":720,"inherit":false,"objectId":{"name":"oMouse","path":"objects/oMouse/oMouse.yy",},"vborder":128,"visible":true,"vspeed":10,"wport":1366,"wview":1280,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
