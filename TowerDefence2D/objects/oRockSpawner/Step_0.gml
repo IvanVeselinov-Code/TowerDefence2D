@@ -4,7 +4,7 @@ var ypos = irandom_range(1, 1439);
 var rockType = irandom_range(1, 2);
 var rotationRock = irandom_range(1, 4);
 
-if (rocks < 20){
+if (rocks < 40){
 	if (rockType = 1){
 		instance_create_layer(xpos, ypos, "Instances", oRock);
 		rocks++;
