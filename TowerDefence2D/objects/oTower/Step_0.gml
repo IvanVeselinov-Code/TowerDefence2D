@@ -21,16 +21,6 @@ if (collision_circle(x, y, range, oEnemy, false, false) = noone){}
 
 
 
-/*if (instance_exists(oEnemy)){
-	if (point_in_circle(oEnemy.x, oEnemy.y, x, y, range) and shootTimer >= 1){
-		image_speed = 1;
-		instance_create_layer(x, y, "Instances", oArrow);
-		shootTimer = 0;
-	}
-	else{}
-*/
-
-
 
 //Rotating toward the enemy (change later cuz its kinda shit)
 /*with (oEnemy){

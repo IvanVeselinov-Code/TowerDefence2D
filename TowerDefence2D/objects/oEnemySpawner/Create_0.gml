@@ -1,2 +1,2 @@
-enemy = 0;
-alarm[0] = 60;
+timer = 0;
+time = current_second;
