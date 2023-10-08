@@ -26,6 +26,5 @@ if(wheel != 0) {
 	
 	oTowerButton.Button_width = clamp(oTowerButton.Button_width, ButtonWidth, 128)
 	oTowerButton.Button_height = clamp(oTowerButton.Button_height, ButtonHeight, 128)*/
-	
+	camera_set_view_size(view_camera[0], cameraWidth, cameraHeight);
 }	
-camera_set_view_size(view_camera[0], cameraWidth, cameraHeight);

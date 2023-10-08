@@ -23,8 +23,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"EnemyList","order":3,"path":"scripts/EnemyList/EnemyList.yy",},
     {"name":"DestroyRanges","order":1,"path":"scripts/DestroyRanges/DestroyRanges.yy",},
     {"name":"oTowerPlacement","order":2,"path":"objects/oTowerPlacement/oTowerPlacement.yy",},
+    {"name":"oEnemies_Parent","order":4,"path":"objects/oEnemies_Parent/oEnemies_Parent.yy",},
     {"name":"oEnemySpawner","order":2,"path":"objects/oEnemySpawner/oEnemySpawner.yy",},
     {"name":"oTowerButton","order":1,"path":"objects/oTowerButton/oTowerButton.yy",},
     {"name":"sEnemy","order":1,"path":"sprites/sEnemy/sEnemy.yy",},
@@ -39,6 +41,7 @@
     {"name":"oEnemyDestroy","order":6,"path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},
     {"name":"oBiggerRock","order":1,"path":"objects/oBiggerRock/oBiggerRock.yy",},
     {"name":"oTent","order":3,"path":"objects/oTent/oTent.yy",},
+    {"name":"oEnemy2","order":5,"path":"objects/oEnemy2/oEnemy2.yy",},
     {"name":"oZoom","order":18,"path":"objects/oZoom/oZoom.yy",},
     {"name":"CreateRanges","order":2,"path":"scripts/CreateRanges/CreateRanges.yy",},
     {"name":"sEnemyDestroy","order":2,"path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},

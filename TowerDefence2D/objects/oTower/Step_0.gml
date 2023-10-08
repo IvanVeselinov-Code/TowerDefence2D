@@ -10,14 +10,24 @@ if (second != time){
 
 time = current_second;
 
-if (collision_circle(x, y, range, oEnemy, false, false) != noone){
+with (oEnemies_Parent){
+	target = false;
+}
+
+var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
+
+if (collision_circle(x, y, range, oEnemies_Parent, false, false) != noone){
+	closestEnemy.target = true;
+	var pointdir = point_direction(x, y, closestEnemy.x, closestEnemy.y);
+	image_angle += sin(degtorad(pointdir - image_angle)) * 5; 
+	
 	if (shootTimer >= 1){
 		image_speed = 1;
 		instance_create_layer(x, y, "Instances", oArrow);
 		shootTimer = 0
 	}
 }
-if (collision_circle(x, y, range, oEnemy, false, false) = noone){}
+
 
 
 
