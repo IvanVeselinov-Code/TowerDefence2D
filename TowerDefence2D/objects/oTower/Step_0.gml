@@ -14,7 +14,7 @@ with (oEnemies_Parent){
 
 var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
 
-if (collision_circle(x, y, range, oEnemies_Parent, false, false) != noone){
+if (distance_to_object(oEnemies_Parent) <= range){
 	closestEnemy.target = true;
 	var pointdir = point_direction(x, y, closestEnemy.x, closestEnemy.y);
 	image_angle += sin(degtorad(pointdir - image_angle)) * 5; 
@@ -25,7 +25,6 @@ if (collision_circle(x, y, range, oEnemies_Parent, false, false) != noone){
 		shootTimer = 0
 	}
 }
-
 
 //If the left mouse button is pressed the circle dissapears
 if (mouse_check_button_pressed(mb_left) and clicked = 1){
