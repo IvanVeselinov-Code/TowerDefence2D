@@ -1,11 +1,11 @@
 //Timer for when to shoot
-var second = current_second;
+var second = current_time;
 
 if (second != time){
 	shootTimer++;
 }
 
-time = current_second;
+time = current_time;
 
 //Shooting and Rotating
 with (oEnemies_Parent){
@@ -19,10 +19,10 @@ if (distance_to_object(oEnemies_Parent) <= range){
 	var pointdir = point_direction(x, y, closestEnemy.x, closestEnemy.y);
 	image_angle += sin(degtorad(pointdir - image_angle)) * 5; 
 	
-	if (shootTimer >= 1){
+	if (shootTimer >= 60){
 		image_speed = 1;
 		instance_create_layer(x, y, "Instances", oArrow);
-		shootTimer = 0
+		shootTimer = 0;
 	}
 }
 

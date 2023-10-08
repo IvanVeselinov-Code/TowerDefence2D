@@ -6,7 +6,7 @@ if (second != time){
 
 time = current_second;
 
-if (timer >= 3){
+if (timer >= 1){
 	var enemyType = choose(oEnemy, oEnemy2)
 	instance_create_layer(x, y, "Instances", enemyType);
 	timer = 0;

@@ -7,4 +7,3 @@ if (active = 1){
 	draw_rectangle(x - 32, y - 32, x + 32, y + 32, true);
 	clicked = 1;
 }
-
