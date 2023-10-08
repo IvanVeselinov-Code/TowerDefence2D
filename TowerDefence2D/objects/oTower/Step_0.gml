@@ -1,6 +1,3 @@
-var nearestEnemy = noone;
-var nearestDistance = range;
-
 //Timer for when to shoot
 var second = current_second;
 
@@ -10,6 +7,7 @@ if (second != time){
 
 time = current_second;
 
+//Shooting and Rotating
 with (oEnemies_Parent){
 	target = false;
 }
@@ -28,24 +26,6 @@ if (collision_circle(x, y, range, oEnemies_Parent, false, false) != noone){
 	}
 }
 
-
-
-
-
-//Rotating toward the enemy (change later cuz its kinda shit)
-/*with (oEnemy){
-	var distance = point_distance(x, y, oEnemy.x, oEnemy.y);
-	
-	if (nearestDistance = 0 or distance < nearestDistance){
-		nearestDistance = distance;
-		nearestEnemy = id;
-	}
-}
-
-if (nearestEnemy != noone){
-	var angle = point_direction(x, y, nearestEnemy.x, nearestEnemy.y);
-	image_angle = angle;
-}*/
 
 //If the left mouse button is pressed the circle dissapears
 if (mouse_check_button_pressed(mb_left) and clicked = 1){
