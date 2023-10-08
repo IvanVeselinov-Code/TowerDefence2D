@@ -23,7 +23,6 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"EnemyList","order":3,"path":"scripts/EnemyList/EnemyList.yy",},
     {"name":"DestroyRanges","order":1,"path":"scripts/DestroyRanges/DestroyRanges.yy",},
     {"name":"oTowerPlacement","order":2,"path":"objects/oTowerPlacement/oTowerPlacement.yy",},
     {"name":"oEnemies_Parent","order":4,"path":"objects/oEnemies_Parent/oEnemies_Parent.yy",},

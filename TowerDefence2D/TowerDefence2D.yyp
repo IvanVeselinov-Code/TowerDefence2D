@@ -41,7 +41,6 @@
     "IDEVersion": "2023.8.2.106",
   },
   "resources": [
-    {"id":{"name":"EnemyList","path":"scripts/EnemyList/EnemyList.yy",},},
     {"id":{"name":"Grid","path":"scripts/Grid/Grid.yy",},},
     {"id":{"name":"DestroyRanges","path":"scripts/DestroyRanges/DestroyRanges.yy",},},
     {"id":{"name":"oTowerPlacement","path":"objects/oTowerPlacement/oTowerPlacement.yy",},},
