@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sEnemyDestroy",
-    "path": "sprites/sEnemyDestroy/sEnemyDestroy.yy",
+    "name": "sHorseEnemy",
+    "path": "sprites/sHorseEnemy/sHorseEnemy.yy",
   },
   "spriteMaskId": null,
   "visible": true,

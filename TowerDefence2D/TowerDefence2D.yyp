@@ -47,6 +47,7 @@
     {"id":{"name":"oEnemies_Parent","path":"objects/oEnemies_Parent/oEnemies_Parent.yy",},},
     {"id":{"name":"oEnemySpawner","path":"objects/oEnemySpawner/oEnemySpawner.yy",},},
     {"id":{"name":"oTowerButton","path":"objects/oTowerButton/oTowerButton.yy",},},
+    {"id":{"name":"sHorseEnemy","path":"sprites/sHorseEnemy/sHorseEnemy.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
     {"id":{"name":"oMouse","path":"objects/oMouse/oMouse.yy",},},
     {"id":{"name":"oGridDraw","path":"objects/oGridDraw/oGridDraw.yy",},},

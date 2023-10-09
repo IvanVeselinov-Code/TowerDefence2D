@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"sHorseEnemy","order":1,"path":"sprites/sHorseEnemy/sHorseEnemy.yy",},
+  ],
 }
