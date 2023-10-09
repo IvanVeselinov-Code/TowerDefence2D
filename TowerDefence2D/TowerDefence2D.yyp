@@ -66,6 +66,7 @@
     {"id":{"name":"CreateRanges","path":"scripts/CreateRanges/CreateRanges.yy",},},
     {"id":{"name":"sEnemyDestroy","path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},},
     {"id":{"name":"sRock","path":"sprites/sRock/sRock.yy",},},
+    {"id":{"name":"sTowerLevel2","path":"sprites/sTowerLevel2/sTowerLevel2.yy",},},
     {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},},
     {"id":{"name":"sArrow","path":"sprites/sArrow/sArrow.yy",},},
     {"id":{"name":"sBiggerRock","path":"sprites/sBiggerRock/sBiggerRock.yy",},},
