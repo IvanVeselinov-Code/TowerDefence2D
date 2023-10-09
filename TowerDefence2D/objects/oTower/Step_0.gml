@@ -22,6 +22,7 @@ if (distance_to_object(oEnemies_Parent) <= range){
 	if (shootTimer >= 60){
 		image_speed = 1;
 		instance_create_layer(x, y, "Instances", oArrow);
+		oArrow.damage = 10;
 		shootTimer = 0;
 	}
 }
