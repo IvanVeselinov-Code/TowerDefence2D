@@ -27,11 +27,13 @@ if (distance_to_object(oEnemies_Parent) <= range){
 	}
 }
 
+
+
 //If the left mouse button is pressed the circle dissapears
-if (mouse_check_button_pressed(mb_left) and clicked = 1){
+/*if (mouse_check_button_pressed(mb_left) and clicked = 1){
 	if (active = 1){
 		clicked = 2;
 	}
 
 	if (clicked = 2) {clicked = 0; active = 0;}
-}
+}*/

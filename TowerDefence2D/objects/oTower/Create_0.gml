@@ -1,11 +1,6 @@
-shootTimer = 0;
-time = current_time;
+// Inherit the parent event
+event_inherited();
 
-clicked = 0;
-active = 0;
-
+name = "Crossbow"
 range = 200;
-attack = false;
 level = 1;
-
-image_speed = 0;

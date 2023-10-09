@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "CreateRanges",
+  "name": "Towers",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
