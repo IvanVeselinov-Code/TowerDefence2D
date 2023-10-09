@@ -45,7 +45,7 @@
     {"name":"CreateRanges","order":2,"path":"scripts/CreateRanges/CreateRanges.yy",},
     {"name":"sEnemyDestroy","order":2,"path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},
     {"name":"sRock","order":1,"path":"sprites/sRock/sRock.yy",},
-    {"name":"sArrow","order":2,"path":"sprites/sArrow/sArrow.yy",},
+    {"name":"sArrow","order":3,"path":"sprites/sArrow/sArrow.yy",},
     {"name":"sTower2","order":1,"path":"sprites/sTower2/sTower2.yy",},
     {"name":"oScore","order":2,"path":"objects/oScore/oScore.yy",},
   ],
