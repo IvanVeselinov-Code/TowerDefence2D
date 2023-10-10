@@ -1,5 +1,5 @@
 text = "Upgrade";
-color1 = c_white;
-color2 = c_red;
-text_width = string_width(text);
-text_height = string_height(text);
+width = string_width(text);
+height = string_height(text);
+hover = 0;
+script = -1;

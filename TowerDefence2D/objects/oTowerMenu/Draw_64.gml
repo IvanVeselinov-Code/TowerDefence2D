@@ -15,7 +15,7 @@ if (global.selected_tower != noone){
 		draw_text(130, 605, "Range: " + string(global.selected_tower.range));
 		draw_text(130, 625, "Speed: 1 sec");
 		
-		instance_create_layer(50, 800, "Instances", oUpgrade);
+		
 		instance_create_layer(50, 770, "Instances", oRemoveTower);
 		
 		draw_set_font(RobotoMono1);
