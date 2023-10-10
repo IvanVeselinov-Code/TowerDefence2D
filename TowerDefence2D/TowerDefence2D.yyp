@@ -83,7 +83,7 @@
     {"id":{"name":"sTower2","path":"sprites/sTower2/sTower2.yy",},},
     {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},},
     {"id":{"name":"oTowerParent","path":"objects/oTowerParent/oTowerParent.yy",},},
-    {"id":{"name":"oScore","path":"objects/oScore/oScore.yy",},},
+    {"id":{"name":"oGold","path":"objects/oGold/oGold.yy",},},
     {"id":{"name":"Towers","path":"scripts/Towers/Towers.yy",},},
     {"id":{"name":"KillSound","path":"sounds/KillSound/KillSound.yy",},},
     {"id":{"name":"sDeadEnemy","path":"sprites/sDeadEnemy/sDeadEnemy.yy",},},

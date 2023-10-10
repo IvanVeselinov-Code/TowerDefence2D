@@ -6,6 +6,7 @@ selected = false;
 
 name = noone;
 range = 200;
+fireRate = 60;
 level = 1;
 upgradePrice = 0;
 

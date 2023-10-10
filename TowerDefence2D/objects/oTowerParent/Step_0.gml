@@ -19,7 +19,7 @@ if (distance_to_object(oEnemies_Parent) <= range){
 	var pointdir = point_direction(x, y, closestEnemy.x, closestEnemy.y);
 	image_angle += sin(degtorad(pointdir - image_angle)) * 5; 
 	
-	if (shootTimer >= 60){
+	if (shootTimer >= fireRate){
 		image_speed = 1;
 		instance_create_layer(x, y, "Instances", oArrow);
 		oArrow.damage = 10;
