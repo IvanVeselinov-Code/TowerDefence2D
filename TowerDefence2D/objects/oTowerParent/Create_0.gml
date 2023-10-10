@@ -7,5 +7,6 @@ selected = false;
 name = noone;
 range = 200;
 level = 1;
+upgradePrice = 0;
 
 image_speed = 0;
