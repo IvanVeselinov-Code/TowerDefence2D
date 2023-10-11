@@ -1,3 +1,7 @@
+if (!pickupDraw){
+	pickupDraw = true;
+}
+
 if (!place_meeting(mouse_x, mouse_y, oButtonParent)){
 	if (!selected){
 		tower_select(id);

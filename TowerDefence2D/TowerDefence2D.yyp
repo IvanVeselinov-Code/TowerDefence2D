@@ -41,6 +41,7 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"oCatapult","path":"objects/oCatapult/oCatapult.yy",},},
     {"id":{"name":"sRemoveButton","path":"sprites/sRemoveButton/sRemoveButton.yy",},},
     {"id":{"name":"Grid","path":"scripts/Grid/Grid.yy",},},
     {"id":{"name":"DestroyRanges","path":"scripts/DestroyRanges/DestroyRanges.yy",},},
@@ -52,6 +53,7 @@
     {"id":{"name":"oUpgradeButton","path":"objects/oUpgradeButton/oUpgradeButton.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
     {"id":{"name":"oMouse","path":"objects/oMouse/oMouse.yy",},},
+    {"id":{"name":"Object26","path":"objects/Object26/Object26.yy",},},
     {"id":{"name":"oGridDraw","path":"objects/oGridDraw/oGridDraw.yy",},},
     {"id":{"name":"RobotoMono1","path":"fonts/RobotoMono1/RobotoMono1.yy",},},
     {"id":{"name":"Trevichka","path":"sprites/Trevichka/Trevichka.yy",},},
@@ -77,7 +79,6 @@
     {"id":{"name":"sEnemyDestroy","path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},},
     {"id":{"name":"sRock","path":"sprites/sRock/sRock.yy",},},
     {"id":{"name":"sTowerLevel2","path":"sprites/sTowerLevel2/sTowerLevel2.yy",},},
-    {"id":{"name":"oCatapult","path":"objects/oCatapult/oCatapult.yy",},},
     {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},},
     {"id":{"name":"oTowerMenu","path":"objects/oTowerMenu/oTowerMenu.yy",},},
     {"id":{"name":"sArrow","path":"sprites/sArrow/sArrow.yy",},},

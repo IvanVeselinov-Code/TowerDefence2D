@@ -27,12 +27,7 @@
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":64.0,"y":0.0,},
-    {"x":64.0,"y":64.0,},
-    {"x":0.0,"y":64.0,},
-  ],
+  "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
   "solid": true,
@@ -40,9 +35,6 @@
     "name": "sCatapult2",
     "path": "sprites/sCatapult2/sCatapult2.yy",
   },
-  "spriteMaskId": {
-    "name": "sCatapult2",
-    "path": "sprites/sCatapult2/sCatapult2.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }

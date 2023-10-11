@@ -5,7 +5,8 @@ if (selected){
 	draw_circle(x, y, range, true)
 	draw_set_color(c_red);
 	draw_rectangle(x - 32, y - 32, x + 32, y + 32, true);
-	
-	
-	//clicked = 1;
+}
+
+if (pickupDraw){
+	draw_healthbar(x - 32, y - 32, x + 32, y - 16, pickup, c_black, c_blue, c_blue, 0, true, false);
 }

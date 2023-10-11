@@ -1,8 +1,8 @@
-// Inherit the parent event
 event_inherited();
 
 name = "Catapult"
-range = 400;
-fireRate = 100;
+price = 100;
+range = 300;
+fireRate = 60;
 level = 1;
 upgradePrice = 10;

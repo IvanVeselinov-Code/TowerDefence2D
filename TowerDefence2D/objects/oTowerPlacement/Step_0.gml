@@ -1,5 +1,4 @@
-
-if (place_meeting(x, y, oTowerButton) or place_meeting(x, y, oTower) or place_meeting(x, y, oEnemy)){
+if (place_meeting(x, y, oTowerButton) or place_meeting(x, y, oTowerParent) or place_meeting(x, y, oEnemy)){
 	collision = 1	
 }
 else{
@@ -14,8 +13,8 @@ if (!mouse_check_button_released(mb_left) and released = 1){
 else if (released != 0){
 	if ( x > 0 and x < 2420 and y > 0 and y < 1440 and collision = 0){
 		released = 0;
-		instance_create_layer(x, y, "Instances", oTower)
-		oGold.gold--;
+		instance_create_layer(x, y, "Instances", tower)
+		oGold.gold -= placementPrice;
 		instance_destroy(oGridDraw);
 		DestroyRanges();
 		draw_set_alpha(1);
