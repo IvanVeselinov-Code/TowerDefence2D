@@ -2,7 +2,7 @@ event_inherited();
 
 switch(level){
 	case 1:
-		sprite_index = sCatapult;
+		sprite_index = sCatapult2;
 		range = 400;
 		upgradePrice = 10;
 		fireRate = 100;

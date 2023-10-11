@@ -37,12 +37,12 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "sCatapult",
-    "path": "sprites/sCatapult/sCatapult.yy",
+    "name": "sCatapult2",
+    "path": "sprites/sCatapult2/sCatapult2.yy",
   },
   "spriteMaskId": {
-    "name": "sCatapult",
-    "path": "sprites/sCatapult/sCatapult.yy",
+    "name": "sCatapult2",
+    "path": "sprites/sCatapult2/sCatapult2.yy",
   },
   "visible": true,
 }
