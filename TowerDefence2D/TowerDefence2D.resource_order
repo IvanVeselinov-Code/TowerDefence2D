@@ -32,6 +32,7 @@
     {"name":"oGridDraw","order":4,"path":"objects/oGridDraw/oGridDraw.yy",},
     {"name":"oWaveIndicate","order":11,"path":"objects/oWaveIndicate/oWaveIndicate.yy",},
     {"name":"oCatapultButton","order":7,"path":"objects/oCatapultButton/oCatapultButton.yy",},
+    {"name":"oQuit","order":1,"path":"objects/oQuit/oQuit.yy",},
     {"name":"oWaveManager","order":10,"path":"objects/oWaveManager/oWaveManager.yy",},
     {"name":"sCatapult","order":2,"path":"sprites/sCatapult/sCatapult.yy",},
     {"name":"oWaveText","order":9,"path":"objects/oWaveText/oWaveText.yy",},
