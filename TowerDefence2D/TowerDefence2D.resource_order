@@ -31,6 +31,7 @@
     {"name":"oCatapultButton","order":7,"path":"objects/oCatapultButton/oCatapultButton.yy",},
     {"name":"sCatapult","order":2,"path":"sprites/sCatapult/sCatapult.yy",},
     {"name":"oArrow","order":2,"path":"objects/oArrow/oArrow.yy",},
+    {"name":"oEnemies_Parent","order":1,"path":"objects/oEnemies_Parent/oEnemies_Parent.yy",},
     {"name":"sUpgradeButton","order":1,"path":"sprites/sUpgradeButton/sUpgradeButton.yy",},
     {"name":"oEnemyDestroy","order":2,"path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},
     {"name":"sCatapult2","order":1,"path":"sprites/sCatapult2/sCatapult2.yy",},
