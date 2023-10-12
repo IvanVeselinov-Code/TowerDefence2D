@@ -2,7 +2,7 @@
 event_inherited();
 
 name = "Crossbow"
-price = 10;
+price = 100;
 range = 200;
 fireRate = 60;
 level = 1;

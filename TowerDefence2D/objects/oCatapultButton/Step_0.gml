@@ -8,7 +8,7 @@ if (mouse_check_button_pressed(mb_left)){
 			instance_create_layer(mouse_x, mouse_y, "Instances", oTowerPlacement);
 			oTowerPlacement.sprite_index = sCatapult2;
 			oTowerPlacement.tower = oCatapult;
-			oTowerPlacement.placementPrice = 100;
+			oTowerPlacement.placementPrice = 300;
 			oTowerPlacement.image_speed = 0
 			instance_create_layer(0, 0, "Instances", oGridDraw);
 		}
