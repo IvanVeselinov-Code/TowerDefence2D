@@ -1,3 +1,3 @@
 timer = 0;
 time = current_second;
-wave = 0;
+wave = 1;
