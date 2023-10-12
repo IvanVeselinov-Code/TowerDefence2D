@@ -17,6 +17,8 @@
     {"name":"Sprites","order":11,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
+    {"name":"MainMenu","order":4,"path":"folders/Sprites/MainMenu.yy",},
+    {"name":"MainMenu","order":12,"path":"folders/Objects/Gameplay/MainMenu.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oCatapult","order":8,"path":"objects/oCatapult/oCatapult.yy",},
