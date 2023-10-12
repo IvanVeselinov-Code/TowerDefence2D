@@ -39,6 +39,7 @@
     {"name":"oEnemyDestroy","order":2,"path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},
     {"name":"sCatapult2","order":1,"path":"sprites/sCatapult2/sCatapult2.yy",},
     {"name":"rmMainMenu","order":1,"path":"rooms/rmMainMenu/rmMainMenu.yy",},
+    {"name":"MainMenu","order":3,"path":"sprites/MainMenu/MainMenu.yy",},
     {"name":"oZoom","order":1,"path":"objects/oZoom/oZoom.yy",},
     {"name":"oTower","order":1,"path":"objects/oTower/oTower.yy",},
     {"name":"oButtonParent","order":8,"path":"objects/oButtonParent/oButtonParent.yy",},

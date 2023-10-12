@@ -77,6 +77,7 @@
     {"id":{"name":"rmMainMenu","path":"rooms/rmMainMenu/rmMainMenu.yy",},},
     {"id":{"name":"RobotoMono2","path":"fonts/RobotoMono2/RobotoMono2.yy",},},
     {"id":{"name":"oRock","path":"objects/oRock/oRock.yy",},},
+    {"id":{"name":"MainMenu","path":"sprites/MainMenu/MainMenu.yy",},},
     {"id":{"name":"oZoom","path":"objects/oZoom/oZoom.yy",},},
     {"id":{"name":"CreateRanges","path":"scripts/CreateRanges/CreateRanges.yy",},},
     {"id":{"name":"sEnemyDestroy","path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},},
