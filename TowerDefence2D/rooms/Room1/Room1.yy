@@ -14,11 +14,11 @@
     {"name":"inst_6DE349D3","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_377D4807","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7FE7E682","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_41396C75","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_73A546D","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_EEDB207","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_9267D2B","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7F762EA5","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_41396C75","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [

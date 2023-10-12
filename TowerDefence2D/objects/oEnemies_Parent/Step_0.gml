@@ -1,7 +1,10 @@
 image_angle = direction;
 
 mp_grid_path(grid, path, x, y, oEnemyDestroy.x, oEnemyDestroy.y, false);
-if (!global.moveable) {mp_grid_add_instances(grid, oTower, false);}
+if (!global.moveable){
+	mp_grid_add_instances(grid, oTower, false);
+	mp_grid_add_instances(grid, oCatapult, false);
+}
 mp_grid_add_instances(grid, oRock, false);
 mp_grid_add_instances(grid, oBiggerRock, false);
 path_start(path, sp, path_action_stop, true)
