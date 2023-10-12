@@ -55,6 +55,7 @@
     {"id":{"name":"Object26","path":"objects/Object26/Object26.yy",},},
     {"id":{"name":"oGridDraw","path":"objects/oGridDraw/oGridDraw.yy",},},
     {"id":{"name":"RobotoMono1","path":"fonts/RobotoMono1/RobotoMono1.yy",},},
+    {"id":{"name":"oWaveIndicate","path":"objects/oWaveIndicate/oWaveIndicate.yy",},},
     {"id":{"name":"Trevichka","path":"sprites/Trevichka/Trevichka.yy",},},
     {"id":{"name":"oCatapultButton","path":"objects/oCatapultButton/oCatapultButton.yy",},},
     {"id":{"name":"oWaveManager","path":"objects/oWaveManager/oWaveManager.yy",},},

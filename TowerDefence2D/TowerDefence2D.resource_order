@@ -28,6 +28,7 @@
     {"name":"oMouse","order":3,"path":"objects/oMouse/oMouse.yy",},
     {"name":"Object26","order":1,"path":"objects/Object26/Object26.yy",},
     {"name":"oGridDraw","order":4,"path":"objects/oGridDraw/oGridDraw.yy",},
+    {"name":"oWaveIndicate","order":11,"path":"objects/oWaveIndicate/oWaveIndicate.yy",},
     {"name":"oCatapultButton","order":7,"path":"objects/oCatapultButton/oCatapultButton.yy",},
     {"name":"oWaveManager","order":10,"path":"objects/oWaveManager/oWaveManager.yy",},
     {"name":"sCatapult","order":2,"path":"sprites/sCatapult/sCatapult.yy",},
