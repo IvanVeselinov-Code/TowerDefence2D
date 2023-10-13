@@ -29,7 +29,6 @@
     {"name":"oUpgradeButton","order":5,"path":"objects/oUpgradeButton/oUpgradeButton.yy",},
     {"name":"oMouse","order":3,"path":"objects/oMouse/oMouse.yy",},
     {"name":"TimeLineLevels","order":3,"path":"rooms/TimeLineLevels/TimeLineLevels.yy",},
-    {"name":"Object26","order":1,"path":"objects/Object26/Object26.yy",},
     {"name":"oGridDraw","order":4,"path":"objects/oGridDraw/oGridDraw.yy",},
     {"name":"oWaveIndicate","order":11,"path":"objects/oWaveIndicate/oWaveIndicate.yy",},
     {"name":"Trevichka","order":1,"path":"sprites/Trevichka/Trevichka.yy",},

@@ -56,7 +56,6 @@
     {"id":{"name":"oPlay","path":"objects/oPlay/oPlay.yy",},},
     {"id":{"name":"oMouse","path":"objects/oMouse/oMouse.yy",},},
     {"id":{"name":"TimeLineLevels","path":"rooms/TimeLineLevels/TimeLineLevels.yy",},},
-    {"id":{"name":"Object26","path":"objects/Object26/Object26.yy",},},
     {"id":{"name":"oGridDraw","path":"objects/oGridDraw/oGridDraw.yy",},},
     {"id":{"name":"RobotoMono1","path":"fonts/RobotoMono1/RobotoMono1.yy",},},
     {"id":{"name":"oWaveIndicate","path":"objects/oWaveIndicate/oWaveIndicate.yy",},},
