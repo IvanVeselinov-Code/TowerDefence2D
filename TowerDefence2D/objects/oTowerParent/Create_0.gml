@@ -16,4 +16,7 @@ fireRate = 60;
 level = 1;
 upgradePrice = 0;
 
+projectile = oArrow;
+projectileDamage = 10;
+
 image_speed = 0;

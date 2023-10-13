@@ -19,6 +19,7 @@
     {"name":"MainMenu","order":4,"path":"folders/Sprites/MainMenu.yy",},
     {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
+    {"name":"Projectiles","order":10,"path":"folders/Objects/Gameplay/Towers/Projectiles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oCatapult","order":8,"path":"objects/oCatapult/oCatapult.yy",},
@@ -30,6 +31,7 @@
     {"name":"oMouse","order":3,"path":"objects/oMouse/oMouse.yy",},
     {"name":"TimeLineLevels","order":3,"path":"rooms/TimeLineLevels/TimeLineLevels.yy",},
     {"name":"oGridDraw","order":4,"path":"objects/oGridDraw/oGridDraw.yy",},
+    {"name":"oProjectileParent","order":1,"path":"objects/oProjectileParent/oProjectileParent.yy",},
     {"name":"oWaveIndicate","order":11,"path":"objects/oWaveIndicate/oWaveIndicate.yy",},
     {"name":"Trevichka","order":1,"path":"sprites/Trevichka/Trevichka.yy",},
     {"name":"oCatapultButton","order":7,"path":"objects/oCatapultButton/oCatapultButton.yy",},
@@ -37,7 +39,6 @@
     {"name":"oWaveManager","order":10,"path":"objects/oWaveManager/oWaveManager.yy",},
     {"name":"sCatapult","order":2,"path":"sprites/sCatapult/sCatapult.yy",},
     {"name":"oWaveText","order":9,"path":"objects/oWaveText/oWaveText.yy",},
-    {"name":"oArrow","order":2,"path":"objects/oArrow/oArrow.yy",},
     {"name":"oEnemies_Parent","order":1,"path":"objects/oEnemies_Parent/oEnemies_Parent.yy",},
     {"name":"sRockdamage","order":3,"path":"sprites/sRockdamage/sRockdamage.yy",},
     {"name":"sUpgradeButton","order":1,"path":"sprites/sUpgradeButton/sUpgradeButton.yy",},
@@ -54,5 +55,6 @@
     {"name":"TimeLine","order":3,"path":"sprites/TimeLine/TimeLine.yy",},
     {"name":"oTowerParent","order":9,"path":"objects/oTowerParent/oTowerParent.yy",},
     {"name":"Towers","order":1,"path":"scripts/Towers/Towers.yy",},
+    {"name":"oRockShoot","order":2,"path":"objects/oRockShoot/oRockShoot.yy",},
   ],
 }

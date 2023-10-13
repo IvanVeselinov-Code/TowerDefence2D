@@ -22,8 +22,8 @@
 	
 		if (shootTimer >= fireRate){
 			image_speed = 1;
-			instance_create_layer(x, y, "Instances", oArrow);
-			oArrow.damage = 10;
+			instance_create_layer(x, y, "Instances", projectile);
+			projectile.damage = 10;
 			shootTimer = 0;
 		}
 	}

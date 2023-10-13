@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oArrow",
+  "name": "oRockShoot",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sArrow",
-    "path": "sprites/sArrow/sArrow.yy",
+    "name": "sRockdamage",
+    "path": "sprites/sRockdamage/sRockdamage.yy",
   },
   "spriteMaskId": null,
   "visible": true,

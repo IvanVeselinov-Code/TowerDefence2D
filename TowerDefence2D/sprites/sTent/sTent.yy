@@ -67,8 +67,8 @@
   "swatchColours": null,
   "swfPrecision": 2.525,
   "textureGroupId": {
-    "name": "Default",
-    "path": "texturegroups/Default",
+    "name": "enemies",
+    "path": "texturegroups/enemies",
   },
   "type": 0,
   "VTile": false,
