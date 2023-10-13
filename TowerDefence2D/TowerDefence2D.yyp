@@ -69,6 +69,7 @@
     {"id":{"name":"oArrow","path":"objects/oArrow/oArrow.yy",},},
     {"id":{"name":"oEnemies_Parent","path":"objects/oEnemies_Parent/oEnemies_Parent.yy",},},
     {"id":{"name":"sTent","path":"sprites/sTent/sTent.yy",},},
+    {"id":{"name":"sRockdamage","path":"sprites/sRockdamage/sRockdamage.yy",},},
     {"id":{"name":"sUpgradeButton","path":"sprites/sUpgradeButton/sUpgradeButton.yy",},},
     {"id":{"name":"oDeadEnemy","path":"objects/oDeadEnemy/oDeadEnemy.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
