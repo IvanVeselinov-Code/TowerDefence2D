@@ -23,7 +23,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4fbe2316-1f45-45b9-99ee-08b313480651","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 9,
+  "origin": 4,
   "parent": {
     "name": "Towers",
     "path": "folders/Sprites/Towers.yy",
@@ -60,7 +60,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 16,
-    "yorigin": 4,
+    "yorigin": 7,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
