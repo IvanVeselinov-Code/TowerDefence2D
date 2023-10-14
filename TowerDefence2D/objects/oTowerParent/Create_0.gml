@@ -11,7 +11,8 @@ pickupDraw = false;
 
 name = noone;
 price = 0;
-range = 200;
+minrange = 1;
+maxrange = 200;
 fireRate = 60;
 level = 1;
 upgradePrice = 0;

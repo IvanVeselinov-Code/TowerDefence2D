@@ -15,7 +15,7 @@
 
 	var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
 
-	if (distance_to_object(oEnemies_Parent) <= range){
+	if (distance_to_object(oEnemies_Parent) <= maxrange){
 		closestEnemy.target = true;
 		var pointdir = point_direction(x, y, closestEnemy.x, closestEnemy.y);
 		image_angle += sin(degtorad(pointdir - image_angle)) * 5; 
