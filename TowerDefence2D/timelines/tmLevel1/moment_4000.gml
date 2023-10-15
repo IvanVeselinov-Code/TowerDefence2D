@@ -1,1 +1,2 @@
-instance_create_layer(oEnemySpawner.x, oEnemySpawner.y, "Instances", oEnemy);
+global.wave++;
+instance_create_layer(0, 0, "Instances", oWaveText);
