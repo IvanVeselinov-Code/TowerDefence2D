@@ -79,6 +79,7 @@
     {"id":{"name":"oEnemyDestroy","path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},},
     {"id":{"name":"oBiggerRock","path":"objects/oBiggerRock/oBiggerRock.yy",},},
     {"id":{"name":"oTent","path":"objects/oTent/oTent.yy",},},
+    {"id":{"name":"oTimer","path":"objects/oTimer/oTimer.yy",},},
     {"id":{"name":"oEnemy2","path":"objects/oEnemy2/oEnemy2.yy",},},
     {"id":{"name":"sCatapult2","path":"sprites/sCatapult2/sCatapult2.yy",},},
     {"id":{"name":"tmLevel1","path":"timelines/tmLevel1/tmLevel1.yy",},},

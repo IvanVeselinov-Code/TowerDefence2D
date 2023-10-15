@@ -43,6 +43,7 @@
     {"name":"sRockdamage","order":3,"path":"sprites/sRockdamage/sRockdamage.yy",},
     {"name":"sUpgradeButton","order":1,"path":"sprites/sUpgradeButton/sUpgradeButton.yy",},
     {"name":"oEnemyDestroy","order":2,"path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},
+    {"name":"oTimer","order":13,"path":"objects/oTimer/oTimer.yy",},
     {"name":"sCatapult2","order":1,"path":"sprites/sCatapult2/sCatapult2.yy",},
     {"name":"rmMainMenu","order":2,"path":"rooms/rmMainMenu/rmMainMenu.yy",},
     {"name":"sTrojanButton","order":2,"path":"sprites/sTrojanButton/sTrojanButton.yy",},
