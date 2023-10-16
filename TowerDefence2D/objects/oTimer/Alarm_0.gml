@@ -14,5 +14,6 @@ if !(sec = 0 and mins = 0 and mil = 0){
 	alarm[0] = 6;
 }
 else{
+	oEnemySpawner.running = true;
 	instance_destroy();
 }

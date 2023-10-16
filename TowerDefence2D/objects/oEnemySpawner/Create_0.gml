@@ -6,6 +6,7 @@ spawnedEnemies = 0;
 killedEnemies = 0;
 */
 
+running = true;
 timeline_index = tmLevel1;
 timeline_running = true;
 timeline_speed = 1;

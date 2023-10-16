@@ -30,6 +30,6 @@ switch(oWaveManager.wave){
 }
 */
 
-if (!instance_exists(oEnemies_Parent)){
+if (!instance_exists(oEnemies_Parent) and running){
 	timeline_running = true;	
 }
