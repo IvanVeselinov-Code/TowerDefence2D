@@ -1,7 +1,7 @@
 var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
 
 if (closestEnemy != noone) {
-	if (follow_enemy and idk){
+	if (follow_enemy and idk and instance_exists(closestEnemyStart)){
 		direction = point_direction(x, y, closestEnemyStart.x, closestEnemyStart.y);
 		speed = sp;
 	}

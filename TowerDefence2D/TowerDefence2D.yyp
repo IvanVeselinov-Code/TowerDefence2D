@@ -104,6 +104,7 @@
     {"id":{"name":"sArrow","path":"sprites/sArrow/sArrow.yy",},},
     {"id":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},},
     {"id":{"name":"oRemoveButton","path":"objects/oRemoveButton/oRemoveButton.yy",},},
+    {"id":{"name":"sCatapultLevel2","path":"sprites/sCatapultLevel2/sCatapultLevel2.yy",},},
     {"id":{"name":"sBiggerRock","path":"sprites/sBiggerRock/sBiggerRock.yy",},},
     {"id":{"name":"TimeLine","path":"sprites/TimeLine/TimeLine.yy",},},
     {"id":{"name":"sTower2","path":"sprites/sTower2/sTower2.yy",},},
