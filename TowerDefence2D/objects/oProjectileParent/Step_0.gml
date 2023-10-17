@@ -5,7 +5,8 @@ if (closestEnemy != noone) {
 		move_towards_point(closestEnemy.x, closestEnemy.y, sp);
 	}
 	else if (!follow_enemy){
-		move_towards_point(closestEnemy.x, closestEnemy.y, sp);
+		direction = image_angle;
+		//move_towards_point(closestEnemyStart.x, closestEnemyStart.y, sp);
 		//move_towards_point(target.x, target.y, sp);
 		//target = noone;
 	}

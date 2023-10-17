@@ -42,6 +42,7 @@
     {"name":"Trojan1stLvlButton","order":3,"path":"objects/Trojan1stLvlButton/Trojan1stLvlButton.yy",},
     {"name":"oEnemies_Parent","order":1,"path":"objects/oEnemies_Parent/oEnemies_Parent.yy",},
     {"name":"sRockdamage","order":3,"path":"sprites/sRockdamage/sRockdamage.yy",},
+    {"name":"oRockShoot","order":2,"path":"objects/oRockShoot/oRockShoot.yy",},
     {"name":"sUpgradeButton","order":1,"path":"sprites/sUpgradeButton/sUpgradeButton.yy",},
     {"name":"oEnemyDestroy","order":2,"path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},
     {"name":"TroJanMap","order":4,"path":"rooms/TroJanMap/TroJanMap.yy",},
@@ -60,6 +61,5 @@
     {"name":"TimeLine","order":3,"path":"sprites/TimeLine/TimeLine.yy",},
     {"name":"oTowerParent","order":9,"path":"objects/oTowerParent/oTowerParent.yy",},
     {"name":"Towers","order":1,"path":"scripts/Towers/Towers.yy",},
-    {"name":"oRockShoot","order":2,"path":"objects/oRockShoot/oRockShoot.yy",},
   ],
 }
