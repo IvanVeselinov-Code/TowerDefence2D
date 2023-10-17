@@ -1,1 +1,1 @@
-draw_text(10, 10, string(timeline_running));
+//draw_text(10, 10, string(timeline_running));

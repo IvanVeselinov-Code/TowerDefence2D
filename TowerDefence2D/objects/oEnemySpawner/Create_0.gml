@@ -4,7 +4,7 @@ time = current_second;
 wave = 0;
 spawnedEnemies = 0;
 killedEnemies = 0;
-*/
+
 
 running = true;
 timeline_index = tmLevel1;

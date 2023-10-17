@@ -14,6 +14,6 @@ if !(sec = 0 and mins = 0 and mil = 0){
 	alarm[0] = 6;
 }
 else{
-	oEnemySpawner.running = true;
+	global.progressWaves = true;
 	instance_destroy();
 }
