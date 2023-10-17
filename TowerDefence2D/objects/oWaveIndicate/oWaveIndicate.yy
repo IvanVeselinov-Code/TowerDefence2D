@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Waves",
-    "path": "folders/Objects/Gameplay/Waves.yy",
+    "name": "Gameplay",
+    "path": "folders/Objects/Gameplay.yy",
   },
   "parentObjectId": null,
   "persistent": false,
