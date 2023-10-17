@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Gameplay",
-    "path": "folders/Objects/Gameplay.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Gameplay/Enemies.yy",
   },
   "parentObjectId": null,
   "persistent": false,
