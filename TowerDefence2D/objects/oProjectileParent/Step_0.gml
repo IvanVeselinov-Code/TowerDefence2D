@@ -1,11 +1,14 @@
 var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
 
 if (closestEnemy != noone) {
-	if (follow_enemy){
-		move_towards_point(closestEnemy.x, closestEnemy.y, sp);
+	if (follow_enemy and idk){
+		direction = point_direction(x, y, closestEnemyStart.x, closestEnemyStart.y);
+		speed = sp;
 	}
-	else if (!follow_enemy){
-		direction = image_angle;
+	else if (!follow_enemy and idk){
+		direction = point_direction(x, y, closestEnemyStart.x + 15, closestEnemyStart.y + 15);
+		speed = sp;
+		idk = false;
 		//move_towards_point(closestEnemyStart.x, closestEnemyStart.y, sp);
 		//move_towards_point(target.x, target.y, sp);
 		//target = noone;

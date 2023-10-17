@@ -6,11 +6,11 @@ with(oEnemies_Parent){
 	var distance = point_distance(x, y, xpose, ypose);
 	
 	if (distance < 70){
-		hp -= 30;
+		hp -= 1;
 		instance_destroy(oRockShoot);
 	}
 	else if (distance < 100){
-		hp -= 10;
+		hp -= 1;
 		instance_destroy(oRockShoot);
 	}
 }
