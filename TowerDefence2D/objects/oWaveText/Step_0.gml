@@ -7,5 +7,6 @@ if (second != time){
 time = current_second;
 
 if (timer = 4){
+	t = "";
 	instance_destroy();
 }

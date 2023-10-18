@@ -15,3 +15,6 @@ text += ".";
 text += string(mil);
 
 draw_text(640, 100, text);
+
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);

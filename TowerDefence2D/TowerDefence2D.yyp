@@ -110,6 +110,7 @@
     {"id":{"name":"oRemoveButton","path":"objects/oRemoveButton/oRemoveButton.yy",},},
     {"id":{"name":"sCatapultLevel2","path":"sprites/sCatapultLevel2/sCatapultLevel2.yy",},},
     {"id":{"name":"sBiggerRock","path":"sprites/sBiggerRock/sBiggerRock.yy",},},
+    {"id":{"name":"oEnemySpawner2","path":"objects/oEnemySpawner2/oEnemySpawner2.yy",},},
     {"id":{"name":"TimeLine","path":"sprites/TimeLine/TimeLine.yy",},},
     {"id":{"name":"sTower2","path":"sprites/sTower2/sTower2.yy",},},
     {"id":{"name":"sTower","path":"sprites/sTower/sTower.yy",},},

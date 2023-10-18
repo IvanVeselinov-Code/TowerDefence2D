@@ -66,6 +66,7 @@
     {"name":"oButtonParent","order":10,"path":"objects/oButtonParent/oButtonParent.yy",},
     {"name":"oRemoveButton","order":5,"path":"objects/oRemoveButton/oRemoveButton.yy",},
     {"name":"sCatapultLevel2","order":4,"path":"sprites/sCatapultLevel2/sCatapultLevel2.yy",},
+    {"name":"oEnemySpawner2","order":7,"path":"objects/oEnemySpawner2/oEnemySpawner2.yy",},
     {"name":"TimeLine","order":3,"path":"sprites/TimeLine/TimeLine.yy",},
     {"name":"oTowerParent","order":8,"path":"objects/oTowerParent/oTowerParent.yy",},
     {"name":"Towers","order":1,"path":"scripts/Towers/Towers.yy",},
