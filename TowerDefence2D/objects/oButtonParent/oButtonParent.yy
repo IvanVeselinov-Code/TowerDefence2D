@@ -13,8 +13,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Towers",
-    "path": "folders/Objects/Gameplay/Towers.yy",
+    "name": "Gameplay",
+    "path": "folders/Objects/Gameplay.yy",
   },
   "parentObjectId": null,
   "persistent": false,
