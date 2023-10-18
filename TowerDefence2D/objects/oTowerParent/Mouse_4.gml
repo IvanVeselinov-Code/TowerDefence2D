@@ -1,4 +1,4 @@
-if (!pickupDraw){
+if (!pickupDraw and global.pausePhase){
 	pickupDraw = true;
 }
 

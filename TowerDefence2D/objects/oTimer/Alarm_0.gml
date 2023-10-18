@@ -16,6 +16,7 @@ if !(sec = 0 and mins = 0 and mil = 0){
 else{
 	instance_create_layer(0, 0, "Instances", oWaveText);
 	global.progressWaves = true;
+	global.pausePhase = false;
 	oWaveManager.alarm[0] = room_speed * 4;
 	instance_destroy();
 }

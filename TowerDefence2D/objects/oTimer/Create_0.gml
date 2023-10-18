@@ -1,3 +1,5 @@
+global.pausePhase = true;
+
 mins = 0;
 sec = 10;
 mil = 0;
