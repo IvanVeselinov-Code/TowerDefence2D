@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Trevichka",
+    "path": "folders/Rooms/Trevichka.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
