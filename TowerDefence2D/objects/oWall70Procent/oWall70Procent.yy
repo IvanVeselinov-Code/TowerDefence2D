@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oRock",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "oWall70Procent",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "RocksOrTree",
-    "path": "folders/Objects/Gameplay/RocksOrTree.yy",
+    "name": "Walls",
+    "path": "folders/Objects/Gameplay/Walls.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,11 +24,8 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
-  "spriteId": {
-    "name": "sRock",
-    "path": "sprites/sRock/sRock.yy",
-  },
+  "solid": false,
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

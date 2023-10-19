@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oRock",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "Tree",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,10 +24,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "sRock",
-    "path": "sprites/sRock/sRock.yy",
+    "name": "Wood01",
+    "path": "sprites/Wood01/Wood01.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Rocks",
-    "path": "folders/Objects/Gameplay/Rocks.yy",
+    "name": "RocksOrTree",
+    "path": "folders/Objects/Gameplay/RocksOrTree.yy",
   },
   "parentObjectId": null,
   "persistent": false,

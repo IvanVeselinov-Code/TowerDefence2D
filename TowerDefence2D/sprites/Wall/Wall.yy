@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Trevichka",
+  "name": "Wall",
   "bbox_bottom": 1547,
   "bbox_left": 0,
-  "bbox_right": 2451,
+  "bbox_right": 233,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"75f019c1-5d7d-4340-b055-e0508a124daa",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b489ba0a-3246-4476-9059-39c4b15ba5d5",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 1548,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"947bf05f-eea0-4d06-bf6e-64755880773c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"68f1132a-e3e7-424c-b170-5a858da72e2e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Trevichka",
+    "name": "Wall",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"75f019c1-5d7d-4340-b055-e0508a124daa","path":"sprites/Trevichka/Trevichka.yy",},},},"Disabled":false,"id":"1970245b-fd0f-4164-a79c-96d47eb2b57c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b489ba0a-3246-4476-9059-39c4b15ba5d5","path":"sprites/Wall/Wall.yy",},},},"Disabled":false,"id":"411ae00e-66b5-4aab-9633-3150148e9ff7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 2452,
+  "width": 234,
 }
