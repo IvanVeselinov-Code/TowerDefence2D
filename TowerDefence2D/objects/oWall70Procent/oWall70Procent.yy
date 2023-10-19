@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Wall70Procent",
+    "path": "sprites/Wall70Procent/Wall70Procent.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
