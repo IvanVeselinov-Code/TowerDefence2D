@@ -115,6 +115,7 @@
     {"id":{"name":"sRock","path":"sprites/sRock/sRock.yy",},},
     {"id":{"name":"EasyTownTrojan","path":"sprites/EasyTownTrojan/EasyTownTrojan.yy",},},
     {"id":{"name":"sTowerLevel2","path":"sprites/sTowerLevel2/sTowerLevel2.yy",},},
+    {"id":{"name":"Trojan2stLvlButton","path":"objects/Trojan2stLvlButton/Trojan2stLvlButton.yy",},},
     {"id":{"name":"oTower","path":"objects/oTower/oTower.yy",},},
     {"id":{"name":"oTowerMenu","path":"objects/oTowerMenu/oTowerMenu.yy",},},
     {"id":{"name":"sArrow","path":"sprites/sArrow/sArrow.yy",},},

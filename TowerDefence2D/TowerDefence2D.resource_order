@@ -74,6 +74,7 @@
     {"name":"sTrojan1stLevel","order":5,"path":"sprites/sTrojan1stLevel/sTrojan1stLevel.yy",},
     {"name":"oWall0Procent","order":3,"path":"objects/oWall0Procent/oWall0Procent.yy",},
     {"name":"EasyTownTrojan","order":4,"path":"sprites/EasyTownTrojan/EasyTownTrojan.yy",},
+    {"name":"Trojan2stLvlButton","order":5,"path":"objects/Trojan2stLvlButton/Trojan2stLvlButton.yy",},
     {"name":"oTower","order":1,"path":"objects/oTower/oTower.yy",},
     {"name":"TimeLineLevels","order":5,"path":"rooms/TimeLineLevels/TimeLineLevels.yy",},
     {"name":"oButtonParent","order":9,"path":"objects/oButtonParent/oButtonParent.yy",},
