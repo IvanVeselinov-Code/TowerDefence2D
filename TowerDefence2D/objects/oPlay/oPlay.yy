@@ -12,7 +12,7 @@
   ],
   "parent": {
     "name": "MainMenu",
-    "path": "folders/Objects/Gameplay/MainMenu.yy",
+    "path": "folders/Objects/MainMenu.yy",
   },
   "parentObjectId": {
     "name": "oButtonParent",
