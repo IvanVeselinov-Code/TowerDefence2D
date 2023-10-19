@@ -17,12 +17,18 @@ if (instance_exists(oEnemies_Parent)){
 var towerCount = instance_number(oTowerParent);
 
 if (instance_exists(oTowerParent)){
-	for (var o = 0; o < towerCount; o++){
-		var towerID = instance_find(oTowerParent, o);
-		var xpos2 = x_pos + towerID.x * xscale;
-		var ypos2 = y_pos + towerID.y * yscale;
-		draw_circle_color(xpos2, ypos2, 3, c_blue, c_blue, false);
+	for (var i = 0; i < towerCount; i++){
+		var towerID = instance_find(oTowerParent, i);
+		var xpos = x_pos + towerID.x * xscale;
+		var ypos = y_pos + towerID.y * yscale;
+		draw_circle_color(xpos, ypos, 3, c_blue, c_blue, false);
 	}
+}
+
+if (instance_exists(oEnemyDestroy)){
+	var xpos = x_pos + oEnemyDestroy.x * xscale;
+	var ypos = y_pos + oEnemyDestroy.y * yscale;
+	draw_rectangle_color(xpos, ypos, xpos + 5, ypos + 5, c_yellow, c_yellow, c_yellow, c_yellow, false);
 }
 
 draw_set_alpha(1);
