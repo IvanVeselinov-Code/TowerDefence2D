@@ -18,5 +18,6 @@ else{
 	global.progressWaves = true;
 	global.pausePhase = false;
 	oWaveManager.alarm[0] = room_speed * 4;
+	if (instance_exists(oSkipButton)) {instance_destroy(oSkipButton);}
 	instance_destroy();
 }
