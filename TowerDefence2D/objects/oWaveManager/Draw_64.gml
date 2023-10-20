@@ -1,3 +1,4 @@
+/*
 draw_text(15, 15, "spawn_amount - " + string(spawn_amount));
 draw_text(15, 40, "spawn_count - " + string(spawn_count));
 draw_text(15, 65, "spawn_rate - " + string(global.spawn_rate));

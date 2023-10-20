@@ -1,15 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oEnemyDestroy",
+  "name": "oHealthBarFrame",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oEnemies_Parent","path":"objects/oEnemies_Parent/oEnemies_Parent.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Gameplay/Enemies.yy",
+    "name": "Gameplay",
+    "path": "folders/Objects/Gameplay.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,9 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sEnemyDestroy",
-    "path": "sprites/sEnemyDestroy/sEnemyDestroy.yy",
+    "name": "sHealthBarFrame",
+    "path": "sprites/sHealthBarFrame/sHealthBarFrame.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
