@@ -1,1 +1,2 @@
-//instance_destroy();
+oHealthBar.hp -= dmg;
+instance_destroy();

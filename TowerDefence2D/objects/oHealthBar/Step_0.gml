@@ -1,2 +1,2 @@
 
-followhp = lerp(followhp, hp, 0.01);
+followhp = lerp(followhp, hp, 0.05);
