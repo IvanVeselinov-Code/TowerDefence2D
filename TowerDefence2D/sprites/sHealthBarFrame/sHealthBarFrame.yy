@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sHealthBarFrame",
-  "bbox_bottom": 49,
+  "bbox_bottom": 61,
   "bbox_left": 0,
-  "bbox_right": 399,
+  "bbox_right": 424,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4e2e4500-caa1-4296-8069-d559433b2d41",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"97bb0cda-2518-4863-a0b5-18ed5a84a376",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 50,
+  "height": 70,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"264f4c9e-a704-4c21-8c33-882881071157","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3496140f-9ff3-410a-995e-47a7830b25c8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4e2e4500-caa1-4296-8069-d559433b2d41","path":"sprites/sHealthBarFrame/sHealthBarFrame.yy",},},},"Disabled":false,"id":"37c4853e-a28b-425b-bce1-584e44d779f5","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"97bb0cda-2518-4863-a0b5-18ed5a84a376","path":"sprites/sHealthBarFrame/sHealthBarFrame.yy",},},},"Disabled":false,"id":"af6981b1-cb9b-4dfe-813f-f47b4f7210ec","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 400,
+  "width": 425,
 }
