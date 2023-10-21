@@ -2,7 +2,7 @@
 
 
 draw_healthbar(x, y, x + 385, y + 36, (followhp / maxhp) * 100, c_black, c_red, c_red, 0, true, false);
-draw_healthbar(x, y, x + 385, y + 36, (hp / maxhp) * 100, c_black, c_red, c_lime, 0, false, false);
+draw_healthbar(x, y, x + 385, y + 36, (hp / maxhp) * 100, c_black, c_red, c_green, 0, false, false);
 
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);
