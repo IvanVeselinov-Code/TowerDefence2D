@@ -6,7 +6,7 @@ if (closestEnemy != noone) {
 		speed = sp;
 	}
 	else if (!follow_enemy and idk){
-		direction = point_direction(x, y, closestEnemyStart.x + 15, closestEnemyStart.y + 15);
+		if (instance_exists(closestEnemyStart)) {direction = point_direction(x, y, closestEnemyStart.x + 15, closestEnemyStart.y + 15);}
 		speed = sp;
 		idk = false;
 		//move_towards_point(closestEnemyStart.x, closestEnemyStart.y, sp);
