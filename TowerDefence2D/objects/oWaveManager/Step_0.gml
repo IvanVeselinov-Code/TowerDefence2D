@@ -10,6 +10,8 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 	global.progressWaves = false;
 	global.wave++;
 	
+	global.progress += 10;
+	
 	if (!instance_exists(oTimer)) {instance_create_layer(0, 0, "Instances", oTimer);}
 	if (!instance_exists(oSkipButton)) {instance_create_layer(640, 150, "Instances", oSkipButton);}
 	

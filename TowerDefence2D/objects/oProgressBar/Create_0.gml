@@ -1,0 +1,1 @@
+followProgress = global.progress;

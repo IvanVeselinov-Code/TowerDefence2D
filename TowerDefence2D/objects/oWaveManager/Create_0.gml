@@ -5,6 +5,10 @@ global.spawn_rate = room_speed * 4;
 enemy_type = noone;
 path = "one";
 pathToFollow = path;
+
+global.progress = 0;
+global.maxProgress = 30;
+
 alarm[0] = global.spawn_rate;
 
 /*

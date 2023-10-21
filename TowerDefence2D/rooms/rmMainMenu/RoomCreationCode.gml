@@ -6,3 +6,5 @@ global.progressWaves = true;
 global.lastEnemy = noone;
 global.spawn_rate = 0;
 global.pausePhase = false;
+global.progress = 0;
+global.maxProgress = 0;

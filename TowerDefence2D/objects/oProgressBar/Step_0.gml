@@ -1,0 +1,1 @@
+followProgress = lerp(followProgress, global.progress, 0.1);
