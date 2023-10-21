@@ -1,4 +1,6 @@
 hp = 100;
+followhp = 100;
+maxhp = 100;
 sp = 3;
 dmg = 50;
 image_speed = 0.3;

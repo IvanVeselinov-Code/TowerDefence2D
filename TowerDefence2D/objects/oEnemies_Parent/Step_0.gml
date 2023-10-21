@@ -1,5 +1,7 @@
 image_angle = direction;
 
+followhp = lerp(followhp, hp, 0.1);
+
 mp_grid_path(grid, path, x, y, oEnemyDestroy.x, oEnemyDestroy.y, false);
 if (!global.moveable){
 	mp_grid_add_instances(grid, oTower, false);
