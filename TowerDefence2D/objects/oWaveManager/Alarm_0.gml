@@ -27,11 +27,11 @@ switch(global.wave){
 	break;
 }
 
-if (path = "one" or path = "two" or path = "all"){
+if (path = "one" or path = "two" or path = "all" or path = "three"){
 	pathToFollow = path;
 }
 else if (path = "random"){
-	pathToFollow = choose("one", "two");
+	pathToFollow = choose("one", "two", "three");
 }
 
 if (spawn_count < spawn_amount and global.progressWaves){
@@ -43,9 +43,13 @@ if (spawn_count < spawn_amount and global.progressWaves){
 	else if (pathToFollow = "two"){
 		instance_create_layer(oEnemySpawner2.x, oEnemySpawner2.y, "Instances", enemy_type);
 	}
+	else if (pathToFollow = "three"){
+		instance_create_layer(oEnemySpawner3.x, oEnemySpawner3.y, "Instances", enemy_type);
+	}
 	else if (pathToFollow = "all"){
 		instance_create_layer(oEnemySpawner.x, oEnemySpawner.y, "Instances", enemy_type);
 		instance_create_layer(oEnemySpawner2.x, oEnemySpawner2.y, "Instances", enemy_type);
+		instance_create_layer(oEnemySpawner3.x, oEnemySpawner3.y, "Instances", enemy_type);
 	}
 	
 	oTent.image_speed = 1;
