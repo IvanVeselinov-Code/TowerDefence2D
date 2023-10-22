@@ -6,42 +6,36 @@ switch(global.wave){
 		global.spawn_rate = room_speed * 4;
 		enemy_type = oEnemy1Level;
 		path = "one";
-		oGold.gold += 100;
 	break;
 	case 2:
 		spawn_amount = 10;
 		global.spawn_rate = room_speed * 1;
 		enemy_type = choose(oEnemy1Level, oEnemy2Level);
 		path = "1and2";
-		oGold.gold += 100;
 	break;
 	case 3:
 		spawn_amount = 10;
 		global.spawn_rate = room_speed * 1;
 		enemy_type = oEnemy2Level;
 		path = "one";
-		oGold.gold += 100;
 	break;
 	case 4:
 		spawn_amount = 20;
 		global.spawn_rate = room_speed * 1;
 		enemy_type = choose(oEnemy2Level, oEnemy1Level);
 		path = "1and2";
-		oGold.gold += 100;
 	break;
 	case 5:
 		spawn_amount = 5;
 		global.spawn_rate = room_speed * 1;
 		enemy_type = choose(oEnemyOnHorse2Level);
 		path = "three";
-		oGold.gold += 100;
 	break;
 	default:
 		spawn_amount = 5;
 		global.spawn_rate = room_speed * 4;
 		enemy_type = oEnemy2Level;																																											
 		path = "one";
-		oGold.gold += 100;
 	break;
 }
 
