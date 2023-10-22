@@ -11,25 +11,8 @@ if (!mouse_check_button_released(mb_left) and released = 1){
 	move_snap(32, 32);
 }
 
-if (oGold.gold > 0){if (released != 0){
-	
-	if ( x > 0 and x < 2420 and y > 0 and y < 1440 and collision = 0){
-		released = 0;
-		instance_create_layer(x, y, "Instances", tower)
-		oGold.gold -= placementPrice;
-		instance_destroy(oGridDraw);
-		DestroyRanges();
-		draw_set_alpha(1);
-		instance_destroy();
-	}
-	else{
-		instance_destroy(oGridDraw);
-		draw_set_alpha(1);
-		DestroyRanges();
-		instance_destroy();
-	}
-}}
-/*else if (released != 0){
+
+else if (released != 0){
 	
 	if ( x > 0 and x < 2420 and y > 0 and y < 1440 and collision = 0){
 		released = 0;
