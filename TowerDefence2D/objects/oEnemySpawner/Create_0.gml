@@ -1,12 +1,3 @@
-/*timer = 0;
-time = current_second;
-
-wave = 0;
-spawnedEnemies = 0;
-killedEnemies = 0;
-
-
-running = true;
-timeline_index = tmLevel1;
-timeline_running = true;
-timeline_speed = 1;
+grid = mp_grid_create(0, 0, room_width div 32, room_height div 32, 32, 32);
+path = path_add();
+mp_grid_path(grid, path, x, y, oEnemyDestroy.x, oEnemyDestroy.y, false);
