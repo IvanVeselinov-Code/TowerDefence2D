@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oEnemy2",
+  "name": "oEnemyOnHorse2Level",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sHorseEnemy",
-    "path": "sprites/sHorseEnemy/sHorseEnemy.yy",
+    "name": "sHorseEnemy2level",
+    "path": "sprites/sHorseEnemy2level/sHorseEnemy2level.yy",
   },
   "spriteMaskId": null,
   "visible": true,

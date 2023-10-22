@@ -1,6 +1,6 @@
 if (global.moveable and pickup >= 100){
 	
-	if (place_meeting(x, y, oTowerButton) or place_meeting(x, y, oTowerParent) or place_meeting(x, y, oEnemy)){
+	if (place_meeting(x, y, oTowerButton) or place_meeting(x, y, oTowerParent) or place_meeting(x, y, oEnemy2Level)){
 		collision = 1	
 	}
 	else{

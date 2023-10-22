@@ -4,25 +4,25 @@ switch(global.wave){
 	case 1:
 		spawn_amount = 5;
 		global.spawn_rate = room_speed * 4;
-		enemy_type = oEnemy;
+		enemy_type = oEnemy1Level;
 		path = "one";
 	break;
 	case 2:
 		spawn_amount = 10;
 		global.spawn_rate = room_speed * 1;
-		enemy_type = choose(oEnemy, oEnemy2);
+		enemy_type = choose(oEnemy1Level, oEnemy2Level);
 		path = "all";
 	break;
 	case 3:
 		spawn_amount = 5;
 		global.spawn_rate = room_speed * 1;
-		enemy_type = choose(oEnemy, oEnemy2);
+		enemy_type = choose(oEnemy2Level, oEnemyOnHorse2Level);
 		path = "random";
 	break;
 	default:
 		spawn_amount = 5;
 		global.spawn_rate = room_speed * 4;
-		enemy_type = oEnemy;
+		enemy_type = oEnemy2Level;																																											
 		path = "one";
 	break;
 }
