@@ -1,3 +1,5 @@
 event_inherited();
-
-sp = 4
+maxhp = 50;
+followhp = 50;
+hp = 50;
+sp = 4;
