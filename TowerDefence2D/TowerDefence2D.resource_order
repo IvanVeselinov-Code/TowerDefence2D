@@ -30,6 +30,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Room3","order":11,"path":"rooms/Room3/Room3.yy",},
+    {"name":"oRock1","order":2,"path":"objects/oRock1/oRock1.yy",},
     {"name":"oDownWall70Procent","order":5,"path":"objects/oDownWall70Procent/oDownWall70Procent.yy",},
     {"name":"oCatapult","order":7,"path":"objects/oCatapult/oCatapult.yy",},
     {"name":"Wall70Procent","order":2,"path":"sprites/Wall70Procent/Wall70Procent.yy",},
@@ -44,6 +45,7 @@
     {"name":"oWall30Procent","order":2,"path":"objects/oWall30Procent/oWall30Procent.yy",},
     {"name":"oTimeLine","order":4,"path":"objects/oTimeLine/oTimeLine.yy",},
     {"name":"Room2","order":10,"path":"rooms/Room2/Room2.yy",},
+    {"name":"sRock1","order":1,"path":"sprites/sRock1/sRock1.yy",},
     {"name":"oMouse","order":1,"path":"objects/oMouse/oMouse.yy",},
     {"name":"oGridDraw","order":1,"path":"objects/oGridDraw/oGridDraw.yy",},
     {"name":"oProjectileParent","order":1,"path":"objects/oProjectileParent/oProjectileParent.yy",},
