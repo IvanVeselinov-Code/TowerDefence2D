@@ -6,28 +6,46 @@ switch(global.wave){
 		global.spawn_rate = room_speed * 4;
 		enemy_type = oEnemy1Level;
 		path = "one";
+		oGold.gold += 100;
 	break;
 	case 2:
 		spawn_amount = 10;
 		global.spawn_rate = room_speed * 1;
 		enemy_type = choose(oEnemy1Level, oEnemy2Level);
-		path = "all";
+		path = "1and2";
+		oGold.gold += 100;
 	break;
 	case 3:
+		spawn_amount = 10;
+		global.spawn_rate = room_speed * 1;
+		enemy_type = oEnemy2Level;
+		path = "one";
+		oGold.gold += 100;
+	break;
+	case 4:
+		spawn_amount = 20;
+		global.spawn_rate = room_speed * 1;
+		enemy_type = choose(oEnemy2Level, oEnemy1Level);
+		path = "1and2";
+		oGold.gold += 100;
+	break;
+	case 5:
 		spawn_amount = 5;
 		global.spawn_rate = room_speed * 1;
-		enemy_type = choose(oEnemy2Level, oEnemyOnHorse2Level);
-		path = "random";
+		enemy_type = choose(oEnemyOnHorse2Level);
+		path = "three";
+		oGold.gold += 100;
 	break;
 	default:
 		spawn_amount = 5;
 		global.spawn_rate = room_speed * 4;
 		enemy_type = oEnemy2Level;																																											
 		path = "one";
+		oGold.gold += 100;
 	break;
 }
 
-if (path = "one" or path = "two" or path = "all" or path = "three"){
+if (path = "one" or path = "two" or path = "1and2" or path = "three"){
 	pathToFollow = path;
 }
 else if (path = "random"){
@@ -46,10 +64,9 @@ if (spawn_count < spawn_amount and global.progressWaves){
 	else if (pathToFollow = "three"){
 		instance_create_layer(oEnemySpawner3.x, oEnemySpawner3.y, "Instances", enemy_type);
 	}
-	else if (pathToFollow = "all"){
+	else if (pathToFollow = "1and2"){
 		instance_create_layer(oEnemySpawner.x, oEnemySpawner.y, "Instances", enemy_type);
 		instance_create_layer(oEnemySpawner2.x, oEnemySpawner2.y, "Instances", enemy_type);
-		instance_create_layer(oEnemySpawner3.x, oEnemySpawner3.y, "Instances", enemy_type);
 	}
 	
 	oTent.image_speed = 1;
