@@ -3,6 +3,9 @@ followhp = 100;
 maxhp = 100;
 sp = 3;
 dmg = 50;
+
+reset_path = false;
+
 image_speed = 0.3;
 
 grid = mp_grid_create(0, 0, room_width div 32, room_height div 32, 32, 32);

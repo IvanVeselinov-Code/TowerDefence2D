@@ -1,6 +1,8 @@
-if (pickupDraw and global.pausePhase){
-	pickup += 2;
-}
+
+	if (pickupDraw and global.pausePhase){
+		pickup += 2;
+	}
+
 
 if (pickup >= 100){
 	pickupDraw = false;
