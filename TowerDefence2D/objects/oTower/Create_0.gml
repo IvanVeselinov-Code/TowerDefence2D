@@ -1,8 +1,6 @@
 // Inherit the parent event
 event_inherited();
 
-blockPath = false;
-
 name = "Crossbow"
 price = 100;
 minrange = 1;

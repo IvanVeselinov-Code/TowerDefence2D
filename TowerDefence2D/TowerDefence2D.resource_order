@@ -85,6 +85,7 @@
     {"name":"sEnemy1level","order":2,"path":"sprites/sEnemy1level/sEnemy1level.yy",},
     {"name":"sTrojanButton","order":2,"path":"sprites/sTrojanButton/sTrojanButton.yy",},
     {"name":"TrojanButton","order":2,"path":"objects/TrojanButton/TrojanButton.yy",},
+    {"name":"oIfPathBlocked","order":15,"path":"objects/oIfPathBlocked/oIfPathBlocked.yy",},
     {"name":"oEnemySpawner3","order":11,"path":"objects/oEnemySpawner3/oEnemySpawner3.yy",},
     {"name":"MainMenu","order":1,"path":"sprites/MainMenu/MainMenu.yy",},
     {"name":"DownWall70Procent","order":6,"path":"sprites/DownWall70Procent/DownWall70Procent.yy",},

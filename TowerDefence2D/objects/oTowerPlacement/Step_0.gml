@@ -12,7 +12,10 @@ if (!mouse_check_button_released(mb_left) and released = 1){
 }
 else if ( x > 0 and x < 2420 and y > 0 and y < 1440 and collision = 0){
 	released = 0;
-	instance_create_layer(x, y, "Instances", tower)
+	
+	var towerPlace = instance_create_layer(x, y, "Instances", tower)
+	oIfPathBlocked.lastObject = towerPlace.id;
+	
 	oGold.gold -= placementPrice;
 	instance_destroy(oGridDraw);
 	DestroyRanges();

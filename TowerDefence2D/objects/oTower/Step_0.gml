@@ -14,13 +14,3 @@ switch(level){
 		fireRate = 30;
 	break;
 }
-
-
-if (!mp_grid_path(oEnemySpawner.grid, oEnemySpawner.path, oEnemySpawner.x, oEnemySpawner.y, oEnemyDestroy.x, oEnemyDestroy.y, false)){
-	blockPath = true;
-}
-
-if (blockPath){
-	blockPath = false;
-	instance_destroy(self);
-}

@@ -1,0 +1,1 @@
+lastObject = noone;

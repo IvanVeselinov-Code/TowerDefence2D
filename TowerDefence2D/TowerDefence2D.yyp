@@ -120,6 +120,7 @@
     {"id":{"name":"sEnemy1level","path":"sprites/sEnemy1level/sEnemy1level.yy",},},
     {"id":{"name":"sTrojanButton","path":"sprites/sTrojanButton/sTrojanButton.yy",},},
     {"id":{"name":"TrojanButton","path":"objects/TrojanButton/TrojanButton.yy",},},
+    {"id":{"name":"oIfPathBlocked","path":"objects/oIfPathBlocked/oIfPathBlocked.yy",},},
     {"id":{"name":"oEnemySpawner3","path":"objects/oEnemySpawner3/oEnemySpawner3.yy",},},
     {"id":{"name":"oRock","path":"objects/oRock/oRock.yy",},},
     {"id":{"name":"MainMenu","path":"sprites/MainMenu/MainMenu.yy",},},

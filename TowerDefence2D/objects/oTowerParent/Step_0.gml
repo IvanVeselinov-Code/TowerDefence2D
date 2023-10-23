@@ -12,25 +12,6 @@ if (global.moveable and pickup >= 100){
 		y = mouse_y;
 		move_snap(32, 32);
 	}
-	else if (released != 0){
-		if ( x > 0 and x < 2420 and y > 0 and y < 1440 and collision = 0){
-			released = 0;
-			instance_create_layer(x, y, "Instances", tower)
-			oGold.gold -= placementPrice;
-			instance_destroy(oGridDraw);
-			DestroyRanges();
-			draw_set_alpha(1);
-			tower_deselect();
-			instance_destroy();
-		}
-		else{
-			instance_destroy(oGridDraw);
-			draw_set_alpha(1);
-			DestroyRanges();
-			tower_deselect();
-			instance_destroy();
-		}
-	}
 }
 
 if (!global.moveable){

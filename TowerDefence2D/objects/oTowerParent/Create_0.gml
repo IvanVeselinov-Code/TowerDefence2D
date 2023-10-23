@@ -1,6 +1,8 @@
 shootTimer = 0;
 time = current_time;
 
+ID = id;
+
 released = 1
 collision = 0
 
