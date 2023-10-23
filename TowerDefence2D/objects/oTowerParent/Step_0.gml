@@ -1,17 +1,16 @@
-if (global.moveable and pickup >= 100){
-	
-	if (place_meeting(x, y, oTowerButton) or place_meeting(x, y, oTowerParent) or place_meeting(x, y, oEnemy2Level)){
-		collision = 1	
-	}
-	else{
-		collision = 0
-	}
+if (global.pausePhase and global.moveable and pickup >= 100){
+if (place_meeting(x, y, oTowerButtonParent) or place_meeting(x, y, oTowerParent) or place_meeting(x, y, oEnemies_Parent)){
+	collision = 1	
+}
+else{
+	collision = 0
+}
 
-	if (!mouse_check_button_released(mb_left) and released = 1){
-		x = mouse_x;
-		y = mouse_y;
-		move_snap(32, 32);
-	}
+if (!mouse_check_button_released(mb_left) and released = 1){
+	x = mouse_x;
+	y = mouse_y;
+	move_snap(32, 32);
+}
 }
 
 if (!global.moveable){

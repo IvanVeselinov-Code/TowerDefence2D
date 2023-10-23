@@ -1,20 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oTower",
+  "name": "oCrossbowButton",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
-  "managed": true,
+  "managed": false,
   "overriddenProperties": [],
   "parent": {
     "name": "Towers",
     "path": "folders/Objects/Gameplay/Towers.yy",
   },
   "parentObjectId": {
-    "name": "oTowerParent",
-    "path": "objects/oTowerParent/oTowerParent.yy",
+    "name": "oTowerButtonParent",
+    "path": "objects/oTowerButtonParent/oTowerButtonParent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -27,22 +26,14 @@
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":64.0,"y":0.0,},
-    {"x":64.0,"y":64.0,},
-    {"x":0.0,"y":64.0,},
-  ],
+  "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "sTower2",
-    "path": "sprites/sTower2/sTower2.yy",
+    "name": "sTower",
+    "path": "sprites/sTower/sTower.yy",
   },
-  "spriteMaskId": {
-    "name": "sTower2",
-    "path": "sprites/sTower2/sTower2.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }

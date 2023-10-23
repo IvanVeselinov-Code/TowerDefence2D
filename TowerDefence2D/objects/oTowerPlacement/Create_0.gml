@@ -5,6 +5,6 @@ blockPath = false;
 sprite = noone;
 placementLevel = 0;
 placementPrice = 0;
-tower = oTower;
+tower = oCrossbow;
 
 CreateRanges();

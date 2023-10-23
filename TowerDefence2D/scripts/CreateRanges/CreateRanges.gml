@@ -1,5 +1,5 @@
 function CreateRanges(){
-	with(oTower){
-		if (instance_exists(oTower)) {oTower.active = 1;}
+	with(oCrossbow){
+		if (instance_exists(oCrossbow)) {oCrossbow.active = 1;}
 	}
 }

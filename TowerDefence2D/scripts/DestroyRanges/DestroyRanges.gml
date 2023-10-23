@@ -1,3 +1,3 @@
 function DestroyRanges(){
-	if (instance_exists(oTower)) {oTower.active = 0;}
+	if (instance_exists(oCrossbow)) {oCrossbow.active = 0;}
 }

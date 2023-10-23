@@ -1,3 +1,5 @@
+event_inherited();
 
-Button_width = 64;
-Button_height = 64;
+sprite = sCatapult2;
+tower = oCatapult;
+placementPrice = 300;

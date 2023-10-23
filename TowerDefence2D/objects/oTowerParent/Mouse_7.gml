@@ -4,17 +4,24 @@ if (pickupDraw){
 	pickupDraw = false;
 }
 
-
-if ( x > 0 and x < 2420 and y > 0 and y < 1440 and !place_meeting(x, y, oTowerButton) and !place_meeting(x, y, oTower) and !place_meeting(x, y, oEnemy2Level)){
-	oIfPathBlocked.lastObject = id;
-	global.moveable = false;
+if (!global.pausePhase){
+	if (x > 0 and x < 2420 and y > 0 and y < 1440 and !place_meeting(x, y, oCrossbowButton) and !place_meeting(x, y, oCrossbow) and !place_meeting(x, y, oEnemy2Level)){
+		global.moveable = false;
 	
-	tower_deselect();
-	if (global.selected_tower != noone){
-		global.selected_tower = noone;
+		draw_set_alpha(1);
+		instance_destroy(oGridDraw);
 	}
+}
+else{
+	if (x > 0 and x < 2420 and y > 0 and y < 1440 and !place_meeting(x, y, oCrossbowButton) and !place_meeting(x, y, oCrossbow) and !place_meeting(x, y, oEnemy2Level)){
+		global.moveable = false;
+		pickup = 0;
+		oIfPathBlocked.lastObject = id;
+		
+		tower_deselect();
+		global.selected_tower = noone;
 	
-	draw_set_alpha(1);
-	instance_destroy(oGridDraw);
-
+		draw_set_alpha(1);
+		instance_destroy(oGridDraw);
+	}
 }
