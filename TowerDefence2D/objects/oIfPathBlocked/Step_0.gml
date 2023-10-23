@@ -1,13 +1,5 @@
-if (!mp_grid_path(oEnemySpawner.grid, oEnemySpawner.path, oEnemySpawner.x, oEnemySpawner.y, oEnemyDestroy.x, oEnemyDestroy.y, false) and
-
-lastObject != noone
-
-){
+if (!mp_grid_path(oEnemySpawnerParent.grid, oEnemySpawnerParent.path, oEnemySpawnerParent.x, oEnemySpawnerParent.y, oEnemyDestroy.x, oEnemyDestroy.y, false)){
+	mp_grid_clear_all(oEnemySpawnerParent.grid);
 	instance_destroy(lastObject);
-	
-	with(oEnemies_Parent){
-		reset_path = true;
-	}
-	
 	lastObject = noone;
 }
