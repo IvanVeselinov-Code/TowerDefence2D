@@ -1,14 +1,9 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
-
-
-
-
-
-
-
-// Inherit the parent event
-event_inherited();
+mp_grid_clear_all(grid);
+mp_grid_path(grid, path, x, y, oEnemyDestroy.x, oEnemyDestroy.y, false);
+if (!global.moveable){
+	mp_grid_add_instances(grid, oTowerParent, false);
+}
+mp_grid_add_instances(grid, oRock, false);
+mp_grid_add_instances(grid, oBiggerRock, false);
+mp_grid_add_instances(grid, oRock1, false);
 
