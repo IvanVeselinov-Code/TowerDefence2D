@@ -119,6 +119,7 @@
     {"id":{"name":"RobotoMono2","path":"fonts/RobotoMono2/RobotoMono2.yy",},},
     {"id":{"name":"sEnemy1level","path":"sprites/sEnemy1level/sEnemy1level.yy",},},
     {"id":{"name":"sTrojanButton","path":"sprites/sTrojanButton/sTrojanButton.yy",},},
+    {"id":{"name":"oEnemySpawnerParent","path":"objects/oEnemySpawnerParent/oEnemySpawnerParent.yy",},},
     {"id":{"name":"TrojanButton","path":"objects/TrojanButton/TrojanButton.yy",},},
     {"id":{"name":"oIfPathBlocked","path":"objects/oIfPathBlocked/oIfPathBlocked.yy",},},
     {"id":{"name":"oEnemySpawner3","path":"objects/oEnemySpawner3/oEnemySpawner3.yy",},},

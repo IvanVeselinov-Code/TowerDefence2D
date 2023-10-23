@@ -84,6 +84,7 @@
     {"name":"rmMainMenu","order":2,"path":"rooms/rmMainMenu/rmMainMenu.yy",},
     {"name":"sEnemy1level","order":2,"path":"sprites/sEnemy1level/sEnemy1level.yy",},
     {"name":"sTrojanButton","order":2,"path":"sprites/sTrojanButton/sTrojanButton.yy",},
+    {"name":"oEnemySpawnerParent","order":12,"path":"objects/oEnemySpawnerParent/oEnemySpawnerParent.yy",},
     {"name":"TrojanButton","order":2,"path":"objects/TrojanButton/TrojanButton.yy",},
     {"name":"oIfPathBlocked","order":15,"path":"objects/oIfPathBlocked/oIfPathBlocked.yy",},
     {"name":"oEnemySpawner3","order":11,"path":"objects/oEnemySpawner3/oEnemySpawner3.yy",},
