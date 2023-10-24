@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Gold",
-    "path": "folders/Objects/Gameplay/Gold.yy",
+    "name": "Currencies",
+    "path": "folders/Objects/Gameplay/CurrencyAndBars(HealthProgress)/Currencies.yy",
   },
   "parentObjectId": null,
   "persistent": false,

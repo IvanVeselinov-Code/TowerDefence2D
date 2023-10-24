@@ -11,8 +11,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},"propertyId":{"name":"text","path":"objects/oButtonParent/oButtonParent.yy",},"value":"PLAY",},
   ],
   "parent": {
-    "name": "MainMenu",
-    "path": "folders/Objects/MainMenu.yy",
+    "name": "Buttons",
+    "path": "folders/Objects/MainMenuAndButtons/Buttons.yy",
   },
   "parentObjectId": {
     "name": "oButtonParent",

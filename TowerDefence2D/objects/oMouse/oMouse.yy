@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Gameplay",
-    "path": "folders/Objects/Gameplay.yy",
+    "name": "MapAndZoom",
+    "path": "folders/Objects/Gameplay/MapAndZoom.yy",
   },
   "parentObjectId": null,
   "persistent": false,

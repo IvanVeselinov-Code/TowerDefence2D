@@ -9,6 +9,8 @@ if (!global.moveable){
 mp_grid_add_instances(grid, oRock, false);
 mp_grid_add_instances(grid, oBiggerRock, false);
 mp_grid_add_instances(grid, oRock1, false);
+mp_grid_add_instances(grid, oDownWall, false);
+mp_grid_add_instances(grid, oWall, false);
 path_start(path, sp, path_action_stop, true)
 
 if (reset_path){

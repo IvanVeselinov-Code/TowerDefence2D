@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Gameplay",
-    "path": "folders/Objects/Gameplay.yy",
+    "name": "Bars",
+    "path": "folders/Objects/Gameplay/CurrencyAndBars(HealthProgress)/Bars.yy",
   },
   "parentObjectId": null,
   "persistent": false,

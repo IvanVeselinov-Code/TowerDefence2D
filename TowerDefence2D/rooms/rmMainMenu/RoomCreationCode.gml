@@ -8,3 +8,5 @@ global.spawn_rate = 0;
 global.pausePhase = false;
 global.progress = 0;
 global.maxProgress = 0;
+global.level = rmMainMenu;
+global.timecoins = 0;
