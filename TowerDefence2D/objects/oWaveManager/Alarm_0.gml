@@ -10,7 +10,7 @@ switch(global.wave){
 	case 2:
 		spawn_amount = 10;
 		global.spawn_rate = room_speed * 1;
-		enemy_type = choose(oEnemy1Level, oEnemy2Level);
+		enemy_type = choose(oEnemy1Level, oEnemyOnHorse2Level);
 		path = "1and2";
 	break;
 	case 3:
