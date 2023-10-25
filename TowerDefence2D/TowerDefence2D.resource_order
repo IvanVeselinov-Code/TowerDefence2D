@@ -77,6 +77,7 @@
     {"name":"Wall","order":1,"path":"sprites/Wall/Wall.yy",},
     {"name":"oRestart","order":3,"path":"objects/oRestart/oRestart.yy",},
     {"name":"oEnemy4Level","order":16,"path":"objects/oEnemy4Level/oEnemy4Level.yy",},
+    {"name":"HealingParticle","order":15,"path":"objects/HealingParticle/HealingParticle.yy",},
     {"name":"oEnemyDestroy","order":6,"path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},
     {"name":"TroJanMap","order":4,"path":"rooms/TroJanMap/TroJanMap.yy",},
     {"name":"oEnemySpawner2","order":13,"path":"objects/oEnemySpawner2/oEnemySpawner2.yy",},

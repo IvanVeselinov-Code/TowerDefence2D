@@ -1,20 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oEnemy4Level",
+  "name": "HealingParticle",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Enemies",
-    "path": "folders/Objects/Gameplay/Enemies.yy",
+    "name": "Gameplay",
+    "path": "folders/Objects/Gameplay.yy",
   },
-  "parentObjectId": {
-    "name": "oEnemies_Parent",
-    "path": "objects/oEnemies_Parent/oEnemies_Parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -30,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "sEnemy4Level",
-    "path": "sprites/sEnemy4Level/sEnemy4Level.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
