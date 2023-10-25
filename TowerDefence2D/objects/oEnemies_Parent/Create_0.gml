@@ -1,6 +1,10 @@
 hp = 100;
 followhp = 100;
 maxhp = 100;
+armor = 100;
+followarmor = 100;
+maxarmor = 100;
+
 sp = 3;
 dmg = 50;
 
