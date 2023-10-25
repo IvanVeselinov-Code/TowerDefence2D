@@ -4,7 +4,7 @@ switch(global.wave){
 	case 1:
 		spawn_amount = 5;
 		global.spawn_rate = room_speed * 1;
-		enemy_type = oEnemy1Level;
+		enemy_type = oEnemy4Level;
 		path = "one";
 		prize = 100;
 		prizeTimecoins = 1;

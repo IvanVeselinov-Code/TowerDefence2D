@@ -1,2 +1,2 @@
-time = 0;
+/*time = 0;
 healing_particle = noone;
