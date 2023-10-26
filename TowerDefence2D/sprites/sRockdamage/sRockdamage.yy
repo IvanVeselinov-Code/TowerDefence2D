@@ -37,8 +37,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Towers",
-    "path": "folders/Sprites/Towers.yy",
+    "name": "Catapult",
+    "path": "folders/Sprites/Towers/Catapult.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

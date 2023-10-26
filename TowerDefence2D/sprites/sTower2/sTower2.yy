@@ -55,8 +55,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "Towers",
-    "path": "folders/Sprites/Towers.yy",
+    "name": "XboW",
+    "path": "folders/Sprites/Towers/XboW.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

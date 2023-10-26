@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite37",
-    "path": "sprites/Sprite37/Sprite37.yy",
+    "name": "sGoBack",
+    "path": "sprites/sGoBack/sGoBack.yy",
   },
   "spriteMaskId": null,
   "visible": true,
