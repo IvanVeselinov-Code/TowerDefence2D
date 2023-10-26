@@ -10,4 +10,6 @@ armor = 0;
 healing_particle = noone;
 
 sp = 3;
-time = 0;
+
+time = current_time;
+healTimer = 0;

@@ -2,7 +2,14 @@ image_angle = direction;
 
 followhp = lerp(followhp, hp, 0.1);
 
-time += 1;
+var second = current_time;
+
+	if (second != time){
+		healTimer++;
+	}
+
+	time = current_time;
+
 
 mp_grid_path(grid, path, x, y, oEnemyDestroy.x, oEnemyDestroy.y, false);
 if (!global.moveable){
@@ -18,13 +25,13 @@ if (hp <= 0){
 	audio_play_sound(KillSound, 10, false);
 	instance_destroy();
 }
-if (time >= 100){
+if (healTimer >= 180){
 	healing_particle = part_system_create(ParticleSystem1);
 	part_system_position(healing_particle, oEnemy4Level.x, oEnemy4Level.y);
 	
-	if(time >= 110){
+	if(healTimer >= 300){
 	part_system_destroy(healing_particle);
-	time = 0;
+	healTimer = 0;
 	}
 }
 
