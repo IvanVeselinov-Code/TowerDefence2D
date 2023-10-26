@@ -1,6 +1,6 @@
 
 if (pickupDraw and global.pausePhase){
-	pickup += 2;
+	pickup += 3;
 }
 
 
