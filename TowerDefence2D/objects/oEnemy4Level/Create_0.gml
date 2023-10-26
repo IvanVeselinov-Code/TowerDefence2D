@@ -1,15 +1,15 @@
 event_inherited();
-maxhp = 100;
-followhp = 100;
-hp = 100;
 
-maxarmor = 0;
-followarmor= 0;
+hp = 50;
+followhp = 50;
+maxhp = 50;
+
 armor = 0;
-
-healing_particle = noone;
+followarmor = 0;
+maxarmor = 0;
 
 sp = 3;
 
-time = current_time;
-healTimer = 0;
+
+timer = 0;
+time = current_second;

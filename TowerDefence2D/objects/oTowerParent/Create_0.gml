@@ -1,8 +1,8 @@
 shootTimer = 0;
 time = current_time;
 
-released = 1
-collision = 0
+released = 1;
+collision = 0;
 
 spriteWidth = sprite_get_width(sprite_index);
 spriteHeight = sprite_get_height(sprite_index);

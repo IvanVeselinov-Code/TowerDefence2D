@@ -1,16 +1,9 @@
 if (global.pausePhase and global.moveable and pickup >= 100){
-if (place_meeting(x, y, oTowerButtonParent) or place_meeting(x, y, oTowerParent) or place_meeting(x, y, oEnemies_Parent)){
-	collision = 1	
-}
-else{
-	collision = 0
-}
-
-if (!mouse_check_button_released(mb_left) and released = 1){
-	x = mouse_x;
-	y = mouse_y;
-	move_snap(32, 32);
-}
+	if (!mouse_check_button_released(mb_left) and released = 1){
+		x = mouse_x;
+		y = mouse_y;
+		move_snap(32, 32);
+	}
 }
 
 if (!global.moveable){
@@ -30,7 +23,7 @@ if (!global.moveable){
 
 	var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
 
-	if (distance_to_object(oEnemies_Parent) <= maxrange){
+	if (distance_to_object(closestEnemy) <= maxrange and distance_to_object(closestEnemy) > minrange){
 		closestEnemy.target = true;
 		var pointdir = point_direction(x, y, closestEnemy.x, closestEnemy.y);
 		image_angle += sin(degtorad(pointdir - image_angle)) * 5; 
