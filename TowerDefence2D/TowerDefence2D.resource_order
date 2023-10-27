@@ -99,6 +99,7 @@
     {"name":"oEnemySpawner3","order":14,"path":"objects/oEnemySpawner3/oEnemySpawner3.yy",},
     {"name":"sTrojan1stLevel","order":5,"path":"sprites/sTrojan1stLevel/sTrojan1stLevel.yy",},
     {"name":"EasyTownTrojan","order":4,"path":"sprites/EasyTownTrojan/EasyTownTrojan.yy",},
+    {"name":"sTurtleShield","order":10,"path":"sprites/sTurtleShield/sTurtleShield.yy",},
     {"name":"sTowerLevel2","order":3,"path":"sprites/sTowerLevel2/sTowerLevel2.yy",},
     {"name":"oProgressBar","order":2,"path":"objects/oProgressBar/oProgressBar.yy",},
     {"name":"Trojan2ndLvlButton","order":6,"path":"objects/Trojan2ndLvlButton/Trojan2ndLvlButton.yy",},

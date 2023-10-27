@@ -142,6 +142,7 @@
     {"id":{"name":"sEnemyDestroy","path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},},
     {"id":{"name":"sRock","path":"sprites/sRock/sRock.yy",},},
     {"id":{"name":"EasyTownTrojan","path":"sprites/EasyTownTrojan/EasyTownTrojan.yy",},},
+    {"id":{"name":"sTurtleShield","path":"sprites/sTurtleShield/sTurtleShield.yy",},},
     {"id":{"name":"sTowerLevel2","path":"sprites/sTowerLevel2/sTowerLevel2.yy",},},
     {"id":{"name":"oProgressBar","path":"objects/oProgressBar/oProgressBar.yy",},},
     {"id":{"name":"Trojan2ndLvlButton","path":"objects/Trojan2ndLvlButton/Trojan2ndLvlButton.yy",},},
