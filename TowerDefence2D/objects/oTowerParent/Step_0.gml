@@ -17,22 +17,24 @@ if (!global.moveable){
 	time = current_time;
 
 	//Shooting and Rotating
-	with (oEnemies_Parent){
-		target = false;
+	if (target = noone){
+		target = collision_circle(x, y, maxrange, oEnemies_Parent, false, true);
 	}
-
-	var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
-
-	if (distance_to_object(closestEnemy) <= maxrange and distance_to_object(closestEnemy) > minrange){
-		closestEnemy.target = true;
-		var pointdir = point_direction(x, y, closestEnemy.x, closestEnemy.y);
-		image_angle += sin(degtorad(pointdir - image_angle)) * 5; 
-	
-		if (shootTimer >= fireRate){
-			image_speed = 1;
-			instance_create_layer(x, y, "Instances", projectile);
-			projectile.damage = 10;
-			shootTimer = 0;
+	else{
+		if (instance_exists(target) = false){
+			target = noone;
+		}
+		else{
+			if (canShoot = true){
+				canShoot = false;
+				alarm_set(0, 20);
+				
+				var projectile = instance_create_layer(x, y, "Instances", oArrow);
+				projectile.dmg = dmg;
+				projectile.direction = point_direction(x, y, target.x, target.y);
+				projectile.image_angle = projectile.direction;
+				projectile.speed = target.sp * 2;
+			}
 		}
 	}
 }

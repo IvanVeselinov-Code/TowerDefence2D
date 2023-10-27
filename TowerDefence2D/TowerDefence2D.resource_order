@@ -104,6 +104,7 @@
     {"name":"oProgressBar","order":2,"path":"objects/oProgressBar/oProgressBar.yy",},
     {"name":"Trojan2ndLvlButton","order":6,"path":"objects/Trojan2ndLvlButton/Trojan2ndLvlButton.yy",},
     {"name":"oEnemy1Level","order":9,"path":"objects/oEnemy1Level/oEnemy1Level.yy",},
+    {"name":"oTurtleShield","order":11,"path":"objects/oTurtleShield/oTurtleShield.yy",},
     {"name":"oCrossbow","order":1,"path":"objects/oCrossbow/oCrossbow.yy",},
     {"name":"sArrow","order":1,"path":"sprites/sArrow/sArrow.yy",},
     {"name":"TimeLineLevels","order":5,"path":"rooms/TimeLineLevels/TimeLineLevels.yy",},
@@ -119,6 +120,7 @@
     {"name":"oEnemy3Level","order":15,"path":"objects/oEnemy3Level/oEnemy3Level.yy",},
     {"name":"Towers","order":1,"path":"scripts/Towers/Towers.yy",},
     {"name":"oHealthBarFrame","order":1,"path":"objects/oHealthBarFrame/oHealthBarFrame.yy",},
+    {"name":"oTurtleShieldButton","order":12,"path":"objects/oTurtleShieldButton/oTurtleShieldButton.yy",},
     {"name":"sCatapultLevel3","order":3,"path":"sprites/sCatapultLevel3/sCatapultLevel3.yy",},
   ],
 }

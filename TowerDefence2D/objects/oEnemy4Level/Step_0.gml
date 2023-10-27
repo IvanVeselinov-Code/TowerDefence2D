@@ -1,16 +1,14 @@
 event_inherited();
 
-with (self){
-	var second = current_second;
+var second = current_second;
 
-	if (second != time){
-		timer++;
-	}
+if (second != time){
+	timer++;
+}
 
-	time = current_second;
+time = current_second;
 
-	if (timer = 10){
-		var particle = part_system_create(ParticleSystem1);
-		part_system_position(particle, x, y);
-	}
+if (timer = 10){
+	var particle = part_system_create(ParticleSystem1);
+	part_system_position(particle, x, y);
 }

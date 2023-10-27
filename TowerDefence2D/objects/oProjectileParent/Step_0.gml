@@ -1,4 +1,4 @@
-var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
+/*var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
 
 if (closestEnemy != noone) {
 	if (follow_enemy and idk and instance_exists(closestEnemyStart)){
