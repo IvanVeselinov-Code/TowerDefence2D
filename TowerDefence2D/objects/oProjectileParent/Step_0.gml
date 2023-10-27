@@ -1,3 +1,5 @@
+direction = point_direction(x, y, target.x, target.y);
+
 /*var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
 
 if (closestEnemy != noone) {

@@ -34,6 +34,7 @@ if (!global.moveable){
 				
 				var projectileShoot = instance_create_layer(x, y, "Instances", projectile);
 				projectileShoot.dmg = dmg;
+				projectileShoot.target = target;
 				projectileShoot.direction = point_direction(x, y, target.x, target.y);
 				projectileShoot.image_angle = projectile.direction;
 				projectileShoot.speed = target.sp * 2;

@@ -5,4 +5,5 @@ follow_enemy = true;
 grow = true;
 closestEnemyStart = instance_nearest(x, y, oEnemies_Parent);
 idk = true;
+target = noone
 //distanceToEnemyStart = point_distance(oCatapult.x, oCatapult.y, closestEnemyStart.x, closestEnemyStart.y);
