@@ -21,19 +21,22 @@ if (!global.moveable){
 		target = collision_circle(x, y, maxrange, oEnemies_Parent, false, true);
 	}
 	else{
-		if (instance_exists(target) = false){
+		if (instance_exists(target) = false or target != collision_circle(x, y, maxrange, oEnemies_Parent, false, true)){
 			target = noone;
 		}
 		else{
+			var pointdir = point_direction(x, y, target.x, target.y);
+			if (rotating) {image_angle += sin(degtorad(pointdir - image_angle)) * 5;}
+			
 			if (canShoot = true){
 				canShoot = false;
 				alarm_set(0, 20);
 				
-				var projectile = instance_create_layer(x, y, "Instances", oArrow);
-				projectile.dmg = dmg;
-				projectile.direction = point_direction(x, y, target.x, target.y);
-				projectile.image_angle = projectile.direction;
-				projectile.speed = target.sp * 2;
+				var projectileShoot = instance_create_layer(x, y, "Instances", projectile);
+				projectileShoot.dmg = dmg;
+				projectileShoot.direction = point_direction(x, y, target.x, target.y);
+				projectileShoot.image_angle = projectile.direction;
+				projectileShoot.speed = target.sp * 2;
 			}
 		}
 	}

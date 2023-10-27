@@ -9,4 +9,6 @@ fireRate = 60;
 level = 1;
 upgradePrice = 10;
 
-dmg = 10;
+projectile = oArrow
+
+dmg = 5;
