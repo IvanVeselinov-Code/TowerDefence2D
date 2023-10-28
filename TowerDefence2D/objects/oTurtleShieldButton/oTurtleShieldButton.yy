@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sTower",
-    "path": "sprites/sTower/sTower.yy",
+    "name": "TurtleShieldButton",
+    "path": "sprites/TurtleShieldButton/TurtleShieldButton.yy",
   },
   "spriteMaskId": null,
   "visible": true,
