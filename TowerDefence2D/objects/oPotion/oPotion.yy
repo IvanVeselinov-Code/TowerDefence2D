@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sRockdamage",
-    "path": "sprites/sRockdamage/sRockdamage.yy",
+    "name": "sPotion",
+    "path": "sprites/sPotion/sPotion.yy",
   },
   "spriteMaskId": null,
   "visible": true,

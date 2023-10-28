@@ -35,5 +35,5 @@
     "path": "sprites/sTurtleProjectile/sTurtleProjectile.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
