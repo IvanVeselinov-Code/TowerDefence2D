@@ -1,5 +1,9 @@
-direction = point_direction(x, y, target.x, target.y);
-
+if (instance_exists(target)){
+	direction = point_direction(x, y, target.x, target.y);
+}
+else{
+	instance_destroy();
+}
 /*var closestEnemy = instance_nearest(x, y, oEnemies_Parent);
 
 if (closestEnemy != noone) {
