@@ -1,1 +1,0 @@
-draw_text(60, 60, string(canShoot))
