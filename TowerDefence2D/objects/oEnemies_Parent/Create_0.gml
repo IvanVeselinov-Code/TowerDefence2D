@@ -5,6 +5,7 @@ armor = 100;
 followarmor = 100;
 maxarmor = 100;
 
+
 sp = 3;
 dmg = 50;
 damageToTake = 0;
