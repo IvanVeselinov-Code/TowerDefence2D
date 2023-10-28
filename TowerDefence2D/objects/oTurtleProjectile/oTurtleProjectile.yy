@@ -1,22 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oTurtleShield",
+  "name": "oTurtleProjectile",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Towers",
-    "path": "folders/Objects/Gameplay/Towers.yy",
+    "name": "Projectiles",
+    "path": "folders/Objects/Gameplay/Towers/Projectiles.yy",
   },
   "parentObjectId": {
-    "name": "oTowerParent",
-    "path": "objects/oTowerParent/oTowerParent.yy",
+    "name": "oProjectileParent",
+    "path": "objects/oProjectileParent/oProjectileParent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -34,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sTurtleShield",
-    "path": "sprites/sTurtleShield/sTurtleShield.yy",
+    "name": "sTurtleProjectile",
+    "path": "sprites/sTurtleProjectile/sTurtleProjectile.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,1 +1,1 @@
-draw_text(15, 15, string(lastObject));
+//draw_text(15, 15, string(lastObject));

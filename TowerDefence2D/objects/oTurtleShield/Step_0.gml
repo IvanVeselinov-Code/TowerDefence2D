@@ -29,14 +29,11 @@ if (!global.moveable){
             if (canShoot = true){
 
                 canShoot = false;
-                alarm_set(0, 20);
-
-                var projectileShoot = instance_create_layer(x, y, "Instances", projectile);
-                projectileShoot.dmg = dmg;
-                projectileShoot.target = target;
-                projectileShoot.direction = point_direction(x, y, target.x, target.y);
-                projectileShoot.image_angle = projectile.direction;
-                projectileShoot.speed = target.sp * 2;
+                alarm_set(0, room_speed * fireRate);
+				
+				var projectileShoot = instance_create_layer(x, y, "Instances", projectile);
+				projectileShoot.dmg = dmg;
+				
                 image_speed = 1;
             }
         }

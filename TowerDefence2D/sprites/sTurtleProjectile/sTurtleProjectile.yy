@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "TurtleShieldButton",
-  "bbox_bottom": 63,
+  "name": "sTurtleProjectile",
+  "bbox_bottom": 147,
   "bbox_left": 0,
-  "bbox_right": 63,
+  "bbox_right": 147,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,17 +13,17 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"70b51cba-d847-4ca1-b4f6-d4d178758ca3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5c7145a8-5b7e-4607-a25f-27b3ec3578c7",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 148,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1d64c852-ddbd-45b4-a52a-e18fa76cc025","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"764300b3-a2a6-4712-aae8-fbe01009c110","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 0,
+  "origin": 4,
   "parent": {
     "name": "group1",
     "path": "folders/Sprites/Towers/group1.yy",
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "TurtleShieldButton",
+    "name": "sTurtleProjectile",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,13 +54,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"70b51cba-d847-4ca1-b4f6-d4d178758ca3","path":"sprites/TurtleShieldButton/TurtleShieldButton.yy",},},},"Disabled":false,"id":"214275d5-d83d-410c-9e90-d4c74cf18363","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5c7145a8-5b7e-4607-a25f-27b3ec3578c7","path":"sprites/sTurtleProjectile/sTurtleProjectile.yy",},},},"Disabled":false,"id":"a9c5b1ca-1032-4952-9af2-64b19d9f2cd9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 74,
+    "yorigin": 74,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 148,
 }
