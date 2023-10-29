@@ -1,5 +1,7 @@
 event_inherited();
 
+dmg = 10;
+
 name = "Catapult"
 price = 300;
 minrange = 1;

@@ -6,7 +6,7 @@ wayOfShooting = 2;
 
 projectile = oPotion;
 
-dmg = 1;
+dmg = 10;
 
 name = "Alchemist Tower";
 price = 250;

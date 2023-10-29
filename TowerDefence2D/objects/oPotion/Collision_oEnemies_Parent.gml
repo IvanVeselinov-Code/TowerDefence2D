@@ -1,22 +1,19 @@
-/*var xpose = x;
+var xpose = x;
 var ypose = y;
 
 
-with(oEnemies_Parent){
+with (other){
 	var distance = point_distance(x, y, xpose, ypose);
 	
 	if (distance < 70){
 		if (armor > 0){
-			armor -= dmg;
+			armor -= other.dmg;
 		}
 		else{
-			hp -= dmg;
+			hp -= other.dmg - 5;
 		}
-		
-		instance_destroy(oPotion);
 	}
-	
 }
-*/
+
 instance_create_layer(other.x, other.y, "Wall", oPoison)
-instance_destroy()
+instance_destroy();

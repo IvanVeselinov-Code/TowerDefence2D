@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "group1",
-    "path": "folders/Sprites/Towers/group1.yy",
+    "name": "TurtleShield",
+    "path": "folders/Sprites/Towers/TurtleShield.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
