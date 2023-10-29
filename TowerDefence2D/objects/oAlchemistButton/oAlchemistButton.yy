@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sTower",
-    "path": "sprites/sTower/sTower.yy",
+    "name": "AlchemistButton",
+    "path": "sprites/AlchemistButton/AlchemistButton.yy",
   },
   "spriteMaskId": null,
   "visible": true,

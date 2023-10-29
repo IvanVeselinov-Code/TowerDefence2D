@@ -96,6 +96,7 @@
     {"name":"Tree","order":1,"path":"objects/Tree/Tree.yy",},
     {"name":"sCatapult2","order":1,"path":"sprites/sCatapult2/sCatapult2.yy",},
     {"name":"rmMainMenu","order":2,"path":"rooms/rmMainMenu/rmMainMenu.yy",},
+    {"name":"AlchemistButton","order":3,"path":"sprites/AlchemistButton/AlchemistButton.yy",},
     {"name":"oPotion","order":3,"path":"objects/oPotion/oPotion.yy",},
     {"name":"sEnemy1level","order":2,"path":"sprites/sEnemy1level/sEnemy1level.yy",},
     {"name":"sTrojanButton","order":2,"path":"sprites/sTrojanButton/sTrojanButton.yy",},
