@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Tree",
+  "name": "Tree01",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Wood02",
-    "path": "sprites/Wood02/Wood02.yy",
+    "name": "Wood01",
+    "path": "sprites/Wood01/Wood01.yy",
   },
   "spriteMaskId": null,
   "visible": true,
