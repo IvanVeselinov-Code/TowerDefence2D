@@ -1,1 +1,0 @@
-y = ystart + ((room_height / 100 * oScroll.percent) - room_height);
