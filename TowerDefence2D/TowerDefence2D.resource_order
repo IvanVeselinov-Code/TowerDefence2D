@@ -70,7 +70,7 @@
     {"name":"sSkipButton","order":6,"path":"sprites/sSkipButton/sSkipButton.yy",},
     {"name":"oQuit","order":2,"path":"objects/oQuit/oQuit.yy",},
     {"name":"oWaveManager","order":1,"path":"objects/oWaveManager/oWaveManager.yy",},
-    {"name":"Object74","order":4,"path":"objects/Object74/Object74.yy",},
+    {"name":"oTowersSelect","order":4,"path":"objects/oTowersSelect/oTowersSelect.yy",},
     {"name":"oMiniMap","order":2,"path":"objects/oMiniMap/oMiniMap.yy",},
     {"name":"oAlchemistTower","order":13,"path":"objects/oAlchemistTower/oAlchemistTower.yy",},
     {"name":"oWaveText","order":2,"path":"objects/oWaveText/oWaveText.yy",},

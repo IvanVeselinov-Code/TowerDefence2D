@@ -1,3 +1,5 @@
+slotsAtStart = global.tower_slots;
+
 botLimit = y + (sprite_height / 2) - 25;
 topLimit = y - (sprite_height / 2) + 25;
 

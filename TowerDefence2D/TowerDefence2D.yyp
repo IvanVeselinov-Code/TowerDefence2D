@@ -99,7 +99,7 @@
     {"id":{"name":"oQuit","path":"objects/oQuit/oQuit.yy",},},
     {"id":{"name":"oWaveManager","path":"objects/oWaveManager/oWaveManager.yy",},},
     {"id":{"name":"sCatapult","path":"sprites/sCatapult/sCatapult.yy",},},
-    {"id":{"name":"Object74","path":"objects/Object74/Object74.yy",},},
+    {"id":{"name":"oTowersSelect","path":"objects/oTowersSelect/oTowersSelect.yy",},},
     {"id":{"name":"oMiniMap","path":"objects/oMiniMap/oMiniMap.yy",},},
     {"id":{"name":"oAlchemistTower","path":"objects/oAlchemistTower/oAlchemistTower.yy",},},
     {"id":{"name":"oWaveText","path":"objects/oWaveText/oWaveText.yy",},},
