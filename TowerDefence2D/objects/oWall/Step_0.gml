@@ -1,4 +1,5 @@
 
+
 if(oHealthBar.hp <= oHealthBar.maxhp / 1.2){
 	image_index = 1;
 }

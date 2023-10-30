@@ -1,3 +1,5 @@
+
+
 image_angle = direction;
 
 followhp = lerp(followhp, hp, 0.1);

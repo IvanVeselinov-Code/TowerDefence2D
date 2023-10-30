@@ -1,3 +1,5 @@
+
+
 randomize();
 
 switch(global.wave){

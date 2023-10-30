@@ -10,3 +10,7 @@ global.progress = 0;
 global.maxProgress = 0;
 global.level = rmMainMenu;
 global.timecoins = 0;
+
+global.pause = false;
+
+global.tower_slots = 4;
