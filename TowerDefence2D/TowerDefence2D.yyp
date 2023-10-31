@@ -223,7 +223,6 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rmScroll","path":"rooms/rmScroll/rmScroll.yy",},},
     {"roomId":{"name":"rmMainMenu","path":"rooms/rmMainMenu/rmMainMenu.yy",},},
     {"roomId":{"name":"TimeLineLevels","path":"rooms/TimeLineLevels/TimeLineLevels.yy",},},
     {"roomId":{"name":"TroJanMap","path":"rooms/TroJanMap/TroJanMap.yy",},},
@@ -231,6 +230,7 @@
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rmScroll","path":"rooms/rmScroll/rmScroll.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
