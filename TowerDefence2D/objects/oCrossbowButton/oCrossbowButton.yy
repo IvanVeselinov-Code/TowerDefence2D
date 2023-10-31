@@ -8,8 +8,8 @@
   "managed": false,
   "overriddenProperties": [],
   "parent": {
-    "name": "Towers",
-    "path": "folders/Objects/Gameplay/Towers.yy",
+    "name": "Crossbow",
+    "path": "folders/Objects/Gameplay/Towers/Crossbow.yy",
   },
   "parentObjectId": {
     "name": "oTowerButtonParent",

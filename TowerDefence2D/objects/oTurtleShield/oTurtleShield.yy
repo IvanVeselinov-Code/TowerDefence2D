@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Towers",
-    "path": "folders/Objects/Gameplay/Towers.yy",
+    "name": "TurtleShield",
+    "path": "folders/Objects/Gameplay/Towers/TurtleShield.yy",
   },
   "parentObjectId": {
     "name": "oTowerParent",

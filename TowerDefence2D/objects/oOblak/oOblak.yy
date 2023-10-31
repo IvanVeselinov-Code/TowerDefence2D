@@ -1,20 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oTurtleShieldButton",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
-  "managed": false,
+  "name": "oOblak",
+  "eventList": [],
+  "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "TurtleShield",
-    "path": "folders/Objects/Gameplay/Towers/TurtleShield.yy",
+    "name": "RocksOrTree",
+    "path": "folders/Objects/Gameplay/RocksOrTree.yy",
   },
-  "parentObjectId": {
-    "name": "oTowerButtonParent",
-    "path": "objects/oTowerButtonParent/oTowerButtonParent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "TurtleShieldButton",
-    "path": "sprites/TurtleShieldButton/TurtleShieldButton.yy",
+    "name": "Sprite57",
+    "path": "sprites/Sprite57/Sprite57.yy",
   },
   "spriteMaskId": null,
   "visible": true,

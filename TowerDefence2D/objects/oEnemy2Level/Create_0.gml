@@ -2,7 +2,7 @@ event_inherited();
 
 maxhp = 50;
 followhp = 50;
-hp = 59;
+hp = 50;
 
 maxarmor = 50;
 followarmor= 50;

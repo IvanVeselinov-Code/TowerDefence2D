@@ -4,12 +4,11 @@ randomize();
 
 switch(global.wave){
 	case 1:
-		spawn_amount = 5;
-		global.spawn_rate = room_speed * 1;
+		spawn_amount = 20;
+		global.spawn_rate = room_speed * 0.5;
 		enemy_type = oEnemy2Level;
-		path = "one";
+		path = "random";
 		prize = 100;
-		prizeTimecoins = 1;
 	break;
 	case 2:
 		spawn_amount = 100;

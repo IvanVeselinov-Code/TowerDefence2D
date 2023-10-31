@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Towers",
-    "path": "folders/Objects/Gameplay/Towers.yy",
+    "name": "Alchemist",
+    "path": "folders/Objects/Gameplay/Towers/Alchemist.yy",
   },
   "parentObjectId": {
     "name": "oTowerParent",

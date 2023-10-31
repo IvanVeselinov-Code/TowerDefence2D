@@ -8,8 +8,8 @@
   "managed": false,
   "overriddenProperties": [],
   "parent": {
-    "name": "Towers",
-    "path": "folders/Objects/Gameplay/Towers.yy",
+    "name": "Catapult",
+    "path": "folders/Objects/Gameplay/Towers/Catapult.yy",
   },
   "parentObjectId": {
     "name": "oTowerButtonParent",
