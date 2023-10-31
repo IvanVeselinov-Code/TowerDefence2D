@@ -1,8 +1,6 @@
 global.tower_slots = 4;
-slot1 = false;
-slot2 = false;
-slot3 = false;
-slot4 = false;
+any_selected = 0;
+slot = 0;
 
 botLimit = y + (sprite_height / 2) - 25;
 topLimit = y - (sprite_height / 2) + 25;

@@ -1,5 +1,3 @@
 selected = false;
-xx = 0;
-yy = 0;
-xStart = x;
-yStart = y;
+current_slot = 0;
+selected_once = false;
