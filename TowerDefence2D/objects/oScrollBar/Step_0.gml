@@ -1,6 +1,7 @@
-if (any_selected < array_length(oTowersSelect.towers)){
-	for (var i = 0; i < array_length(oTowersSelect.towers); i++){
-		oTowersSelect.towers[i].current_slot = 0;
-		oTowersSelect.towers[i].selected_once = false;
+/*if (any_selected = 0){
+	slot = 0;
+	for (var i = 0; i < instance_number(oSelectTowerParent); i++){
+		instance_find(oSelectTowerParent, i).current_slot = 0;
+		instance_find(oSelectTowerParent, i).selected_once = false;
 	}
 }
