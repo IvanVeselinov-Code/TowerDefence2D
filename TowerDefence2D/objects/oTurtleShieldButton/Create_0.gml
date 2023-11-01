@@ -2,4 +2,4 @@ event_inherited();
 
 sprite = sTurtleShield;
 tower = oTurtleShield;
-placementPrice = 500;
+placementPrice = 250;

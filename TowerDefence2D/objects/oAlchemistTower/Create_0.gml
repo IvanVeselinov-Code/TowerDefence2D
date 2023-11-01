@@ -12,6 +12,6 @@ name = "Alchemist Tower";
 price = 250;
 minrange = 0;
 maxrange = 200;
-fireRate = 1;
+fireRate = 3;
 level = 1;
 upgradePrice = 10;

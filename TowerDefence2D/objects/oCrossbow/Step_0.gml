@@ -5,13 +5,13 @@ switch(level){
 	case 1:
 		sprite_index = sTower2;
 		maxrange = 200;
-		upgradePrice = 100;
+		upgradePrice = 300;
 		fireRate = 0.7;
 	break;
 	case 2:
 		sprite_index = sTowerLevel2;
 		maxrange = 300;
-		upgradePrice = 300;
+		upgradePrice = 500;
 		fireRate = 0.6;
 	break;
 	case 3:

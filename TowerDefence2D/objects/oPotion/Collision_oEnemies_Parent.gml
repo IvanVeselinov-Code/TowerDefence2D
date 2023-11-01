@@ -15,5 +15,5 @@ with (other){
 	}
 }
 
-instance_create_layer(other.x, other.y, "Wall", oPoison)
+instance_create_layer(other.x, other.y, "Instances", oPoison)
 instance_destroy();
