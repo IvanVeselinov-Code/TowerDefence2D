@@ -4,10 +4,10 @@ randomize();
 
 switch(global.wave){
 	case 1:
-		spawn_amount = 10;
+		spawn_amount = 1;
 		global.spawn_rate = room_speed * 0.1;
-		enemy_type = choose(oEnemy2Level, oEnemy3Level);
-		path = "random";
+		enemy_type = oTrojanHorse;
+		path = "three";
 		prize = 100 * spawn_amount;
 	break;
 	case 2:
