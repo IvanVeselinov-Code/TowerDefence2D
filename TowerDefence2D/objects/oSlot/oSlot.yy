@@ -1,9 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "crossbow",
+  "name": "oSlot",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -11,11 +12,8 @@
     "name": "Scroll",
     "path": "folders/Objects/Scroll.yy",
   },
-  "parentObjectId": {
-    "name": "oSelectTowerParent",
-    "path": "objects/oSelectTowerParent/oSelectTowerParent.yy",
-  },
-  "persistent": false,
+  "parentObjectId": null,
+  "persistent": true,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
   "physicsFriction": 0.2,
@@ -31,9 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sTower",
-    "path": "sprites/sTower/sTower.yy",
+    "name": "sSlot",
+    "path": "sprites/sSlot/sSlot.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

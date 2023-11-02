@@ -1,19 +1,21 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "crossbow",
+  "name": "oGo",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oButtonParent","path":"objects/oButtonParent/oButtonParent.yy",},"propertyId":{"name":"text","path":"objects/oButtonParent/oButtonParent.yy",},"value":"GO!",},
+  ],
   "parent": {
     "name": "Scroll",
     "path": "folders/Objects/Scroll.yy",
   },
   "parentObjectId": {
-    "name": "oSelectTowerParent",
-    "path": "objects/oSelectTowerParent/oSelectTowerParent.yy",
+    "name": "oButtonParent",
+    "path": "objects/oButtonParent/oButtonParent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sTower",
-    "path": "sprites/sTower/sTower.yy",
+    "name": "sButton",
+    "path": "sprites/sButton/sButton.yy",
   },
   "spriteMaskId": null,
   "visible": true,

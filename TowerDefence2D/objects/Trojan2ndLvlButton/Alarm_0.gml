@@ -1,4 +1,4 @@
 event_inherited();
 
-
-room_goto(Room2);
+global.level = Room2;
+room_goto(rmScroll);

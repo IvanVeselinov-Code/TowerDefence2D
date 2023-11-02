@@ -1,34 +1,25 @@
-/*if (!selected and !slc){
-	slc = true;
-	oScrollBar.any_selected++;
-	selected = true;
-	image_blend = c_green;
+if (!selected){
 	
-	oScrollBar.slot++;
-	
-	if (!selected_once){
-		current_slot = oScrollBar.slot;
-		selected_once = true;
+	for (var i = 0; i < instance_number(oSlot); i++){
+		var free_slot = instance_find(oSlot, i);
+		
+		if (!free_slot.taken){
+			selected = true;
+			xx = free_slot.x;
+			yy = free_slot.y;
+			free_slot.tower = button;
+			break;
+		}
 	}
 }
 else{
-	slc = false;
 	selected = false;
-	image_blend = noone;
-	oScrollBar.any_selected -= 1;
-	oScrollBar.slot -= 1;
-}*/
-
-/*if (!selected){
- selected = true;
- global.slots++;
- current_slot = global.slots;
- image_blend = c_green;
+	
+	for (var i = 0; i < instance_number(oSlot); i++){
+		var taken_slot = instance_find(oSlot, i);
+		
+		if (taken_slot.taken and taken_slot.tower = button){
+			taken_slot. tower = noone;;
+		}
+	}
 }
-else if (selected){
-	selected = false;
-	global.slots -= 1;
-	current_slot = 0;
-	image_blend = noone;
-}*/
-

@@ -1,17 +1,10 @@
-global.tower_slots = 4;
-global.selected_towers = ds_list_create();
-global.selected_slots = ds_list_create();
-
-/*global.slots = 0;
-any_selected = 0;
-slot = 0;
-
-slots = [];
+var xx = 0;
 
 for (var i = 0; i < global.tower_slots; i++){
-	array_insert(slots, i, i);
+	xx += 64;
+	var slotObj = instance_create_layer(xx, 64, "Instances", oSlot);
+	slotObj.slot = i;
 }
-*/
 
 botLimit = y + (sprite_height / 2) - 25;
 topLimit = y - (sprite_height / 2) + 25;
