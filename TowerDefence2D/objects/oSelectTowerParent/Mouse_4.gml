@@ -19,7 +19,7 @@ else{
 	oScrollBar.slot -= 1;
 }*/
 
-if (!selected){
+/*if (!selected){
  selected = true;
  global.slots++;
  current_slot = global.slots;
@@ -30,4 +30,5 @@ else if (selected){
 	global.slots -= 1;
 	current_slot = 0;
 	image_blend = noone;
-}
+}*/
+
