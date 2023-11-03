@@ -53,6 +53,7 @@
     {"name":"sBigTent","order":4,"path":"sprites/sBigTent/sBigTent.yy",},
     {"name":"oEnemySpawner","order":4,"path":"objects/oEnemySpawner/oEnemySpawner.yy",},
     {"name":"TurtleShieldButton","order":1,"path":"sprites/TurtleShieldButton/TurtleShieldButton.yy",},
+    {"name":"Macros","order":2,"path":"scripts/Macros/Macros.yy",},
     {"name":"oCrossbowButton","order":1,"path":"objects/oCrossbowButton/oCrossbowButton.yy",},
     {"name":"sHorseEnemy2level","order":1,"path":"sprites/sHorseEnemy2level/sHorseEnemy2level.yy",},
     {"name":"DownWall0Procent","order":8,"path":"sprites/DownWall0Procent/DownWall0Procent.yy",},

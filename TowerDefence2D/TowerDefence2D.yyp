@@ -78,6 +78,7 @@
     {"id":{"name":"sBigTent","path":"sprites/sBigTent/sBigTent.yy",},},
     {"id":{"name":"oEnemySpawner","path":"objects/oEnemySpawner/oEnemySpawner.yy",},},
     {"id":{"name":"TurtleShieldButton","path":"sprites/TurtleShieldButton/TurtleShieldButton.yy",},},
+    {"id":{"name":"Macros","path":"scripts/Macros/Macros.yy",},},
     {"id":{"name":"oCrossbowButton","path":"objects/oCrossbowButton/oCrossbowButton.yy",},},
     {"id":{"name":"sHorseEnemy2level","path":"sprites/sHorseEnemy2level/sHorseEnemy2level.yy",},},
     {"id":{"name":"DownWall0Procent","path":"sprites/DownWall0Procent/DownWall0Procent.yy",},},

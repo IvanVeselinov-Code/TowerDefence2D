@@ -18,6 +18,7 @@ if (!pause){
 	}
 	
 	instance_deactivate_all(true);
+	instance_create_layer(view_x + view_w / 2, view_y + view_h / 2, "Other", oQuit);
     pause = true;
 }
 else{
