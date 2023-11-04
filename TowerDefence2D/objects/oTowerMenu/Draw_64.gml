@@ -42,6 +42,6 @@ if (global.selected_tower != noone){
 	draw_text(
 	x + sprite_get_width(sprite) + 65,
 	y + ((sprite_get_height(sprite) / 2) + 100) - (sprite_get_height(sprite) / 2),
-	"Fire Rate:" + string(fire_rate)
+	"Fire Rate:" + string(fire_rate) + "s"
 	);
 }
