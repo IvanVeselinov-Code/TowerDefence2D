@@ -18,13 +18,11 @@ else if ( x > 0 and x < 2420 and y > 0 and y < 1440 and collision = 0){
 	
 	oGold.gold -= placementPrice;
 	instance_destroy(oGridDraw);
-	DestroyRanges();
 	draw_set_alpha(1);
 	instance_destroy();
 }
 else{
 	instance_destroy(oGridDraw);
 	draw_set_alpha(1);
-	DestroyRanges();
 	instance_destroy();
 }

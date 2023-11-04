@@ -6,5 +6,3 @@ sprite = noone;
 placementLevel = 0;
 placementPrice = 0;
 tower = oCrossbow;
-
-CreateRanges();

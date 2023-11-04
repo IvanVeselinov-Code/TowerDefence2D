@@ -37,7 +37,6 @@
     {"name":"inst_6C534A76","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_627CB22D","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_3A9D6F51","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_21726A67","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6F6E52C8","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_2D547C7C","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6F22ABC5","path":"rooms/Room1/Room1.yy",},
@@ -58,6 +57,7 @@
     {"name":"inst_6643EA1E","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_7E56CA87","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_78599840","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_21726A67","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -135,7 +135,7 @@
   "roomSettings": {
     "Height": 1440,
     "inheritRoomSettings": false,
-    "persistent": true,
+    "persistent": false,
     "Width": 2465,
   },
   "sequenceId": null,

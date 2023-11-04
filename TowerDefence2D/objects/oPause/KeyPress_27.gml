@@ -18,11 +18,26 @@ if (!pause){
 	}
 	
 	instance_deactivate_all(true);
-	instance_create_layer(view_x + view_w / 2, view_y + view_h / 2, "Other", oQuit);
+	
+	if (!instance_exists(oQuit) and !instance_exists(oResume) and !instance_exists(oBackToMainMenu)) {
+		instance_create_layer(view_x + view_w / 2, view_y + view_h / 2 + 114, "Other", oQuit);
+		oQuit.depth = -1;
+		instance_create_layer(view_x + view_w / 2, view_y + view_h / 2 - 114, "Other", oResume);
+		oResume.depth = -1;
+		instance_create_layer(view_x + view_w / 2, view_y + view_h / 2 , "Other", oBackToMainMenu);
+		oBackToMainMenu.depth = -1;
+	}
+	
     pause = true;
 }
 else{
 	instance_activate_all();
     pause = false;
 	allObjects = 0;
+	
+	if (instance_exists(oQuit) and instance_exists(oResume) and instance_exists(oBackToMainMenu)){
+		instance_destroy(oQuit);
+		instance_destroy(oResume);
+		instance_destroy(oBackToMainMenu);
+	}
 }

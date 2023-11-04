@@ -8,4 +8,4 @@ armor = 0;
 followarmor = 0;
 maxarmor = 0;
 
-sp = 1;
+sp = 2;

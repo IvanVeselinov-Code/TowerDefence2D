@@ -10,4 +10,5 @@ if (pause){
 	draw_rectangle_color(view_x, view_y, view_x + view_w, view_y + view_h,
 	c_black, c_black, c_black, c_black, false);
 	draw_set_alpha(1);
+	
 }

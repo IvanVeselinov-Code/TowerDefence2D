@@ -1,5 +1,3 @@
-
-
 randomize();
 
 switch(global.wave){
@@ -7,7 +5,7 @@ switch(global.wave){
 		spawn_amount = 1;
 		global.spawn_rate = room_speed * 0.1;
 		enemy_type = oTrojanHorse;
-		path = "three";
+		path = "one";
 		prize = 100 * spawn_amount;
 	break;
 	case 2:

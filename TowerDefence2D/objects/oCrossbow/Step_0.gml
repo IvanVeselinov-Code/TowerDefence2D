@@ -39,6 +39,7 @@ if (!global.moveable){
 			if (canShoot = true){
 				canShoot = false;
 				alarm_set(0, room_speed * fireRate);
+				image_speed = 1;
 				
 				var projectileShoot = instance_create_layer(x, y, "Instances", projectile);
 				projectileShoot.dmg = dmg;
