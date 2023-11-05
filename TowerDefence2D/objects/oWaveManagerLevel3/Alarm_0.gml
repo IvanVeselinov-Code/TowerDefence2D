@@ -105,4 +105,5 @@ if (spawn_count < spawn_amount and global.progressWaves){
 }
 if(oProgressBar.followProgress = 100){
 	room_goto(WinnerRoom)
+	global.level3done = true;
 }

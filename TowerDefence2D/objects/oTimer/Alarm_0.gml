@@ -19,7 +19,7 @@ else{
 	instance_create_layer(0, 0, "Instances", oWaveText);
 	global.progressWaves = true;
 	global.pausePhase = false;
-	oWaveManagerLevel1.alarm[0] = room_speed * 8;
+	wave_manager.alarm[0] = room_speed * 8;
 	if (instance_exists(oSkipButton)) {instance_destroy(oSkipButton);}
 	instance_destroy();
 }

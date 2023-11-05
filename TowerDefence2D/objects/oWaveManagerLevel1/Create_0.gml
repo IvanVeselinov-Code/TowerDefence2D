@@ -14,6 +14,7 @@ global.maxProgress = 100;
 
 alarm[0] = global.spawn_rate;
 
+
 /*
 	HOW TO USE
 	

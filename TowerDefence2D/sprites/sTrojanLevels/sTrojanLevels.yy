@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "sTrojan1stLevel",
-  "bbox_bottom": 56,
-  "bbox_left": 7,
-  "bbox_right": 57,
-  "bbox_top": 6,
+  "name": "sTrojanLevels",
+  "bbox_bottom": 52,
+  "bbox_left": 9,
+  "bbox_right": 54,
+  "bbox_top": 11,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fafe752d-2437-4661-91d4-e069ec755970",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"273e4cb3-0f06-4717-ae4c-53775c2f2284",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"62b74624-61ee-4361-8d9f-4f5d88ca32ed","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6fe7feb5-1d4e-4008-b25f-aad2a317017c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "sTrojan1stLevel",
+    "name": "sTrojanLevels",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fafe752d-2437-4661-91d4-e069ec755970","path":"sprites/sTrojan1stLevel/sTrojan1stLevel.yy",},},},"Disabled":false,"id":"17d6aacb-70ac-4b6c-b0c0-fe7044bf8e3e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"273e4cb3-0f06-4717-ae4c-53775c2f2284","path":"sprites/sTrojanLevels/sTrojanLevels.yy",},},},"Disabled":false,"id":"1143fdd5-c693-40f0-a8d0-7b4c9740e672","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

@@ -1,4 +1,6 @@
 event_inherited();
 
-global.level = Room3;
-room_goto(rmScroll);
+if(global.level3done = false){
+	global.level = Room3;
+	room_goto(rmScroll);
+}
