@@ -1,0 +1,2 @@
+global.timecoins++;
+Saving();

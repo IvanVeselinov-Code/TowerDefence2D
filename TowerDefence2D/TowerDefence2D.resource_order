@@ -46,6 +46,7 @@
   "ResourceOrderSettings": [
     {"name":"Room3","order":11,"path":"rooms/Room3/Room3.yy",},
     {"name":"oRock1","order":2,"path":"objects/oRock1/oRock1.yy",},
+    {"name":"SavingAndLoading","order":3,"path":"scripts/SavingAndLoading/SavingAndLoading.yy",},
     {"name":"oSelectTowerParent","order":8,"path":"objects/oSelectTowerParent/oSelectTowerParent.yy",},
     {"name":"oWaveManagerLevel3","order":5,"path":"objects/oWaveManagerLevel3/oWaveManagerLevel3.yy",},
     {"name":"oDownWall","order":4,"path":"objects/oDownWall/oDownWall.yy",},
