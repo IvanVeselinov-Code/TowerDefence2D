@@ -10,7 +10,6 @@ function Saving(){
 	buffer_save(buffer, "ok.sav")
 	buffer_delete(buffer);
 	
-	
 }
 
 function Loading(){
