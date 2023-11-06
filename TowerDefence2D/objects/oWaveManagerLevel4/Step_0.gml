@@ -22,3 +22,7 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 	prize = 0;
 	prizeTimecoins = 0;
 }
+
+if(oProgressBar.followProgress = 100){
+	room_goto(WinnerRoom)
+}

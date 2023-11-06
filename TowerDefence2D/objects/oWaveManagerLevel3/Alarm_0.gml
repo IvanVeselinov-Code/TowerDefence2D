@@ -103,7 +103,3 @@ if (spawn_count < spawn_amount and global.progressWaves){
 	
 	alarm[0] = global.spawn_rate;
 }
-if(oProgressBar.followProgress = 100){
-	room_goto(WinnerRoom)
-	global.level3done = true;
-}

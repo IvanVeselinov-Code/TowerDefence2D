@@ -1,6 +1,7 @@
 function Saving(){
 	
 	var struct = {
+		completedLevels: global.completedLevels,
 		timeCoins: global.timecoins
 	};
 	
@@ -20,6 +21,7 @@ function Loading(){
 		
 		var loadData = json_parse(_string);
 		
-		global.timecoins = loadData.timeCoins
+		global.completedLevels = loadData.completedLevels;
+		global.timecoins = loadData.timeCoins;
 	}
 }

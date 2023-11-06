@@ -21,3 +21,7 @@ global.tower_slots = 4;
 global.level1done = false;
 global.level2done = false;
 global.level3done = false;
+
+global.completedLevels = [];
+
+Loading();
