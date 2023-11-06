@@ -71,7 +71,6 @@ switch(global.wave){
 		path = "three";
 		prize = 50 * spawn_amount;
 		prizeTimecoins += 1;
-		global.wave = global.wave * 0;
 	break;
 }
 

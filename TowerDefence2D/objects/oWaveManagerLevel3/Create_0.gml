@@ -10,7 +10,7 @@ prize = 0;
 prizeTimecoins = 0;
 
 global.progress = 0;
-global.maxProgress = 100;
+global.maxProgress = 120;
 
 alarm[0] = global.spawn_rate;
 

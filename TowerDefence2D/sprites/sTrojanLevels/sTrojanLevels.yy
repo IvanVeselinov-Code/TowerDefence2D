@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "MainMenu",
-    "path": "folders/Sprites/MainMenu.yy",
+    "name": "LevelButtons",
+    "path": "folders/Sprites/MainMenu/LevelButtons.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

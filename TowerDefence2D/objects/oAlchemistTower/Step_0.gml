@@ -11,7 +11,7 @@ if (!global.moveable){
         target = collision_circle(x, y, maxrange, oEnemies_Parent, false, true);
     }
     else{
-        if (instance_exists(target) = false or target != collision_circle(x, y, maxrange, oEnemies_Parent, false, true)){
+        if (instance_exists(target) = false or target != collision_circle(x, y, maxrange, oEnemies_Parent, false, true) or target = collision_circle(x, y, maxrange, oTrojanHorseNot, false, true)){
             target = noone;
         }
         else{
