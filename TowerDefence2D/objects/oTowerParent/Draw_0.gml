@@ -14,6 +14,6 @@ if (pickupDraw){
 	draw_healthbar(x - 32, y - 32, x + 32, y - 16, pickup, c_black, c_blue, c_blue, 0, true, false);
 }
 
-if (target != noone and instance_exists(target)){
+/*if (target != noone and instance_exists(target)){
 	draw_line(x, y, target.x, target.y)
-}
+}*/

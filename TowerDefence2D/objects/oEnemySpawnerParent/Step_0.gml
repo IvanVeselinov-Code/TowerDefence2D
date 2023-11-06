@@ -7,4 +7,7 @@ if (!global.moveable){
 mp_grid_add_instances(grid, oRock, false);
 mp_grid_add_instances(grid, oBiggerRock, false);
 mp_grid_add_instances(grid, oRock1, false);
+mp_grid_add_instances(grid, Tree, false);
+mp_grid_add_instances(grid, Tree01, false);
+mp_grid_add_instances(grid, oWater, false);
 
