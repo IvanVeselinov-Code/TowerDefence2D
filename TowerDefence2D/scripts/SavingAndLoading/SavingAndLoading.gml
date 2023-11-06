@@ -22,6 +22,6 @@ function Loading(){
 		var loadData = json_parse(_string);
 		
 		global.completedLevels = loadData.completedLevels;
-		global.timecoins = loadData.timeCoins;
+		global.timecoins = loadData.timeCoins
 	}
 }
