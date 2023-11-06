@@ -62,6 +62,7 @@
     {"name":"oCrossbowButton","order":1,"path":"objects/oCrossbowButton/oCrossbowButton.yy",},
     {"name":"sHorseEnemy2level","order":1,"path":"sprites/sHorseEnemy2level/sHorseEnemy2level.yy",},
     {"name":"DownWall0Procent","order":8,"path":"sprites/DownWall0Procent/DownWall0Procent.yy",},
+    {"name":"oObsitcleParent","order":9,"path":"objects/oObsitcleParent/oObsitcleParent.yy",},
     {"name":"oTrojanHorseNot","order":19,"path":"objects/oTrojanHorseNot/oTrojanHorseNot.yy",},
     {"name":"oUpgradeButton","order":3,"path":"objects/oUpgradeButton/oUpgradeButton.yy",},
     {"name":"oBigTent","order":10,"path":"objects/oBigTent/oBigTent.yy",},

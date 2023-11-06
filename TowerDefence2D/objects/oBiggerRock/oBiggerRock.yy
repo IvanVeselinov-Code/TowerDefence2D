@@ -9,7 +9,10 @@
     "name": "RocksOrTree",
     "path": "folders/Objects/Gameplay/RocksOrTree.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oObsitcleParent",
+    "path": "objects/oObsitcleParent/oObsitcleParent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

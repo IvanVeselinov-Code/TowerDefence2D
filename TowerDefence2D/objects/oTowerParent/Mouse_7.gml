@@ -13,7 +13,7 @@ if (!global.pausePhase and !global.moveable){
 	}
 }
 if (global.pausePhase and global.moveable and pickup >= 100){
-	if (x > 0 and x < 2420 and y > 0 and y < 1440 and !place_meeting(x, y, oTowerButtonParent) and !place_meeting(x, y, oTowerParent) and !place_meeting(x, y, oEnemies_Parent)){
+	if (x > 0 and x < 2420 and y > 0 and y < 1440 and !place_meeting(x, y, oTowerButtonParent) and !place_meeting(x, y, oTowerParent) and !place_meeting(x, y, oEnemies_Parent) or place_meeting(x, y, oBridge) or place_meeting(x, y, oObsitcleParent)){
 		global.moveable = false;
 		pickup = 0;
 		oIfPathBlocked.lastObject = id;
