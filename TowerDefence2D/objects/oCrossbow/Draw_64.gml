@@ -1,1 +1,0 @@
-draw_text(70, 70, string(fireRate))

@@ -30,5 +30,5 @@ if(oProgressBar.followProgress = 120){
 	}
 	Saving();
 	oProgressBar.followProgress = 0;
-	global.wave = 0;
+	global.wave = 1;
 }

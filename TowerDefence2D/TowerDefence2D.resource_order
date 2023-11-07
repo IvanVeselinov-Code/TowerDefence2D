@@ -73,7 +73,6 @@
     {"name":"Room2","order":10,"path":"rooms/Room2/Room2.yy",},
     {"name":"Sprite57","order":3,"path":"sprites/Sprite57/Sprite57.yy",},
     {"name":"sPotion","order":1,"path":"sprites/sPotion/sPotion.yy",},
-    {"name":"oBackground","order":2,"path":"objects/oBackground/oBackground.yy",},
     {"name":"sEnemy3Level","order":5,"path":"sprites/sEnemy3Level/sEnemy3Level.yy",},
     {"name":"sRockdamage3lvl","order":5,"path":"sprites/sRockdamage3lvl/sRockdamage3lvl.yy",},
     {"name":"sRock1","order":1,"path":"sprites/sRock1/sRock1.yy",},

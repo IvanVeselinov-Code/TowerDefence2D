@@ -33,6 +33,6 @@ if(oProgressBar.followProgress = 10){
 	}
 	Saving();
 	oProgressBar.followProgress = 0;
-	global.wave = 0;
+	global.wave = 1;
 	room_goto(WinnerRoom)
 }

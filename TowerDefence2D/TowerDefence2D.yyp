@@ -99,7 +99,6 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Sprite57","path":"sprites/Sprite57/Sprite57.yy",},},
     {"id":{"name":"sPotion","path":"sprites/sPotion/sPotion.yy",},},
-    {"id":{"name":"oBackground","path":"objects/oBackground/oBackground.yy",},},
     {"id":{"name":"sEnemy3Level","path":"sprites/sEnemy3Level/sEnemy3Level.yy",},},
     {"id":{"name":"sRockdamage3lvl","path":"sprites/sRockdamage3lvl/sRockdamage3lvl.yy",},},
     {"id":{"name":"sRock1","path":"sprites/sRock1/sRock1.yy",},},

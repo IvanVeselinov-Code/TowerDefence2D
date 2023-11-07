@@ -10,5 +10,6 @@ for (var i = 0; i < instance_number(oSlot); i++){
 	if (slot.tower != noone){
 		instance_create_layer(xx, yy, "Other", slot.tower);
 		slot.tower = noone;
+		slot.persistent = false;
 	}
 }
