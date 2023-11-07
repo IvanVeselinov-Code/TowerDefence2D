@@ -1,5 +1,6 @@
-draw_self();
+
 if (global.unlock != noone){
+	draw_self();
 	draw_set_color(c_white);
 	draw_set_font(RobotoMono1);
 	draw_set_halign(fa_center);

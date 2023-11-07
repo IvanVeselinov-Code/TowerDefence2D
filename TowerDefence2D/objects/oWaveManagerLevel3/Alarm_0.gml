@@ -7,7 +7,6 @@ switch(global.wave){
 		enemy_type = oEnemy2Level;
 		path = "one";
 		prize = 100 * spawn_amount;
-		global.wave = global.wave * 0;
 	break;
 	case 2:
 		spawn_amount = 15;
