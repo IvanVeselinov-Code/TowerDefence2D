@@ -33,5 +33,5 @@
     "path": "sprites/sSlot/sSlot.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
