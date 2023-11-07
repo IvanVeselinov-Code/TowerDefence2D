@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "TrojanMap",
+  "name": "soTrojanMap",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -17,7 +17,7 @@
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "TrojanMap.mp3",
+  "soundFile": "soTrojanMap.mp3",
   "type": 0,
   "volume": 0.19,
 }

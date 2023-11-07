@@ -1,5 +1,9 @@
 show_debug_overlay(1);
-audio_play_sound(MainMenuMusic,1,true)
+
+if (!audio_is_playing(MainMenuMusic)){
+	audio_play_sound(MainMenuMusic,1,true);
+}
+
 global.selected_tower = noone;
 global.moveable = false;
 global.wave = 1;
