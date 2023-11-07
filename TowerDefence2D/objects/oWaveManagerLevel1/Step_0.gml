@@ -20,10 +20,10 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 	
 	spawn_count = 0;
 	prize = 0;
-	prizeTimecoins = 0;
 }
 
 if(oProgressBar.followProgress = 10){
+	global.timecoins += 10;
 	if (!array_contains(global.completedLevels, oTrojan1stLvlButton)){
 		array_push(global.completedLevels, oTrojan1stLvlButton);
 	}

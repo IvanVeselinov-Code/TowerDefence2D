@@ -7,7 +7,6 @@ path = "one";
 pathToFollow = path;
 
 prize = 0;
-prizeTimecoins = 0;
 
 global.progress = 0;
 global.maxProgress = 100;

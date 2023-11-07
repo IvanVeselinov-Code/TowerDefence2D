@@ -84,7 +84,6 @@ switch(global.wave){
 		enemy_type = oTrojanHorseNot;
 		path = "random";
 		prize = 100 * spawn_amount;
-		prizeTimecoins += 12;
 		global.wave = global.wave * 0;
 	break;
 }
