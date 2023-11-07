@@ -9,6 +9,7 @@ if (instance_exists(oQuit) and instance_exists(oResume)){
 	instance_destroy(oResume);
 }
 
+audio_stop_all();
 room_goto(rmMainMenu);
 
 instance_destroy();
