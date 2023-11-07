@@ -45,6 +45,7 @@
     {"name":"Wood","order":7,"path":"folders/Sprites/Wood.yy",},
     {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
+    {"name":"Houses","order":15,"path":"folders/Sprites/Houses.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Room3","order":11,"path":"rooms/Room3/Room3.yy",},
@@ -160,6 +161,7 @@
     {"name":"sTrojanLevels","order":2,"path":"sprites/sTrojanLevels/sTrojanLevels.yy",},
     {"name":"sScroll","order":1,"path":"sprites/sScroll/sScroll.yy",},
     {"name":"EasyTownTrojan","order":4,"path":"sprites/EasyTownTrojan/EasyTownTrojan.yy",},
+    {"name":"oHouse1","order":10,"path":"objects/oHouse1/oHouse1.yy",},
     {"name":"oLevelStart","order":3,"path":"objects/oLevelStart/oLevelStart.yy",},
     {"name":"TowerChoosing","order":7,"path":"sprites/TowerChoosing/TowerChoosing.yy",},
     {"name":"rmScroll","order":13,"path":"rooms/rmScroll/rmScroll.yy",},
@@ -176,6 +178,7 @@
     {"name":"oButtonParent","order":9,"path":"objects/oButtonParent/oButtonParent.yy",},
     {"name":"oRemoveButton","order":4,"path":"objects/oRemoveButton/oRemoveButton.yy",},
     {"name":"sCatapultLevel2","order":2,"path":"sprites/sCatapultLevel2/sCatapultLevel2.yy",},
+    {"name":"House2","order":1,"path":"sprites/House2/House2.yy",},
     {"name":"INFLevel","order":14,"path":"objects/INFLevel/INFLevel.yy",},
     {"name":"sTowerRoll","order":12,"path":"sprites/sTowerRoll/sTowerRoll.yy",},
     {"name":"sDeadEnemy1Level","order":3,"path":"sprites/sDeadEnemy1Level/sDeadEnemy1Level.yy",},
@@ -202,6 +205,7 @@
     {"name":"oHealthBarFrame","order":1,"path":"objects/oHealthBarFrame/oHealthBarFrame.yy",},
     {"name":"sBridge","order":1,"path":"sprites/sBridge/sBridge.yy",},
     {"name":"oTurtleShieldButton","order":1,"path":"objects/oTurtleShieldButton/oTurtleShieldButton.yy",},
+    {"name":"oHouse2","order":11,"path":"objects/oHouse2/oHouse2.yy",},
     {"name":"sCatapultLevel3","order":3,"path":"sprites/sCatapultLevel3/sCatapultLevel3.yy",},
   ],
 }
