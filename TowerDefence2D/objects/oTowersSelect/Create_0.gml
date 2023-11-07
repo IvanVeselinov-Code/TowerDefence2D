@@ -1,5 +1,3 @@
-global.towers = [crossbow, catapult, turtleshield, alhemist];
-
 xx = 100;
 yy = 150;
 horizontal = 0;

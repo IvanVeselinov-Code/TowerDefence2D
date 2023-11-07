@@ -28,6 +28,10 @@ if(oProgressBar.followProgress = 100){
 	if (!array_contains(global.completedLevels, oTrojan2ndLvlButton)){
 		array_push(global.completedLevels, oTrojan2ndLvlButton);
 	}
+	if (!array_contains(global.towers, alhemist)){
+		array_push(global.towers, alhemist);
+		global.unlock = "alchemist";
+	}
 	Saving();
 	oProgressBar.followProgress = 0;
 	global.wave = 0;

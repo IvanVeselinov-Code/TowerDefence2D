@@ -12,7 +12,8 @@ global.maxProgress = 0;
 global.level = rmMainMenu;
 global.timecoins = 0;
 
-global.towers = [crossbow, catapult, turtleshield, alhemist];
+global.towers = [crossbow, catapult];
+global.unlock = noone;
 global.level = noone;
 
 global.drawingUI = true;

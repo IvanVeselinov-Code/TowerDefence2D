@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Buttons",
-    "path": "folders/Objects/MainMenuAndButtons/Buttons.yy",
+    "name": "Levels",
+    "path": "folders/Objects/Gameplay/Levels.yy",
   },
   "parentObjectId": {
     "name": "oButtonParent",

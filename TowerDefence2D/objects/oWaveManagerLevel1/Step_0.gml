@@ -28,6 +28,10 @@ if(oProgressBar.followProgress = 100){
 	if (!array_contains(global.completedLevels, oTrojan1stLvlButton)){
 		array_push(global.completedLevels, oTrojan1stLvlButton);
 	}
+	if (!array_contains(global.towers, turtleshield)){
+		array_push(global.towers, turtleshield);
+		global.unlock = "turtleshield";
+	}
 	Saving();
 	oProgressBar.followProgress = 0;
 	global.wave = 0;
