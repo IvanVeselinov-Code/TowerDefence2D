@@ -5,22 +5,22 @@ switch(level){
 		sprite_index = sCatapult2;
 		minrange = 300;
 		maxrange = 600;
-		upgradePrice = 10;
-		fireRate = 1;
+		upgradePrice = 100;
+		fireRate = 1.5;
 	break;
 	case 2:
 		sprite_index = sCatapultLevel2;
 		minrange = 300;
 		maxrange = 600;
-		upgradePrice = 10;
-		fireRate = 0.9;
+		upgradePrice = 200;
+		fireRate = 1.2;
 	break;
 	case 3:
 		sprite_index = sCatapultLevel3;
 		minrange = 200;
 		maxrange = 600;
 		upgradePrice = 0;
-		fireRate = 0.8;
+		fireRate = 1;
 	break;
 }
 

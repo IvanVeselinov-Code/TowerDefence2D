@@ -10,7 +10,6 @@
     {"name":"inst_3579DF9D","path":"rooms/rmScroll/rmScroll.yy",},
     {"name":"inst_5452D685","path":"rooms/rmScroll/rmScroll.yy",},
     {"name":"inst_59D3F184","path":"rooms/rmScroll/rmScroll.yy",},
-    {"name":"inst_A83712C","path":"rooms/rmScroll/rmScroll.yy",},
   ],
   "isDnd": false,
   "layers": [

@@ -25,6 +25,10 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 
 if(oProgressBar.followProgress = 100){
 	room_goto(WinnerRoom)
-	array_push(global.completedLevels, oTrojan2ndLvlButton);
+	if (!array_contains(global.completedLevels, oTrojan2ndLvlButton)){
+		array_push(global.completedLevels, oTrojan2ndLvlButton);
+	}
 	Saving();
+	oProgressBar.followProgress = 0;
+	global.wave = 0;
 }

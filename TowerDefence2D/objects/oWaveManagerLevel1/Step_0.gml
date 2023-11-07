@@ -23,8 +23,12 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 	prizeTimecoins = 0;
 }
 
-if(oProgressBar.followProgress = 10){
+if(oProgressBar.followProgress = 100){
 	room_goto(WinnerRoom)
-	array_push(global.completedLevels, oTrojan1stLvlButton);
+	if (!array_contains(global.completedLevels, oTrojan1stLvlButton)){
+		array_push(global.completedLevels, oTrojan1stLvlButton);
+	}
 	Saving();
+	oProgressBar.followProgress = 0;
+	global.wave = 0;
 }

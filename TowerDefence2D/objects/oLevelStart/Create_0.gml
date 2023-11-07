@@ -1,3 +1,6 @@
+placed_towers = 0;
+max_towers = 25;
+
 xx = 0;
 yy = 64;
 

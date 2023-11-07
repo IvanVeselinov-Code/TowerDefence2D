@@ -24,4 +24,6 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 }
 if(oProgressBar.followProgress = 50){
 	room_goto(WinnerRoom)
+	oProgressBar.followProgress = 0;
+	global.wave = 0;
 }
