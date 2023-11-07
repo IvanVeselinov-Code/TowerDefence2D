@@ -5,14 +5,14 @@ switch(level){
 		sprite_index = sCatapult2;
 		minrange = 300;
 		maxrange = 600;
-		upgradePrice = 100;
+		upgradePrice = 200;
 		fireRate = 1.5;
 	break;
 	case 2:
 		sprite_index = sCatapultLevel2;
 		minrange = 300;
 		maxrange = 600;
-		upgradePrice = 200;
+		upgradePrice = 300;
 		fireRate = 1.2;
 	break;
 	case 3:
@@ -21,6 +21,7 @@ switch(level){
 		maxrange = 600;
 		upgradePrice = 0;
 		fireRate = 1;
+		dmg = 40;
 	break;
 }
 
@@ -44,6 +45,9 @@ if (!global.moveable){
 				image_speed = 1;
 				
 				var projectileShoot = instance_create_layer(x, y, "Instances", projectile);
+				if(level = 3){
+					projectile.sprite_index = sRockdamage3lvl;
+				}
 				projectileShoot.dmg = dmg;
 				projectileShoot.target = target;
 				projectileShoot.direction = point_direction(x, y, target.x, target.y);

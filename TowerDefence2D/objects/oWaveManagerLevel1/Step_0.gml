@@ -13,7 +13,6 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 	global.progress += 10;
 	
 	oGold.gold += prize;
-	global.timecoins += prizeTimecoins;
 	
 	if (!instance_exists(oTimer)) {instance_create_layer(0, 0, "Instances", oTimer); oTimer.wave_manager = id;}
 	if (!instance_exists(oSkipButton)) {instance_create_layer(640, 150, "Instances", oSkipButton);}
@@ -22,7 +21,7 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 	prize = 0;
 }
 
-if(oProgressBar.followProgress = 10){
+if(oProgressBar.followProgress = 100){
 	global.timecoins += 10;
 	if (!array_contains(global.completedLevels, oTrojan1stLvlButton)){
 		array_push(global.completedLevels, oTrojan1stLvlButton);

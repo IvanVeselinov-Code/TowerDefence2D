@@ -6,7 +6,7 @@ wayOfShooting = 2;
 
 projectile = oTurtleProjectile
 
-dmg = 10;
+dmg = 20;
 
 name = "TurtleShield";
 price = 500

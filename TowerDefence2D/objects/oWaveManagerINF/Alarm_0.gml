@@ -2,12 +2,10 @@ randomize();
 
 switch(global.wave){
 	default:
-		spawn_amount += 1;
 		global.spawn_rate = room_speed * 2;
 		enemy_type = oBossLVL1;
 		path = "random";
-		prize += 1;
-		prizeTimecoins += 1;
+		prize += 500;
 	break;
 	
 }
@@ -39,4 +37,5 @@ if (spawn_count < spawn_amount and global.progressWaves){
 	oTent.image_speed = 1;
 	
 	alarm[0] = global.spawn_rate;
+	
 }
