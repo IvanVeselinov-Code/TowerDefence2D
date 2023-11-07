@@ -3,7 +3,7 @@ if (mouse_check_button_pressed(mb_left)){
 		image_index = 1;
 		if (oGold.gold >= upgradePrice){
 			oGold.gold -= upgradePrice;
-			oLevelStart.max_towers++;
+			oLevelStart.max_towers += 5;
 			upgradePrice += 200;
 		}
 	}
