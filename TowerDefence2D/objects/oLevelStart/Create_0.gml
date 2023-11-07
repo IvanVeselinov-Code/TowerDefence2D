@@ -13,3 +13,7 @@ for (var i = 0; i < instance_number(oSlot); i++){
 		slot.persistent = false;
 	}
 }
+
+with(oSlot){
+	instance_destroy();
+}
