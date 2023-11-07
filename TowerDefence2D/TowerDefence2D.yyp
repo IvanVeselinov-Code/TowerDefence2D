@@ -243,6 +243,7 @@
     {"id":{"name":"sTrojanDone","path":"sprites/sTrojanDone/sTrojanDone.yy",},},
     {"id":{"name":"sTower2","path":"sprites/sTower2/sTower2.yy",},},
     {"id":{"name":"Hrastche","path":"sprites/Hrastche/Hrastche.yy",},},
+    {"id":{"name":"TrojanSong","path":"sounds/TrojanSong/TrojanSong.yy",},},
     {"id":{"name":"oHealthBar","path":"objects/oHealthBar/oHealthBar.yy",},},
     {"id":{"name":"oBackToMainMenu","path":"objects/oBackToMainMenu/oBackToMainMenu.yy",},},
     {"id":{"name":"sTurtleProjectile","path":"sprites/sTurtleProjectile/sTurtleProjectile.yy",},},

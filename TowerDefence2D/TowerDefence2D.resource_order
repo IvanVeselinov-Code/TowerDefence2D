@@ -184,6 +184,7 @@
     {"name":"sTrojanDone","order":1,"path":"sprites/sTrojanDone/sTrojanDone.yy",},
     {"name":"sTower2","order":2,"path":"sprites/sTower2/sTower2.yy",},
     {"name":"Hrastche","order":4,"path":"sprites/Hrastche/Hrastche.yy",},
+    {"name":"TrojanSong","order":4,"path":"sounds/TrojanSong/TrojanSong.yy",},
     {"name":"oBackToMainMenu","order":4,"path":"objects/oBackToMainMenu/oBackToMainMenu.yy",},
     {"name":"sTurtleProjectile","order":2,"path":"sprites/sTurtleProjectile/sTurtleProjectile.yy",},
     {"name":"Room4","order":18,"path":"rooms/Room4/Room4.yy",},
