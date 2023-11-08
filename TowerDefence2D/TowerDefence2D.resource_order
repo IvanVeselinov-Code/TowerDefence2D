@@ -53,6 +53,7 @@
     {"name":"SavingAndLoading","order":3,"path":"scripts/SavingAndLoading/SavingAndLoading.yy",},
     {"name":"oSelectTowerParent","order":8,"path":"objects/oSelectTowerParent/oSelectTowerParent.yy",},
     {"name":"oWaveManagerLevel3","order":5,"path":"objects/oWaveManagerLevel3/oWaveManagerLevel3.yy",},
+    {"name":"oTentParent","order":20,"path":"objects/oTentParent/oTentParent.yy",},
     {"name":"oDownWall","order":4,"path":"objects/oDownWall/oDownWall.yy",},
     {"name":"oCoinSpawner","order":3,"path":"objects/oCoinSpawner/oCoinSpawner.yy",},
     {"name":"sRemoveButton","order":4,"path":"sprites/sRemoveButton/sRemoveButton.yy",},

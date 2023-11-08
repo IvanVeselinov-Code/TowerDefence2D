@@ -76,6 +76,7 @@
     {"id":{"name":"oSelectTowerParent","path":"objects/oSelectTowerParent/oSelectTowerParent.yy",},},
     {"id":{"name":"oCatapult","path":"objects/oCatapult/oCatapult.yy",},},
     {"id":{"name":"oWaveManagerLevel3","path":"objects/oWaveManagerLevel3/oWaveManagerLevel3.yy",},},
+    {"id":{"name":"oTentParent","path":"objects/oTentParent/oTentParent.yy",},},
     {"id":{"name":"oDownWall","path":"objects/oDownWall/oDownWall.yy",},},
     {"id":{"name":"oCoinSpawner","path":"objects/oCoinSpawner/oCoinSpawner.yy",},},
     {"id":{"name":"sRemoveButton","path":"sprites/sRemoveButton/sRemoveButton.yy",},},
