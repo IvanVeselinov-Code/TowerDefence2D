@@ -6,6 +6,7 @@ switch(global.wave){
 		enemy_type = oBossLVL1;
 		path = "random";
 		prize += 500;
+		global.timecoins += 1;
 	break;
 	
 }

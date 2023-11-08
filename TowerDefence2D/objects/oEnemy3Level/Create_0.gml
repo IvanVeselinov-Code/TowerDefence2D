@@ -7,4 +7,4 @@ maxarmor = 100;
 followarmor= 100;
 armor = 100;
 
-sp = 2;
+sp = 2.7;

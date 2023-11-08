@@ -17,7 +17,7 @@ switch(global.wave){
 	break;
 	case 3:
 		spawn_amount = 25;
-		global.spawn_rate = room_speed * 2;
+		global.spawn_rate = room_speed * 0.5;
 		enemy_type = choose (oEnemy2Level, oEnemy3Level, oEnemy2Level, oEnemyOnHorse2Level);
 		path = "one";
 		prize = 100 * spawn_amount;
@@ -36,7 +36,6 @@ switch(global.wave){
 		path = "one";
 		prize = 100 * spawn_amount;
 		prizeTimecoins += 25;
-		global.wave = global.wave * 0;
 	break;
 }
 

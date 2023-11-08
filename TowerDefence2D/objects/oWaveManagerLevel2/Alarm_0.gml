@@ -3,7 +3,7 @@ randomize();
 switch(global.wave){
 	case 1:
 		spawn_amount = 10;
-		global.spawn_rate = room_speed * 0.5;
+		global.spawn_rate = room_speed * 1;
 		enemy_type = oEnemy1Level;
 		path = "one";
 		prize = 100 * spawn_amount;
@@ -17,7 +17,7 @@ switch(global.wave){
 	break;
 	case 3:
 		spawn_amount = 10;
-		global.spawn_rate = room_speed * 1;
+		global.spawn_rate = room_speed * 0.5;
 		enemy_type = choose (oEnemy2Level);
 		path = "1and2";
 		prize = 100 * spawn_amount;
@@ -30,37 +30,37 @@ switch(global.wave){
 		prize = 100 * spawn_amount;
 	break;
 	case 5:
-		spawn_amount = 10;
+		spawn_amount = 15;
 		global.spawn_rate = room_speed * 1;
 		enemy_type = choose(oEnemy3Level, oEnemy2Level);
 		path = "three";
-		prize = 100 * spawn_amount;
+		prize = 50 * spawn_amount;
 	break;
 	case 6:
 		spawn_amount = 20;
-		global.spawn_rate = room_speed * 1;
+		global.spawn_rate = room_speed * 0.5;
 		enemy_type = choose(oEnemy2Level, oEnemy1Level, oEnemy3Level);
 		path = "random";
 		prize = 50 * spawn_amount;
 	break;
 	case 7:
-		spawn_amount = 10;
-		global.spawn_rate = room_speed * 1;
-		enemy_type = choose(oEnemy1Level, oEnemyOnHorse2Level);
+		spawn_amount = 20;
+		global.spawn_rate = room_speed * 0.5;
+		enemy_type = choose(oEnemy1Level, oEnemyOnHorse2Level, oEnemy3Level);
 		path = "random";
-		prize = 100 * spawn_amount;
+		prize = 50 * spawn_amount;
 	break;
 	case 8:
-		spawn_amount = 15;
-		global.spawn_rate = room_speed * 1;
-		enemy_type = choose(oEnemy2Level,oEnemyOnHorse2Level);
+		spawn_amount = 20;
+		global.spawn_rate = room_speed * 0.5;
+		enemy_type = choose(oEnemy2Level,oEnemyOnHorse2Level, oEnemy3Level);
 		path = "random";
 		prize = 50 * spawn_amount;
 	break;
 	case 9:
 		spawn_amount = 30;
-		global.spawn_rate = room_speed * 1;
-		enemy_type = choose(oEnemy3Level,oEnemyOnHorse2Level,oEnemy1Level);
+		global.spawn_rate = room_speed * 0.5;
+		enemy_type = choose(oEnemy3Level,oEnemyOnHorse2Level,oEnemy2Level,oEnemy1Level);
 		path = "random";
 		prize = 50 * spawn_amount;
 	break;
