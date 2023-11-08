@@ -1,1 +1,1 @@
-draw_text(15, 15, string(percent))
+//draw_text(15, 15, string(percent))
