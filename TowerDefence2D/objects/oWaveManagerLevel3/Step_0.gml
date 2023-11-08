@@ -29,6 +29,7 @@ if(oProgressBar.followProgress = 120){
 	}
 	Saving();
 	oProgressBar.followProgress = 0;
+	global.progress = 0;
 	global.wave = 1;
 	room_goto(WhatsNext);
 }

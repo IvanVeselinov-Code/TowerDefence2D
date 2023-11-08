@@ -1,4 +1,4 @@
-show_debug_overlay(1);
+//show_debug_overlay(1);
 
 if (!audio_is_playing(MainMenuMusic)){
 	audio_play_sound(MainMenuMusic,1,true);
