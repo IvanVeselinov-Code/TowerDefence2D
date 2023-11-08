@@ -70,7 +70,6 @@ switch(global.wave){
 		enemy_type = oBossLVL1;
 		path = "random";
 		prize = 50 * spawn_amount;
-		global.wave = global.wave * 0;
 	break;
 }
 
