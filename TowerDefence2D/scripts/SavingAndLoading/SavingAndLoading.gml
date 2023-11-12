@@ -11,7 +11,6 @@ function Saving(){
 	buffer_write(buffer, buffer_string, _string);
 	buffer_save(buffer, "ok.sav")
 	buffer_delete(buffer);
-	
 }
 
 function Loading(){

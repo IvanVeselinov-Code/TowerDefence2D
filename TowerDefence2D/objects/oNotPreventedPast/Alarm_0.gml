@@ -1,4 +1,4 @@
 event_inherited();
 
-global.level = InTheCastle;
+global.level = LastLevelTroy;
 room_goto(rmScroll);
