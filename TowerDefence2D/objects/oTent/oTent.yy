@@ -11,7 +11,10 @@
     "name": "Enemies",
     "path": "folders/Objects/Gameplay/Enemies.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oTentParent",
+    "path": "objects/oTentParent/oTentParent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

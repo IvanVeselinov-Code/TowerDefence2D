@@ -32,6 +32,7 @@ if(oProgressBar.followProgress = 100){
 	}
 	Saving();
 	oProgressBar.followProgress = 0;
+	global.progress = 0;
 	global.wave = 1;
 	global.selected_tower = noone;
 	room_goto(WinnerRoom)

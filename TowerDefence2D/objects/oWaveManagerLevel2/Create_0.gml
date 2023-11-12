@@ -1,4 +1,5 @@
 instance_create_layer(0, 0, "Instances", oWaveText);
+global.wave = 1;
 spawn_amount = 5;
 spawn_count = 0;
 global.spawn_rate = room_speed * 8;
