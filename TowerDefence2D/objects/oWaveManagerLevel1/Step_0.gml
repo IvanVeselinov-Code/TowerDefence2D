@@ -23,6 +23,7 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 
 if(oProgressBar.followProgress = 100){
 	global.timecoins += 10;
+	global.progressWaves = true;
 	if (!array_contains(global.completedLevels, oTrojan1stLvlButton)){
 		array_push(global.completedLevels, oTrojan1stLvlButton);
 	}
@@ -31,9 +32,6 @@ if(oProgressBar.followProgress = 100){
 		global.unlock = "turtleshield";
 	}
 	Saving();
-	oProgressBar.followProgress = 0;
-	global.progress = 0;
-	global.wave = 1;
 	global.selected_tower = noone;
 	room_goto(WinnerRoom)
 }

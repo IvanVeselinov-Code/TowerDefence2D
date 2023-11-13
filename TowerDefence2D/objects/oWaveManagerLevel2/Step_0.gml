@@ -24,6 +24,7 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 
 if(oProgressBar.followProgress = 100){
 	global.timecoins += 20;
+	global.progressWaves = true;
 	if (!array_contains(global.completedLevels, oTrojan2ndLvlButton)){
 		array_push(global.completedLevels, oTrojan2ndLvlButton);
 	}
@@ -32,9 +33,6 @@ if(oProgressBar.followProgress = 100){
 		global.unlock = "alchemist";
 	}
 	Saving();
-	oProgressBar.followProgress = 0;
-	global.progress = 0;
-	global.wave = 1;
 	global.selected_tower = noone;
 	room_goto(WinnerRoom);
 }

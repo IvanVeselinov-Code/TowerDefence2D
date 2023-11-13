@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sTrojanLevels",
-    "path": "sprites/sTrojanLevels/sTrojanLevels.yy",
+    "name": "sTrojanShields",
+    "path": "sprites/sTrojanShields/sTrojanShields.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "WallinTheCastle",
-  "bbox_bottom": 1547,
+  "name": "Sprite75",
+  "bbox_bottom": 719,
   "bbox_left": 0,
-  "bbox_right": 448,
+  "bbox_right": 1279,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"304523d7-6572-44b0-baf6-9e4e7d20d43b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ecf701f0-52c5-45f8-97fc-f2b8dd869e69",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1548,
+  "height": 720,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d455e958-3d9c-4adc-8624-5081c4973777","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d7f5ab36-5376-4c0f-9c9a-2134602acf70","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Trevichka",
-    "path": "folders/Sprites/Trevichka.yy",
+    "name": "MainMenu",
+    "path": "folders/Sprites/MainMenu.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "WallinTheCastle",
+    "name": "Sprite75",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"304523d7-6572-44b0-baf6-9e4e7d20d43b","path":"sprites/WallinTheCastle/WallinTheCastle.yy",},},},"Disabled":false,"id":"35921a56-7e8b-4bd6-aaa9-af3813766203","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ecf701f0-52c5-45f8-97fc-f2b8dd869e69","path":"sprites/Sprite75/Sprite75.yy",},},},"Disabled":false,"id":"fff1dd8a-6f58-45ca-9aa7-6418a634943f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 449,
+  "width": 1280,
 }

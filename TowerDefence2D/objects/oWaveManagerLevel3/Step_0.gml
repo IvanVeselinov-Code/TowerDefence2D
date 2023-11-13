@@ -24,13 +24,12 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 
 if(oProgressBar.followProgress = 120){
 	global.timecoins += 30;
+	global.progressWaves = true;
 	if (!array_contains(global.completedLevels, oTrojan3dLvlButton)){
 		array_push(global.completedLevels, oTrojan3dLvlButton);
 	}
 	Saving();
-	oProgressBar.followProgress = 0;
-	global.progress = 0;
-	global.wave = 1;
 	global.selected_tower = noone;
 	room_goto(WhatsNext);
+	global.levelINF = true;
 }

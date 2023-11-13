@@ -1,7 +1,7 @@
 instance_create_layer(0, 0, "Instances", oWaveText);
 spawn_amount = 1;
 spawn_count = 0;
-global.spawn_rate = room_speed * 8;
+global.spawn_rate = room_speed * 15;
 enemy_type = noone;
 path = "one";
 pathToFollow = path;

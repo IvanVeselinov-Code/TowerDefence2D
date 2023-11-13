@@ -1,3 +1,3 @@
-if(global.timecoins >= 100){
+if(global.timecoins >= 1000){
 	room_goto(Room69);
 }

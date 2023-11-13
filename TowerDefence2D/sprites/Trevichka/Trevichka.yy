@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Trevichka",
-    "path": "folders/Rooms/Trevichka.yy",
+    "path": "folders/Sprites/Trevichka.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

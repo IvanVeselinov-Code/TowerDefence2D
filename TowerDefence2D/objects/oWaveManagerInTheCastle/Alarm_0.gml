@@ -2,7 +2,7 @@ randomize();
 
 switch(global.wave){
 	case 1:
-		spawn_amount = 5;
+		spawn_amount = 1;
 		global.spawn_rate = room_speed * 10;
 		enemy_type = oTrojanHorse;
 		path = "one";
@@ -52,16 +52,6 @@ if (spawn_count < spawn_amount and global.progressWaves){
 	if (pathToFollow = "one"){
 		instance_create_layer(oEnemySpawner.x, oEnemySpawner.y, "Instances", enemy_type);
 	}
-	else if (pathToFollow = "two"){
-		instance_create_layer(oEnemySpawner2.x, oEnemySpawner2.y, "Instances", enemy_type);
-	}
-	else if (pathToFollow = "three"){
-		instance_create_layer(oEnemySpawner3.x, oEnemySpawner3.y, "Instances", enemy_type);
-	}
-	else if (pathToFollow = "1and2"){
-		instance_create_layer(oEnemySpawner.x, oEnemySpawner.y, "Instances", enemy_type);
-		instance_create_layer(oEnemySpawner2.x, oEnemySpawner2.y, "Instances", enemy_type);
-	}
-	
+
 	alarm[0] = global.spawn_rate;
 }

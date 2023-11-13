@@ -1,4 +1,4 @@
 event_inherited();
 
 
-room_goto(global.level)
+room_goto(rmScroll)
