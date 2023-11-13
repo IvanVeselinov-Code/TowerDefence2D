@@ -25,6 +25,7 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 if(oProgressBar.followProgress = 120){
 	global.timecoins += 30;
 	global.progressWaves = true;
+	oProgressBar.followProgress = 0;
 	if (!array_contains(global.completedLevels, oTrojan3dLvlButton)){
 		array_push(global.completedLevels, oTrojan3dLvlButton);
 	}
