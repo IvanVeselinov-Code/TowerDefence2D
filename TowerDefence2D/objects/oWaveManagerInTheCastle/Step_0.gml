@@ -23,6 +23,7 @@ if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 	prizeTimecoins = 0;
 }
 if(oProgressBar.followProgress = 50){
+	global.progress = 0;
 	oProgressBar.followProgress = 0;
 	global.progressWaves = true;
 	room_goto(BeatenTheGame);

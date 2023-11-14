@@ -25,6 +25,7 @@ if(oProgressBar.followProgress = 100){
 	global.timecoins += 10;
 	global.progressWaves = true;
 	oProgressBar.followProgress = 0;
+	global.progress = 0;
 	if (!array_contains(global.completedLevels, oTrojan1stLvlButton)){
 		array_push(global.completedLevels, oTrojan1stLvlButton);
 	}
