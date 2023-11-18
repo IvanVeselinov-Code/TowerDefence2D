@@ -1,20 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oGold",
+  "name": "oTrojanHorseTheBoss",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Currencies",
-    "path": "folders/Objects/Gameplay/CurrencyAndBars(HealthProgress)/Currencies.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Gameplay/Enemies.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oEnemies_Parent",
+    "path": "objects/oEnemies_Parent/oEnemies_Parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +31,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "GoldCoin",
-    "path": "sprites/GoldCoin/GoldCoin.yy",
+    "name": "sTrojanHorseBoss",
+    "path": "sprites/sTrojanHorseBoss/sTrojanHorseBoss.yy",
   },
   "spriteMaskId": null,
   "visible": true,

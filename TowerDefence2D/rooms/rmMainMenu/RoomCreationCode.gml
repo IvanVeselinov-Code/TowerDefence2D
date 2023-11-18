@@ -26,5 +26,5 @@ global.tower_slots = 4;
 
 global.completedLevels = [];
 
+global.levelINF = noone;
 Loading();
-global.levelINF = false;
