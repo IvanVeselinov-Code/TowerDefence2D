@@ -1,4 +1,4 @@
-if (!pickupDraw and global.pausePhase){
+if (!pickupDraw and global.pausePhase and position_meeting(mouse_x, mouse_y, self)){
 	pickupDraw = true;
 }
 

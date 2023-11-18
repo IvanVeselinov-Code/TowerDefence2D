@@ -31,6 +31,7 @@
     {"name":"Shaders","order":9,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":10,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":11,"path":"folders/Sprites.yy",},
+    {"name":"Currencies","order":17,"path":"folders/Sprites/Currencies.yy",},
     {"name":"Houses","order":14,"path":"folders/Sprites/Houses.yy",},
     {"name":"MainMenu","order":5,"path":"folders/Sprites/MainMenu.yy",},
     {"name":"LevelButtons","order":10,"path":"folders/Sprites/MainMenu/LevelButtons.yy",},
@@ -47,7 +48,6 @@
     {"name":"Wood","order":7,"path":"folders/Sprites/Wood.yy",},
     {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
-    {"name":"Currencies","order":17,"path":"folders/Sprites/Currencies.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
