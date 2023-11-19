@@ -124,6 +124,7 @@
     {"name":"oNotPreventedPast","order":12,"path":"objects/oNotPreventedPast/oNotPreventedPast.yy",},
     {"name":"sRockdamage","order":4,"path":"sprites/sRockdamage/sRockdamage.yy",},
     {"name":"GoldCoin","order":2,"path":"sprites/GoldCoin/GoldCoin.yy",},
+    {"name":"Sprite79","order":18,"path":"sprites/Sprite79/Sprite79.yy",},
     {"name":"oTrojanHorse","order":17,"path":"objects/oTrojanHorse/oTrojanHorse.yy",},
     {"name":"Wood02","order":1,"path":"sprites/Wood02/Wood02.yy",},
     {"name":"sINFLevel","order":3,"path":"sprites/sINFLevel/sINFLevel.yy",},

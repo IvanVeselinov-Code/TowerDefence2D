@@ -163,6 +163,7 @@
     {"id":{"name":"oNotPreventedPast","path":"objects/oNotPreventedPast/oNotPreventedPast.yy",},},
     {"id":{"name":"sRockdamage","path":"sprites/sRockdamage/sRockdamage.yy",},},
     {"id":{"name":"GoldCoin","path":"sprites/GoldCoin/GoldCoin.yy",},},
+    {"id":{"name":"Sprite79","path":"sprites/Sprite79/Sprite79.yy",},},
     {"id":{"name":"oTrojanHorse","path":"objects/oTrojanHorse/oTrojanHorse.yy",},},
     {"id":{"name":"Wood02","path":"sprites/Wood02/Wood02.yy",},},
     {"id":{"name":"sINFLevel","path":"sprites/sINFLevel/sINFLevel.yy",},},
