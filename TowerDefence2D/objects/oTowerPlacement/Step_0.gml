@@ -9,7 +9,7 @@ x = mouse_x;
 y = mouse_y;
 move_snap(32, 32);
 
-if (oGold.gold >= placementPrice){
+if (oGold.gold >= placementPrice and oLevelStart.placed_towers < oLevelStart.max_towers){
 	if ( x > 0 and x < 2520 and y > 0 and y < 1440 and collision = 0 and
 	mouse_check_button_pressed(mb_left)){
 		var towerPlace = instance_create_layer(x, y, "Instances", tower);
