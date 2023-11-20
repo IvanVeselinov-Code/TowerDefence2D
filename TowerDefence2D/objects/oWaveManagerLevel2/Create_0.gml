@@ -1,4 +1,4 @@
-oLevelStart.waveManagerId = id;
+
 
 instance_create_layer(0, 0, "Instances", oWaveText);
 global.wave = 1;
