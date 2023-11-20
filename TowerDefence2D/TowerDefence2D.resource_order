@@ -230,6 +230,7 @@
     {"name":"oHealthBarFrame","order":1,"path":"objects/oHealthBarFrame/oHealthBarFrame.yy",},
     {"name":"oName","order":2,"path":"objects/oName/oName.yy",},
     {"name":"sBridge","order":1,"path":"sprites/sBridge/sBridge.yy",},
+    {"name":"oMiddle","order":7,"path":"objects/oMiddle/oMiddle.yy",},
     {"name":"oTurtleShieldButton","order":1,"path":"objects/oTurtleShieldButton/oTurtleShieldButton.yy",},
     {"name":"oHouse2","order":11,"path":"objects/oHouse2/oHouse2.yy",},
     {"name":"sCatapultLevel3","order":3,"path":"sprites/sCatapultLevel3/sCatapultLevel3.yy",},

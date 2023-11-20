@@ -298,6 +298,7 @@
     {"id":{"name":"oName","path":"objects/oName/oName.yy",},},
     {"id":{"name":"House1","path":"sprites/House1/House1.yy",},},
     {"id":{"name":"sBridge","path":"sprites/sBridge/sBridge.yy",},},
+    {"id":{"name":"oMiddle","path":"objects/oMiddle/oMiddle.yy",},},
     {"id":{"name":"oTurtleShieldButton","path":"objects/oTurtleShieldButton/oTurtleShieldButton.yy",},},
     {"id":{"name":"oHouse2","path":"objects/oHouse2/oHouse2.yy",},},
     {"id":{"name":"sCatapultLevel3","path":"sprites/sCatapultLevel3/sCatapultLevel3.yy",},},
