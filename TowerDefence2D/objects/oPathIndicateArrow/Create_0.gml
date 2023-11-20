@@ -1,6 +1,5 @@
 target = noone;
 
-src = oMiddle
-dst = target
-pad = 30
-inner = 60
+src = oMiddle;
+pad = 30;
+inner = 60;
