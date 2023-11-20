@@ -17,7 +17,7 @@ mp_grid_add_instances(grid, oWater, false);
 path_start(path, sp, path_action_stop, true)
 
 if (hp <= 0){
-	instance_create_layer(x, y, "Instances", oDeadEnemy1Level);
+	instance_create_layer(x, y, "Instances", oDeadBoss1Level);
 	audio_play_sound(KillSound, 10, false);
 	instance_destroy();
 }

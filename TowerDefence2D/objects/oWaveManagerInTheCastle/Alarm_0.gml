@@ -17,15 +17,15 @@ switch(global.wave){
 	break;
 	case 3:
 		spawn_amount = 25;
-		global.spawn_rate = room_speed * 1;
+		global.spawn_rate = room_speed * 0.1;
 		enemy_type = choose (oEnemy2Level, oEnemy3Level, oEnemy2Level, oEnemyOnHorse2Level);
 		path = "random";
 		prize = 100 * spawn_amount;
 	break;
 	case 4:
-		spawn_amount = 50;
-		global.spawn_rate = room_speed * 0.5;
-		enemy_type = choose(oEnemy2Level, oEnemy3Level, oEnemy1Level, oEnemyOnHorse2Level, oBossLVL1,oEnemy4Level);
+		spawn_amount = 75;
+		global.spawn_rate = room_speed * 0.1;
+		enemy_type = choose(oEnemy2Level, oEnemy3Level, oEnemyOnHorse2Level, oBossLVL1,oEnemy4Level);
 		path = "random";
 		prize = 100 * spawn_amount;
 	break;
