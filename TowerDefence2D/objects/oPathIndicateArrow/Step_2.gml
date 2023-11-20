@@ -1,5 +1,5 @@
 image_angle = point_direction(x, y, target.x, target.y);
-move_towards_point(target.x, target.y, 100);
+move_towards_point(target.x, target.y, 50);
 
 x = clamp(x, view_x + 50, view_x + view_w - 50);
 y = clamp(x, view_y + 50, view_y + view_h - 50);
