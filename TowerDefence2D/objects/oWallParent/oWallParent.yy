@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oWallinTheCastle",
+  "name": "oWallParent",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,10 +9,7 @@
     "name": "Walls",
     "path": "folders/Objects/Gameplay/Walls.yy",
   },
-  "parentObjectId": {
-    "name": "oWallParent",
-    "path": "objects/oWallParent/oWallParent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "WallinTheCastle",
-    "path": "sprites/WallinTheCastle/WallinTheCastle.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

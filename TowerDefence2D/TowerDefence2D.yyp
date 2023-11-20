@@ -187,6 +187,7 @@
     {"id":{"name":"HealingParticle","path":"objects/HealingParticle/HealingParticle.yy",},},
     {"id":{"name":"crossbow","path":"objects/crossbow/crossbow.yy",},},
     {"id":{"name":"oLimitUpgrade","path":"objects/oLimitUpgrade/oLimitUpgrade.yy",},},
+    {"id":{"name":"oWallParent","path":"objects/oWallParent/oWallParent.yy",},},
     {"id":{"name":"oEnemyDestroy","path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},},
     {"id":{"name":"oBiggerRock","path":"objects/oBiggerRock/oBiggerRock.yy",},},
     {"id":{"name":"Sprite75","path":"sprites/Sprite75/Sprite75.yy",},},

@@ -12,7 +12,10 @@
     "name": "Walls",
     "path": "folders/Objects/Gameplay/Walls.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oWallParent",
+    "path": "objects/oWallParent/oWallParent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

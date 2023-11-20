@@ -1,4 +1,4 @@
-if (place_meeting(x, y, oTowerButtonParent) or place_meeting(x, y, oTowerParent) or place_meeting(x, y, oEnemies_Parent) or place_meeting(x, y, oBridge) or place_meeting(x, y, oObsitcleParent) or place_meeting(x, y, oTentParent)){
+if (place_meeting(x, y, oTowerButtonParent) or place_meeting(x, y, oTowerParent) or place_meeting(x, y, oEnemies_Parent) or place_meeting(x, y, oBridge) or place_meeting(x, y, oObsitcleParent) or place_meeting(x, y, oTentParent) or place_meeting(x, y, oWallParent)){
 	collision = 1	
 }
 else{

@@ -145,6 +145,7 @@
     {"name":"BreakingShield","order":1,"path":"sounds/BreakingShield/BreakingShield.yy",},
     {"name":"HealingParticle","order":7,"path":"objects/HealingParticle/HealingParticle.yy",},
     {"name":"crossbow","order":2,"path":"objects/crossbow/crossbow.yy",},
+    {"name":"oWallParent","order":6,"path":"objects/oWallParent/oWallParent.yy",},
     {"name":"oEnemyDestroy","order":6,"path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},
     {"name":"Sprite75","order":13,"path":"sprites/Sprite75/Sprite75.yy",},
     {"name":"TroJanMap","order":4,"path":"rooms/TroJanMap/TroJanMap.yy",},
