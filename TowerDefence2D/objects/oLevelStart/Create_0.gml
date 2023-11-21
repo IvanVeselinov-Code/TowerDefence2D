@@ -1,5 +1,5 @@
-waveManagerId = oEnemySpawner;
-pathIndicate = false;
+//waveManagerId = oEnemySpawner;
+//pathIndicate = false;
 
 placed_towers = 0;
 max_towers = 25;

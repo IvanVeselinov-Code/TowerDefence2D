@@ -1,5 +1,5 @@
 randomize();
-oLevelStart.waveManagerId = id;
+//oLevelStart.waveManagerId = id;
 
 if (spawn_count = spawn_amount and !instance_exists(oEnemies_Parent)){
 	

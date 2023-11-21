@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oTrojanHorse",
+  "name": "oDeadEnemy4Level",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -12,10 +12,7 @@
     "name": "Enemies",
     "path": "folders/Objects/Gameplay/Enemies.yy",
   },
-  "parentObjectId": {
-    "name": "oEnemies_Parent",
-    "path": "objects/oEnemies_Parent/oEnemies_Parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sTrojanHorse",
-    "path": "sprites/sTrojanHorse/sTrojanHorse.yy",
+    "name": "sEnemy4LevelDead",
+    "path": "sprites/sEnemy4LevelDead/sEnemy4LevelDead.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -13,21 +13,7 @@ mp_grid_add_instances(grid, oObsitcleParent, false);
 path_start(path, sp, path_action_stop, true)
 
 if (hp <= 0){
-	instance_create_layer(x, y, "Instances", oDeadEnemy4Level);
-	audio_play_sound(KillSound, 10, false);
+	instance_create_layer(x, y, "Instances", oDeadTrojaHorase);
+	audio_play_sound(DeadTrojaHorse, 10, false);
 	instance_destroy();
-}
-
-
-var second = current_second;
-
-if (second != time){
-    timer++;
-}
-
-time = current_second;
-
-if (timer = 10){
-    var particle = part_system_create(ParticleSystem1);
-    part_system_position(particle, x, y);
 }
