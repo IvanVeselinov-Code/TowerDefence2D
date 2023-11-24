@@ -1,4 +1,6 @@
-
+if (flash > 0){
+	flash -= 0.05;
+}
 
 image_angle = direction;
 

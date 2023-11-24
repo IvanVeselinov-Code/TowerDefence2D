@@ -16,4 +16,10 @@ with(self){
 	
 	draw_set_halign(fa_left);
 	draw_set_valign(fa_top);
+	
+}
+if (flash > 0){
+		shader_set(shFlash);
+		draw_sprite_ext(sprite_index, image_index, x, y, image_xscale, image_yscale, image_angle, flashColor, flash);
+		shader_reset();
 }

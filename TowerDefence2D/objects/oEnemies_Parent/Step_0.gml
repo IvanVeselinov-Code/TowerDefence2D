@@ -12,6 +12,10 @@ if (!global.moveable){
 mp_grid_add_instances(grid, oObsitcleParent, false);
 path_start(path, sp, path_action_stop, true)
 
+if (flash > 0){
+	flash -= 0.05;
+}
+
 if (hp <= 0){
 	instance_create_layer(x, y, "Instances", oDeadEnemy2Level);
 	audio_play_sound(KillSound, 10, false);

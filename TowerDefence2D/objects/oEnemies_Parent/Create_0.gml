@@ -5,6 +5,8 @@ armor = 100;
 followarmor = 100;
 maxarmor = 100;
 
+flash = 0;
+flashColor = c_white;
 
 sp = 3;
 dmg = 50;

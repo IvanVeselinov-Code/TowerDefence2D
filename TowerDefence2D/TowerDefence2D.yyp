@@ -121,6 +121,7 @@
     {"id":{"name":"oAlchemistButton","path":"objects/oAlchemistButton/oAlchemistButton.yy",},},
     {"id":{"name":"RobotoMono1","path":"fonts/RobotoMono1/RobotoMono1.yy",},},
     {"id":{"name":"oResume","path":"objects/oResume/oResume.yy",},},
+    {"id":{"name":"shFlash","path":"shaders/shFlash/shFlash.yy",},},
     {"id":{"name":"oProjectileParent","path":"objects/oProjectileParent/oProjectileParent.yy",},},
     {"id":{"name":"BossLVL1","path":"sprites/BossLVL1/BossLVL1.yy",},},
     {"id":{"name":"oWaveManagerLevel2","path":"objects/oWaveManagerLevel2/oWaveManagerLevel2.yy",},},
