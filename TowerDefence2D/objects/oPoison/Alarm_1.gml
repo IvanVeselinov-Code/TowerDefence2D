@@ -8,6 +8,7 @@ with (oEnemies_Parent){
 			hp -= 5;
 		}
 	}
+	flash = 1;
 }
 
 alarm[1] = room_speed * 0.6;

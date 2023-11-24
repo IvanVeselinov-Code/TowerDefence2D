@@ -13,6 +13,7 @@ with (other){
 			hp -= other.dmg - 5;
 		}
 	}
+	flash = 1;
 }
 
 instance_create_layer(other.x, other.y, "Instances", oPoison)

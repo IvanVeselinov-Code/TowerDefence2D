@@ -5,6 +5,7 @@ with (other){
 	else{
 		hp -= other.dmg;
 	}
+	flash = 1;
 }
 
 instance_destroy();

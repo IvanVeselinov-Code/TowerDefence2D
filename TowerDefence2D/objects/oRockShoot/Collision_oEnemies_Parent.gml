@@ -21,6 +21,7 @@ with (oEnemies_Parent){
 			hp -= other.dmg - 5;
 		}
 	}
+	flash = 1;
 }
 
 instance_destroy();
