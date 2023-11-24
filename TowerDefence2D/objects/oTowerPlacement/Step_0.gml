@@ -32,3 +32,10 @@ else{
 	draw_set_alpha(1);
 	instance_destroy();
 }
+
+if (flashAlpha > 0){
+	flashAlpha -= 0.02;
+}
+else if (flashAlpha = 0){
+	flashAlpha = 1;
+}
