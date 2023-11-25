@@ -12,12 +12,13 @@ move_snap(32, 32);
 if (oGold.gold >= placementPrice and oLevelStart.placed_towers < oLevelStart.max_towers){
 	if ( x > 0 and x < 2520 and y > 0 and y < 1440 and collision = 0 and
 	mouse_check_button_pressed(mb_left)){
+		var particle4 = part_system_create(ParticleSystem3);
+		part_system_position(particle4, x, y);
 		var towerPlace = instance_create_layer(x, y, "Instances", tower);
 		with (oEnemies_Parent) {mp_grid_clear_all(grid)}
 		with (oEnemySpawnerParent) {mp_grid_clear_all(grid)}
 		oLevelStart.placed_towers++;
 		oIfPathBlocked.lastObject = towerPlace.id;
-	
 		oGold.gold -= placementPrice;
 	}
 	else if (mouse_check_button_pressed(mb_left)){

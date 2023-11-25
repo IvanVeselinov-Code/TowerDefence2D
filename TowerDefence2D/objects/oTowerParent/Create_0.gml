@@ -30,3 +30,4 @@ canShoot = true;
 target = noone;
 
 image_speed = 0;
+
