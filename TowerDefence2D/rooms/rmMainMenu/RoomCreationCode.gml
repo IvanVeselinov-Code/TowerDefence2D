@@ -27,4 +27,19 @@ global.tower_slots = 4;
 global.completedLevels = [];
 
 global.levelINF = noone;
+
+//Options variables
+global.fullscreen = true;
+
+//Loading options
+LoadingOptions();
+
+//Options
+if (global.fullscreen){
+	window_set_fullscreen(true);
+}
+else{
+	window_set_fullscreen(false);
+}
+
 Loading();
