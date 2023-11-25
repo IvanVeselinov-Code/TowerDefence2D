@@ -11,7 +11,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "MapAndZoom",
-    "path": "folders/Objects/Gameplay/MapAndZoom.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/MapAndZoom.yy",
   },
   "parentObjectId": null,
   "persistent": false,

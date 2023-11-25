@@ -6,3 +6,4 @@ if (global.selected_tower != noone){
 		oGold.gold -= global.selected_tower.upgradePrice;
 	}
 }
+instance_create_layer(global.selected_tower.x,global.selected_tower.y,"IndicatersLayer",oUpgradeAnimation);

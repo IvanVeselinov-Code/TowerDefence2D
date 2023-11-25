@@ -1,3 +1,4 @@
+event_inherited()
 if (!global.moveable){
 	//Timer for when to shoot
 	var second = current_time;

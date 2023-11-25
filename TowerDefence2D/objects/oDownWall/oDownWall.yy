@@ -10,7 +10,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Walls",
-    "path": "folders/Objects/Gameplay/Walls.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/Walls.yy",
   },
   "parentObjectId": {
     "name": "oWallParent",

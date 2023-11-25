@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Enemies",
-    "path": "folders/Objects/Gameplay/Enemies.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/Enemies.yy",
   },
   "parentObjectId": {
     "name": "oTentParent",

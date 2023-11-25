@@ -12,7 +12,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Levels",
-    "path": "folders/Objects/Gameplay/Levels.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/Levels.yy",
   },
   "parentObjectId": {
     "name": "oButtonParent",

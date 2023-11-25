@@ -10,7 +10,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Crossbow",
-    "path": "folders/Objects/Gameplay/Towers/Crossbow.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/Towers/Crossbow.yy",
   },
   "parentObjectId": {
     "name": "oTowerParent",

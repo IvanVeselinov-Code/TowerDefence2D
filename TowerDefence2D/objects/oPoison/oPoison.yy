@@ -12,7 +12,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Projectiles",
-    "path": "folders/Objects/Gameplay/Towers/Projectiles.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/Towers/Projectiles.yy",
   },
   "parentObjectId": null,
   "persistent": false,

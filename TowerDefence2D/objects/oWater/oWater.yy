@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "RocksOrTree",
-    "path": "folders/Objects/Gameplay/RocksOrTree.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/RocksOrTree.yy",
   },
   "parentObjectId": {
     "name": "oObsitcleParent",

@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "TurtleShield",
-    "path": "folders/Objects/Gameplay/Towers/TurtleShield.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/Towers/TurtleShield.yy",
   },
   "parentObjectId": {
     "name": "oTowerButtonParent",

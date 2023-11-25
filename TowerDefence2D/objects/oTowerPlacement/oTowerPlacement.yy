@@ -13,7 +13,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Towers",
-    "path": "folders/Objects/Gameplay/Towers.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/Towers.yy",
   },
   "parentObjectId": null,
   "persistent": false,

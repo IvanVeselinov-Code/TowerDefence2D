@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Catapult",
-    "path": "folders/Objects/Gameplay/Towers/Catapult.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/Towers/Catapult.yy",
   },
   "parentObjectId": {
     "name": "oTowerButtonParent",

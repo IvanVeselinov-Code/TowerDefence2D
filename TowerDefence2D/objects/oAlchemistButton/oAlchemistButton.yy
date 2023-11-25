@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Alchemist",
-    "path": "folders/Objects/Gameplay/Towers/Alchemist.yy",
+    "path": "folders/Objects/Gameplay/TrojaLevel/Towers/Alchemist.yy",
   },
   "parentObjectId": {
     "name": "oTowerButtonParent",
