@@ -7,3 +7,4 @@ if (global.selected_tower != noone){
 	}
 }
 instance_create_layer(global.selected_tower.x,global.selected_tower.y,"IndicatersLayer",oUpgradeAnimation);
+audio_play_sound(UpgradingSound, 10, false);
