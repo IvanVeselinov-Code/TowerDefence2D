@@ -11,6 +11,9 @@ draw_set_halign(fa_left);
 draw_set_valign(fa_middle);
 
 switch(setting){
+	case "master":
+		draw_text(x + 330, y, string(round(global.master_volume)));
+		break;
 	case "music":
 		draw_text(x + 330, y, string(round(global.music_volume)));
 		break;

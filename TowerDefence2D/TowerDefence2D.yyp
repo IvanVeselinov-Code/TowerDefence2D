@@ -240,6 +240,7 @@
     {"id":{"name":"MainMenuMusic","path":"sounds/MainMenuMusic/MainMenuMusic.yy",},},
     {"id":{"name":"oIfPathBlocked","path":"objects/oIfPathBlocked/oIfPathBlocked.yy",},},
     {"id":{"name":"oRock","path":"objects/oRock/oRock.yy",},},
+    {"id":{"name":"oMaterVolume","path":"objects/oMaterVolume/oMaterVolume.yy",},},
     {"id":{"name":"TimeCoins","path":"sprites/TimeCoins/TimeCoins.yy",},},
     {"id":{"name":"MainMenu","path":"sprites/MainMenu/MainMenu.yy",},},
     {"id":{"name":"oSlot","path":"objects/oSlot/oSlot.yy",},},

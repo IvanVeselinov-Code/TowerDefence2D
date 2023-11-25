@@ -29,6 +29,7 @@ global.levelINF = noone;
 
 //Options variables
 global.fullscreen = true;
+global.master_volume = 100;
 global.music_volume = 100;
 global.sound_volume = 100;
 
@@ -45,6 +46,7 @@ else{
 
 audio_group_set_gain(Music, global.music_volume / 100, 0);
 audio_group_set_gain(Sounds, global.sound_volume / 100, 0);
+audio_set_master_gain(0, global.master_volume);
 
 //Loading everything else
 Loading();

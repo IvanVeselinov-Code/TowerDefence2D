@@ -188,6 +188,7 @@
     {"name":"sGoBack","order":1,"path":"sprites/sGoBack/sGoBack.yy",},
     {"name":"MainMenuMusic","order":3,"path":"sounds/MainMenuMusic/MainMenuMusic.yy",},
     {"name":"oIfPathBlocked","order":3,"path":"objects/oIfPathBlocked/oIfPathBlocked.yy",},
+    {"name":"oMaterVolume","order":5,"path":"objects/oMaterVolume/oMaterVolume.yy",},
     {"name":"MainMenu","order":1,"path":"sprites/MainMenu/MainMenu.yy",},
     {"name":"oSlot","order":9,"path":"objects/oSlot/oSlot.yy",},
     {"name":"BeatenTheGame","order":19,"path":"rooms/BeatenTheGame/BeatenTheGame.yy",},

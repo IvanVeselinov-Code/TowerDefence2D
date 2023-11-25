@@ -11,6 +11,10 @@ if (dragged){
 }
 
 switch(setting){
+	case "master":
+		global.master_volume = amount_current;
+		audio_set_master_gain(0, amount_current / 100);
+		break;
 	case "music":
 		global.music_volume = amount_current;
 		audio_group_set_gain(Music, amount_current / 100, 0);
