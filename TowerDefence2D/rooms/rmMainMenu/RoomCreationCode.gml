@@ -1,8 +1,7 @@
 //show_debug_overlay(1);
 
-if (!audio_is_playing(MainMenuMusic)){
-	audio_play_sound(MainMenuMusic,1,true);
-}
+audio_group_load(Music);
+audio_group_load(Sounds);
 
 global.selected_tower = noone;
 global.moveable = false;
@@ -30,6 +29,8 @@ global.levelINF = noone;
 
 //Options variables
 global.fullscreen = true;
+global.music_volume = 100;
+global.sound_volume = 100;
 
 //Loading options
 LoadingOptions();
@@ -42,4 +43,8 @@ else{
 	window_set_fullscreen(false);
 }
 
+audio_group_set_gain(Music, global.music_volume / 100, 0);
+audio_group_set_gain(Sounds, global.sound_volume / 100, 0);
+
+//Loading everything else
 Loading();

@@ -1,6 +1,8 @@
 function SavingOptions(){
 	var struct = {
-		fullscreen: global.fullscreen
+		fullscreen: global.fullscreen,
+		sound: global.sound_volume,
+		music: global.music_volume
 	};
 	
 	var _string = json_stringify(struct);
@@ -19,5 +21,7 @@ function LoadingOptions(){
 		var loadData = json_parse(_string);
 		
 		global.fullscreen = loadData.fullscreen;
+		global.sound_volume = loadData.sound;
+		global.music_volume = loadData.music;
 	}
 }
