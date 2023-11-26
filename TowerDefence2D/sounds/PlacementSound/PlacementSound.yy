@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "KillSound",
+  "name": "PlacementSound",
   "audioGroupId": {
     "name": "Sounds",
     "path": "audiogroups/Sounds",
@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 1.253878,
+  "duration": 0.444062,
   "parent": {
     "name": "Sound Effects",
     "path": "folders/Sounds/Sound Effects.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "KillSound.mp3",
+  "soundFile": "PlacementSound.mp3",
   "type": 0,
-  "volume": 0.17,
+  "volume": 0.1,
 }

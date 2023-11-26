@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 2.4,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Sound Effects",
+    "path": "folders/Sounds/Sound Effects.yy",
   },
   "preload": false,
   "sampleRate": 44100,

@@ -20,6 +20,7 @@ if (oGold.gold >= placementPrice and oLevelStart.placed_towers < oLevelStart.max
 		oLevelStart.placed_towers++;
 		oIfPathBlocked.lastObject = towerPlace.id;
 		oGold.gold -= placementPrice;
+		audio_play_sound(PlacementSound, 10, false);
 	}
 	else if (mouse_check_button_pressed(mb_left)){
 		if (!instance_exists(oMessage)){
