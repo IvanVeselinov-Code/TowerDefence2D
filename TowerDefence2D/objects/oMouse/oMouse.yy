@@ -4,12 +4,13 @@
   "name": "oMouse",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "MapAndZoom",
-    "path": "folders/Objects/Gameplay/TrojaLevel/MapAndZoom.yy",
+    "path": "folders/Objects/Gameplay/MapAndZoom.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sEnemyDestroy",
+    "path": "sprites/sEnemyDestroy/sEnemyDestroy.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

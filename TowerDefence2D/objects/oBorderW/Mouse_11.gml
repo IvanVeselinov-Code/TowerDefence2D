@@ -1,0 +1,3 @@
+with (oMouse){
+	center = true;
+}
