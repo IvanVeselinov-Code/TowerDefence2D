@@ -1,4 +1,4 @@
-//show_debug_overlay(1);
+show_debug_overlay(1);
 
 audio_group_load(Music);
 audio_group_load(Sounds);

@@ -13,4 +13,3 @@ if (dragged){
 global.music_volume = amount_current;
 audio_group_set_gain(Music, amount_current / 100, 0);
 
-SavingOptions();
