@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "sEnemyDestroy",
-    "path": "sprites/sEnemyDestroy/sEnemyDestroy.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

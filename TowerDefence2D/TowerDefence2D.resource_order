@@ -31,6 +31,8 @@
     {"name":"Sequences","order":8,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":9,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":10,"path":"folders/Sounds.yy",},
+    {"name":"Music","order":10,"path":"folders/Sounds/Music.yy",},
+    {"name":"Sound Effects","order":11,"path":"folders/Sounds/Sound Effects.yy",},
     {"name":"Sprites","order":11,"path":"folders/Sprites.yy",},
     {"name":"Currencies","order":17,"path":"folders/Sprites/Currencies.yy",},
     {"name":"Houses","order":14,"path":"folders/Sprites/Houses.yy",},
@@ -51,8 +53,6 @@
     {"name":"Wood","order":7,"path":"folders/Sprites/Wood.yy",},
     {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
-    {"name":"Music","order":10,"path":"folders/Sounds/Music.yy",},
-    {"name":"Sound Effects","order":11,"path":"folders/Sounds/Sound Effects.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
