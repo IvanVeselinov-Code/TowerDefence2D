@@ -1,3 +1,3 @@
 gold = 1000;
-global.level = room;
+global.lastroom = room;
 LastRoom = room;

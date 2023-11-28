@@ -3,7 +3,7 @@ event_inherited();
 
 	
 	//room_goto(Room1Tutorial);
-global.level = Room1
+global.lastroom = Room1
     room_goto(rmScroll);
 
 

@@ -12,12 +12,11 @@ global.spawn_rate = 0;
 global.pausePhase = false;
 global.progress = 0;
 global.maxProgress = 0;
-global.level = rmMainMenu;
+global.lastroom = rmMainMenu;
 global.timecoins = 0;
 
 global.towers = [crossbow, catapult];
 global.unlock = noone;
-global.level = noone;
 
 global.drawingUI = true;
 

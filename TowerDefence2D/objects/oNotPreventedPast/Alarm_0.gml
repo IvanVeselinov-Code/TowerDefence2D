@@ -1,4 +1,4 @@
 event_inherited();
 
-global.level = LastTrojanLevel;
+global.lastroom = LastTrojanLevel;
 room_goto(rmScroll);

@@ -1,6 +1,6 @@
 event_inherited();
 
 if(global.levelINF = true){
-	global.level = Room4;
+	global.lastroom = Room4;
 	room_goto(rmScroll);
 }

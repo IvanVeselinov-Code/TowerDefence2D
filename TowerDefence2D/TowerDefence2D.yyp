@@ -263,6 +263,7 @@
     {"id":{"name":"sScroll","path":"sprites/sScroll/sScroll.yy",},},
     {"id":{"name":"sAlchemistTower","path":"sprites/sAlchemistTower/sAlchemistTower.yy",},},
     {"id":{"name":"sEnemyDestroy","path":"sprites/sEnemyDestroy/sEnemyDestroy.yy",},},
+    {"id":{"name":"oBack","path":"objects/oBack/oBack.yy",},},
     {"id":{"name":"oSmallCoin","path":"objects/oSmallCoin/oSmallCoin.yy",},},
     {"id":{"name":"sRock","path":"sprites/sRock/sRock.yy",},},
     {"id":{"name":"EasyTownTrojan","path":"sprites/EasyTownTrojan/EasyTownTrojan.yy",},},

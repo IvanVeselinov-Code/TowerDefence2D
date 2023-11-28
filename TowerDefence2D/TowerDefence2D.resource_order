@@ -207,6 +207,7 @@
     {"name":"sTrojanLevels","order":2,"path":"sprites/sTrojanLevels/sTrojanLevels.yy",},
     {"name":"OptionsSavingAndLoading","order":4,"path":"scripts/OptionsSavingAndLoading/OptionsSavingAndLoading.yy",},
     {"name":"sScroll","order":1,"path":"sprites/sScroll/sScroll.yy",},
+    {"name":"oBack","order":9,"path":"objects/oBack/oBack.yy",},
     {"name":"oSmallCoin","order":15,"path":"objects/oSmallCoin/oSmallCoin.yy",},
     {"name":"EasyTownTrojan","order":4,"path":"sprites/EasyTownTrojan/EasyTownTrojan.yy",},
     {"name":"oHouse1","order":10,"path":"objects/oHouse1/oHouse1.yy",},
