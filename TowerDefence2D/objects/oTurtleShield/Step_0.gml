@@ -1,11 +1,4 @@
-if (global.pausePhase and global.moveable and pickup >= 100){
-	if (!mouse_check_button_released(mb_left) and released = 1){
-		x = mouse_x;
-		y = mouse_y;
-		move_snap(32, 32);
-	}
-}
-
+event_inherited();
 if (!global.moveable){
 	//Timer for when to shoot
 	var second = current_time;
@@ -29,7 +22,7 @@ if (!global.moveable){
             if (canShoot = true){
 
                 canShoot = false;
-                alarm_set(0, room_speed * fireRate);
+                alarm_set(0, room_speed * (fireRate * o2xSpeed.sp));
 				
 				var projectileShoot = instance_create_layer(x, y, "Instances", projectile);
 				projectileShoot.dmg = dmg;

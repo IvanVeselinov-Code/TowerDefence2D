@@ -37,11 +37,11 @@ if (!global.moveable){
 		}
 		else{
 			var pointdir = point_direction(x, y, target.x, target.y);
-			if (rotating) {image_angle += sin(degtorad(pointdir - image_angle)) * 5;}
+			if (rotating) {image_angle += sin(degtorad(pointdir - image_angle)) * (5 * o2xSpeed.sp);}
 			
 			if (canShoot = true){
 				canShoot = false;
-				alarm_set(0, room_speed * fireRate);
+				alarm_set(0, room_speed * (fireRate * o2xSpeed.sp));
 				image_speed = 1;
 				
 				var projectileShoot = instance_create_layer(x, y, "Instances", projectile);

@@ -12,7 +12,7 @@ if (!global.moveable){
 	mp_grid_add_instances(grid, oTowerParent, false);
 }
 mp_grid_add_instances(grid, oObsitcleParent, false);
-path_start(path, sp, path_action_stop, true)
+path_start(path, sp * o2xSpeed.sp, path_action_stop, true)
 
 if (hp <= 0){
 	instance_create_layer(x, y, "Instances", oDeadTrojaHorase);

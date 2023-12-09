@@ -15,7 +15,7 @@ global.maxProgress = 0;
 global.lastroom = rmMainMenu;
 global.timecoins = 0;
 
-global.towers = [crossbow, catapult];
+global.towers = [crossbow, catapult, turtleshield, alhemist];
 global.unlock = noone;
 
 global.drawingUI = true;

@@ -77,7 +77,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.11.0.121",
   },
   "resources": [
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
@@ -216,6 +216,7 @@
     {"id":{"name":"oLimitUpgrade","path":"objects/oLimitUpgrade/oLimitUpgrade.yy",},},
     {"id":{"name":"oWallParent","path":"objects/oWallParent/oWallParent.yy",},},
     {"id":{"name":"oEnemyDestroy","path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},},
+    {"id":{"name":"o2xSpeed","path":"objects/o2xSpeed/o2xSpeed.yy",},},
     {"id":{"name":"oBiggerRock","path":"objects/oBiggerRock/oBiggerRock.yy",},},
     {"id":{"name":"oBorderW","path":"objects/oBorderW/oBorderW.yy",},},
     {"id":{"name":"Sprite75","path":"sprites/Sprite75/Sprite75.yy",},},

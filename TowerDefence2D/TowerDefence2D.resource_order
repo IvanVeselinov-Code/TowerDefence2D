@@ -170,6 +170,7 @@
     {"name":"crossbow","order":2,"path":"objects/crossbow/crossbow.yy",},
     {"name":"oWallParent","order":6,"path":"objects/oWallParent/oWallParent.yy",},
     {"name":"oEnemyDestroy","order":6,"path":"objects/oEnemyDestroy/oEnemyDestroy.yy",},
+    {"name":"o2xSpeed","order":9,"path":"objects/o2xSpeed/o2xSpeed.yy",},
     {"name":"oBorderW","order":6,"path":"objects/oBorderW/oBorderW.yy",},
     {"name":"Sprite75","order":13,"path":"sprites/Sprite75/Sprite75.yy",},
     {"name":"TroJanMap","order":4,"path":"rooms/TroJanMap/TroJanMap.yy",},
