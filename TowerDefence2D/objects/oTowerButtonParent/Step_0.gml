@@ -9,14 +9,18 @@ if (mouse_check_button_pressed(mb_left)){
 			oTowerPlacement.placementPrice = placementPrice;
 			oTowerPlacement.image_speed = 0
 			instance_create_layer(0, 0, "Instances", oGridDraw);
+			instance_create_layer(0, 0, "Instances", AlphaObject);
+			AlphaObject.imagealpha = true;
+
 		}
-		else{
+		else {
 			if (oGold.gold < placementPrice){
 				if (!instance_exists(oMessage)){
 					instance_create_layer(640, 160, layer, oMessage);
 					oMessage.t = "Not enough gold!";
 				}
 			}
+			
 			else if (oLevelStart.placed_towers = oLevelStart.max_towers){
 				if (!instance_exists(oMessage)){
 					instance_create_layer(640, 160, layer, oMessage);

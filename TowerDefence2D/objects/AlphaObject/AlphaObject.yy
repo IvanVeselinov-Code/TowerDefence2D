@@ -1,16 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oCoinSpawner",
+  "name": "AlphaObject",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MainMenuAndButtons",
-    "path": "folders/Objects/MainMenuAndButtons.yy",
+    "name": "RocksOrTree",
+    "path": "folders/Objects/Gameplay/TrojaLevel/RocksOrTree.yy",
   },
   "parentObjectId": null,
   "persistent": false,
