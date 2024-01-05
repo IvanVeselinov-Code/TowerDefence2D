@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sTrojanButton",
-    "path": "sprites/sTrojanButton/sTrojanButton.yy",
+    "name": "ButtonTroja",
+    "path": "sprites/ButtonTroja/ButtonTroja.yy",
   },
   "spriteMaskId": null,
   "visible": true,

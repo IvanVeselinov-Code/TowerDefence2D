@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "MainMenu",
-  "bbox_bottom": 827,
+  "bbox_bottom": 1079,
   "bbox_left": 0,
-  "bbox_right": 1423,
+  "bbox_right": 1919,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6db658ec-7748-4908-a39b-7c1d5c63b62e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a06a01fd-7c4d-4eec-ad58-671941af16e3",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 828,
+  "height": 1080,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7ea9be64-0960-4676-9255-dc74f90dcb63","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"db7a3b15-e0a1-4af7-a0e5-04b9881e5db4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6db658ec-7748-4908-a39b-7c1d5c63b62e","path":"sprites/MainMenu/MainMenu.yy",},},},"Disabled":false,"id":"066f7cab-e233-4952-9203-bed0fb866de2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a06a01fd-7c4d-4eec-ad58-671941af16e3","path":"sprites/MainMenu/MainMenu.yy",},},},"Disabled":false,"id":"349f5e0e-b907-48a4-b30b-40fd3ded9a8f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1424,
+  "width": 1920,
 }

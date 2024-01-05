@@ -1,1 +1,1 @@
-room_goto(global.lastroom);
+room_goto(rmMainMenu);

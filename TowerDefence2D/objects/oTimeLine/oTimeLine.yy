@@ -29,10 +29,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "TimeLine",
-    "path": "sprites/TimeLine/TimeLine.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

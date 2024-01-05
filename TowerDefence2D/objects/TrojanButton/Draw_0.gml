@@ -1,5 +1,5 @@
 
-if(oTimeLine.Animation_stopped = true){
+if(layer_sequence_is_finished(TimeLineSequance)){
 	draw_self();
 
 	draw_set_font(font);

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "TimeLine",
-  "bbox_bottom": 1079,
+  "name": "WinnerScreen",
+  "bbox_bottom": 719,
   "bbox_left": 0,
-  "bbox_right": 1919,
+  "bbox_right": 1279,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9db6ecca-4253-4a10-8663-cc0a8afd8df1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ecf701f0-52c5-45f8-97fc-f2b8dd869e69",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1080,
+  "height": 720,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"dbab9ac3-895f-44d7-87a3-d5cfaa04088b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d7f5ab36-5376-4c0f-9c9a-2134602acf70","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "TimeLine",
+    "name": "WinnerScreen",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9db6ecca-4253-4a10-8663-cc0a8afd8df1","path":"sprites/TimeLine/TimeLine.yy",},},},"Disabled":false,"id":"2fed679f-1c3a-4751-96e0-1d3ca59572e6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ecf701f0-52c5-45f8-97fc-f2b8dd869e69","path":"sprites/WinnerScreen/WinnerScreen.yy",},},},"Disabled":false,"id":"fff1dd8a-6f58-45ca-9aa7-6418a634943f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1920,
+  "width": 1280,
 }
