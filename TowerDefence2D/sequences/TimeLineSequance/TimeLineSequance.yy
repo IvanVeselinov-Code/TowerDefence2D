@@ -53,7 +53,7 @@
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.46666667,"y":-320.6,},
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":-320.6,},
                           ],"visible":true,},
-                      ],"function":1,},"RealValue":0.0,},"1":{"resourceType":"RealKeyframe","resourceVersion":"1.0","AnimCurveId":null,"EmbeddedAnimCurve":{"resourceType":"GMAnimCurve","resourceVersion":"1.2","name":"Position","channels":[
+                      ],"function":1,},"RealValue":0.0,},"1":{"resourceType":"RealKeyframe","resourceVersion":"1.0","AnimCurveId":null,"EmbeddedAnimCurve":{"resourceType":"GMAnimCurve","resourceVersion":"1.2","name":"","channels":[
                         {"resourceType":"GMAnimCurveChannel","resourceVersion":"1.0","name":"x","colour":4290799884,"points":[
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":-578.0,},
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.46666667,"y":-578.0,},
@@ -83,7 +83,7 @@
                             {"th0":-0.10333333,"th1":0.0033333302,"tv0":0.0,"tv1":0.0,"x":0.98333335,"y":0.25,},
                             {"th0":-0.0033333302,"th1":0.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":0.25,},
                           ],"visible":true,},
-                      ],"function":1,},"RealValue":0.0,},"1":{"resourceType":"RealKeyframe","resourceVersion":"1.0","AnimCurveId":null,"EmbeddedAnimCurve":{"resourceType":"GMAnimCurve","resourceVersion":"1.2","name":"Scale","channels":[
+                      ],"function":1,},"RealValue":0.0,},"1":{"resourceType":"RealKeyframe","resourceVersion":"1.0","AnimCurveId":null,"EmbeddedAnimCurve":{"resourceType":"GMAnimCurve","resourceVersion":"1.2","name":"","channels":[
                         {"resourceType":"GMAnimCurveChannel","resourceVersion":"1.0","name":"x","colour":4290799884,"points":[
                             {"th0":0.0,"th1":0.093333334,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.1,},
                             {"th0":-0.093333334,"th1":0.10333333,"tv0":0.0,"tv1":0.0,"x":0.46666667,"y":0.1,},
@@ -115,7 +115,7 @@
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":-320.6046,},
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":-320.6046,},
                           ],"visible":true,},
-                      ],"function":0,},"RealValue":0.0,},"1":{"resourceType":"RealKeyframe","resourceVersion":"1.0","AnimCurveId":null,"EmbeddedAnimCurve":{"resourceType":"GMAnimCurve","resourceVersion":"1.2","name":"Position","channels":[
+                      ],"function":0,},"RealValue":0.0,},"1":{"resourceType":"RealKeyframe","resourceVersion":"1.0","AnimCurveId":null,"EmbeddedAnimCurve":{"resourceType":"GMAnimCurve","resourceVersion":"1.2","name":"","channels":[
                         {"resourceType":"GMAnimCurveChannel","resourceVersion":"1.0","name":"x","colour":4290799884,"points":[
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":-578.0,},
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":-578.0,},
@@ -134,23 +134,23 @@
                         {"resourceType":"GMAnimCurveChannel","resourceVersion":"1.0","name":"x","colour":4290799884,"points":[
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":1.506154,},
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.45,"y":3.0,},
-                            {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.99999833,"y":3.0,},
+                            {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":3.0,},
                           ],"visible":true,},
                         {"resourceType":"GMAnimCurveChannel","resourceVersion":"1.0","name":"y","colour":4281083598,"points":[
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":1.5061541,},
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.45,"y":3.0,},
-                            {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.99999833,"y":3.0,},
+                            {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":3.0,},
                           ],"visible":true,},
-                      ],"function":1,},"RealValue":0.0,},"1":{"resourceType":"RealKeyframe","resourceVersion":"1.0","AnimCurveId":null,"EmbeddedAnimCurve":{"resourceType":"GMAnimCurve","resourceVersion":"1.2","name":"Scale","channels":[
+                      ],"function":1,},"RealValue":0.0,},"1":{"resourceType":"RealKeyframe","resourceVersion":"1.0","AnimCurveId":null,"EmbeddedAnimCurve":{"resourceType":"GMAnimCurve","resourceVersion":"1.2","name":"","channels":[
                         {"resourceType":"GMAnimCurveChannel","resourceVersion":"1.0","name":"x","colour":4290799884,"points":[
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":1.506154,},
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.45,"y":3.0,},
-                            {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.99999833,"y":3.0,},
+                            {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":3.0,},
                           ],"visible":true,},
                         {"resourceType":"GMAnimCurveChannel","resourceVersion":"1.0","name":"y","colour":4281083598,"points":[
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":1.5061541,},
                             {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.45,"y":3.0,},
-                            {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.99999833,"y":3.0,},
+                            {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":3.0,},
                           ],"visible":true,},
                       ],"function":1,},"RealValue":0.0,},},"Disabled":false,"id":"a8bb241a-ed34-4c3c-a0a0-480dcb8e6ccd","IsCreationKey":false,"Key":0.0,"Length":60.0,"Stretch":false,},
             ],},"modifiers":[],"trackColour":4294075208,"tracks":[],"traits":0,},

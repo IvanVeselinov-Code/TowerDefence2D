@@ -22,3 +22,4 @@ if(imagealpha = true)
 				oTent.image_alpha = 1;
 				oBigTent.image_alpha = 1;
 			}
+			
