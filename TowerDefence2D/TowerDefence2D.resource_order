@@ -40,7 +40,6 @@
     {"name":"LevelButtons","order":10,"path":"folders/Sprites/MainMenu/LevelButtons.yy",},
     {"name":"Options","order":14,"path":"folders/Sprites/MainMenu/Options.yy",},
     {"name":"MapAndZoom","order":19,"path":"folders/Sprites/MapAndZoom.yy",},
-    {"name":"Rocks","order":1,"path":"folders/Sprites/Rocks.yy",},
     {"name":"Scroll","order":10,"path":"folders/Sprites/Scroll.yy",},
     {"name":"Towers","order":2,"path":"folders/Sprites/Towers.yy",},
     {"name":"Alchemist Tower","order":13,"path":"folders/Sprites/Towers/Alchemist Tower.yy",},
@@ -56,7 +55,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
-    {"name":"oRock1","order":2,"path":"objects/oRock1/oRock1.yy",},
     {"name":"SavingAndLoading","order":3,"path":"scripts/SavingAndLoading/SavingAndLoading.yy",},
     {"name":"oSelectTowerParent","order":8,"path":"objects/oSelectTowerParent/oSelectTowerParent.yy",},
     {"name":"oWaveManagerLevel3","order":5,"path":"objects/oWaveManagerLevel3/oWaveManagerLevel3.yy",},
@@ -91,7 +89,6 @@
     {"name":"sPotion","order":1,"path":"sprites/sPotion/sPotion.yy",},
     {"name":"sEnemy3Level","order":5,"path":"sprites/sEnemy3Level/sEnemy3Level.yy",},
     {"name":"sRockdamage3lvl","order":5,"path":"sprites/sRockdamage3lvl/sRockdamage3lvl.yy",},
-    {"name":"sRock1","order":1,"path":"sprites/sRock1/sRock1.yy",},
     {"name":"oTimeCurrency","order":1,"path":"objects/oTimeCurrency/oTimeCurrency.yy",},
     {"name":"oEnemy4Level","order":16,"path":"objects/oEnemy4Level/oEnemy4Level.yy",},
     {"name":"oPlay","order":1,"path":"objects/oPlay/oPlay.yy",},
