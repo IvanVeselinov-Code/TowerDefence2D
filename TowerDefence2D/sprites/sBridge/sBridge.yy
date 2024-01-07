@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Water",
-    "path": "folders/Sprites/Obsticles/Water.yy",
+    "name": "Obsticles",
+    "path": "folders/Sprites/Obsticles.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

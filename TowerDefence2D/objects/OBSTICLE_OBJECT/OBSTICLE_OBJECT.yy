@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Tree",
+  "name": "OBSTICLE_OBJECT",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -27,10 +27,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "Wood02",
-    "path": "sprites/Wood02/Wood02.yy",
+    "name": "OBSTICLE_SPRITE",
+    "path": "sprites/OBSTICLE_SPRITE/OBSTICLE_SPRITE.yy",
   },
   "spriteMaskId": null,
   "visible": true,

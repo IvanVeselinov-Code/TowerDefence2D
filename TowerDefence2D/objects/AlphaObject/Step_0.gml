@@ -4,8 +4,6 @@ if(imagealpha = true)
 				oHealthBarFrame.image_alpha = 0.1;
 				oTowerRoll.image_alpha = 0.1;
 				oTowerButtonParent.image_alpha = 0.5;
-				oTent.image_alpha = 0.5;
-				oBigTent.image_alpha = 0.5;
 			}
 			else
 			{
@@ -13,7 +11,5 @@ if(imagealpha = true)
 				oHealthBarFrame.image_alpha = 1;
 				oTowerRoll.image_alpha = 1;
 				oTowerButtonParent.image_alpha = 1;
-				oTent.image_alpha = 1;
-				oBigTent.image_alpha = 1;
 			}
 			
