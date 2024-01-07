@@ -50,7 +50,7 @@
   "origin": 0,
   "parent": {
     "name": "Water",
-    "path": "folders/Sprites/Water.yy",
+    "path": "folders/Sprites/Obsticles/Water.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

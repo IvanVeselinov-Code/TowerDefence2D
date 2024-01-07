@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Wood",
-    "path": "folders/Sprites/Wood.yy",
+    "path": "folders/Sprites/Obsticles/Wood.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
