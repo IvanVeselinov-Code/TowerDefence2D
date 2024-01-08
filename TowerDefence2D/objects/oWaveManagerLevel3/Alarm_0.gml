@@ -110,8 +110,5 @@ if (spawn_count < spawn_amount and global.progressWaves){
 		instance_create_layer(oEnemySpawner.x, oEnemySpawner.y, "Instances", enemy_type);
 		instance_create_layer(oEnemySpawner2.x, oEnemySpawner2.y, "Instances", enemy_type);
 	}
-	
-	oTent.image_speed = 1;
-	
 	alarm[0] = global.spawn_rate;
 }

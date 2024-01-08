@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Rom69",
-  "bbox_bottom": 719,
+  "name": "BackGroundTrevichka",
+  "bbox_bottom": 1547,
   "bbox_left": 0,
-  "bbox_right": 1279,
+  "bbox_right": 2451,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"043a4e3d-259c-4c2b-9e7b-2d5df6aec277",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3249cbf3-17ab-4ccf-81d4-23694ce5901a",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 720,
+  "height": 1548,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"efc66d96-6d85-4dfd-a5ff-76cecd9f7542","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f7ee534f-2893-4c4d-b373-6b76dd9d85ed","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Trevichka",
+    "path": "folders/Sprites/Trevichka.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Rom69",
+    "name": "BackGroundTrevichka",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"043a4e3d-259c-4c2b-9e7b-2d5df6aec277","path":"sprites/Rom69/Rom69.yy",},},},"Disabled":false,"id":"ba652b86-9c43-4442-8ba7-75c652d3cd27","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3249cbf3-17ab-4ccf-81d4-23694ce5901a","path":"sprites/BackGroundTrevichka/BackGroundTrevichka.yy",},},},"Disabled":false,"id":"b3cf00e2-583e-4b14-b9fd-1cda05faf413","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1280,
+  "width": 2452,
 }

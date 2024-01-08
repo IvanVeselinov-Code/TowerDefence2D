@@ -53,8 +53,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "Trevichka",
-    "path": "sprites/Trevichka/Trevichka.yy",
+    "name": "TileTrevichka",
+    "path": "sprites/TileTrevichka/TileTrevichka.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
