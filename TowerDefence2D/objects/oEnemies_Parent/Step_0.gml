@@ -15,7 +15,7 @@ if (flash > 0){
 }
 
 if (hp <= 0){
-	instance_create_layer(x, y, "EnemySpawns", oDeadEnemy2Level);
+	instance_create_layer(x, y, "Instances", oDeadEnemy2Level);
 	audio_play_sound(KillSound, 10, false);
 	instance_destroy();
 }
