@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "RocksOrTree",
-    "path": "folders/Objects/Gameplay/TrojaLevel/RocksOrTree.yy",
+    "name": "OBSTICLES",
+    "path": "folders/Objects/Gameplay/TrojaLevel/OBSTICLES.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -10,7 +10,7 @@
     {"name":"TrojaLevel","order":5,"path":"folders/Objects/Gameplay/TrojaLevel.yy",},
     {"name":"Enemies","order":1,"path":"folders/Objects/Gameplay/TrojaLevel/Enemies.yy",},
     {"name":"Levels","order":4,"path":"folders/Objects/Gameplay/TrojaLevel/Levels.yy",},
-    {"name":"RocksOrTree","order":2,"path":"folders/Objects/Gameplay/TrojaLevel/RocksOrTree.yy",},
+    {"name":"OBSTICLES","order":2,"path":"folders/Objects/Gameplay/TrojaLevel/OBSTICLES.yy",},
     {"name":"Alchemist","order":7,"path":"folders/Objects/Gameplay/TrojaLevel/Towers/Alchemist.yy",},
     {"name":"Catapult","order":9,"path":"folders/Objects/Gameplay/TrojaLevel/Towers/Catapult.yy",},
     {"name":"Crossbow","order":8,"path":"folders/Objects/Gameplay/TrojaLevel/Towers/Crossbow.yy",},
