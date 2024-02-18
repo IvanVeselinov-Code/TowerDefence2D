@@ -23,7 +23,7 @@ global.drawingUI = true;
 
 global.tower_slots = 4;
 
-global.completedLevels = [oTrojan1stLvlButton, oTrojan2ndLvlButton];
+global.completedLevels = [];
 
 global.levelINF = noone;
 

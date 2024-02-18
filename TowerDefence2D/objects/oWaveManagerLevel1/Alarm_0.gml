@@ -9,21 +9,21 @@ switch(global.wave){
 		prize = 100 * spawn_amount;
 	break;
 	case 2:
-		spawn_amount = 10;
+		spawn_amount = 5;
 		global.spawn_rate = room_speed * 0.5;
 		enemy_type = choose(oEnemy1Level);
-		path = "1and2";
+		path = "one";
 		prize = 100 * spawn_amount;
 	break;
 	case 3:
 		spawn_amount = 5;
 		global.spawn_rate = room_speed * 0.5;
 		enemy_type = choose (oEnemy2Level);
-		path = "1and2";
+		path = "one";
 		prize = 100 * spawn_amount;
 	break;
 	case 4:
-		spawn_amount = 20;
+		spawn_amount = 10;
 		global.spawn_rate = room_speed * 0.5;
 		enemy_type = choose(oEnemy2Level, oEnemy1Level);
 		path = "1and2";
